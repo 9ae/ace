@@ -1,0 +1,8 @@
+Adeline & Alan Hart's parents were British diplomats and they met Yi Han when their family was stationed in HK.
+They attend a school for "gifted" students.
+
+Yi Han was there because he had perfect memory. YiHan's older brother was a naval officer.
+
+Ada & Yi Han, do hardware and info gathering. Ada's skill at the gambling table makes her able to mix well in the dens, when she needs to find out information and make weagers. Yi Han's charm, and compulsive white lying helps him getting people to open up to him, because he does seem genuine and kismetically connected to them.
+
+Alan cryptography and like to make large over the top machines.
