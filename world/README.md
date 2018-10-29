@@ -14,3 +14,6 @@ Wow this makes Vive, kind off a terrible person. Spiteful, blind sighted, and en
 She cares a lot about protecting Sici.  She is power hungry, but kind. **She does not believe in being a bystander, she will go out of the way to protect strangers.   That is how she and Zaki first met.**
 
 If Ace leads the org, and Yule becomes the highest general of the Church, who leads the gov? … Chelsea… will she live to hide her relationship with Helga? Or will Helga be hiding it from the rest of the org?
+
+gov ~ corrupted by greed, ruled by an privleged class.
+church ~ use disenfranchised people to gain power
