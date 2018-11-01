@@ -13,7 +13,7 @@ function countWords(path, filename ){
   var count = wordcount(file);
   total += count;
   let tabs = "\t";
-  console.log(`${filename}:${tabs}${count} words`);
+  console.log(`* ${filename}:${tabs}${count} words`);
 }
 
 function countDir(dirname) {
@@ -25,6 +25,7 @@ function countDir(dirname) {
   }
 }
 
+console.log(new Date().toLocaleString());
 countDir('chapters');
 countDir('drabbles');
-console.log('TOTAL = '+total);
+console.log('**TOTAL = '+total+"**");
