@@ -28,4 +28,4 @@ function countDir(dirname) {
 console.log(new Date().toLocaleString());
 countDir('chapters');
 countDir('drabbles');
-console.log('**TOTAL = '+total+"**");
+console.log('\n**TOTAL = '+total+"**");
