@@ -7,13 +7,14 @@ const wordcount = require('wordcount');
 
 
 var total = 0;
+var results = [new Date().toLocaleString()];
 
 function countWords(path, filename ){
   var file = fs.readFileSync(path + filename, "utf8");
   var count = wordcount(file);
   total += count;
   let tabs = "\t";
-  console.log(`* ${filename}:${tabs}${count} words`);
+  results.push(`* ${filename}:${tabs}${count} words`);
 }
 
 function countDir(dirname) {
@@ -25,7 +26,16 @@ function countDir(dirname) {
   }
 }
 
-console.log(new Date().toLocaleString());
 countDir('chapters');
 countDir('drabbles');
-console.log('\n**TOTAL = '+total+"**");
+results.push('\n**TOTAL = '+total+"**\n\n");
+
+var all = results.join('\n');
+fs.appendFile(
+  'notes/nanowrimo.md',
+  all,
+  'utf8',
+  function(err){ if (err) console.log(err) }
+)
+
+console.log(all);
