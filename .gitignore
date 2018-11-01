@@ -1,4 +1,3 @@
-counter.js
 package-lock.json
 package.json
-node_nodules/*
+node_modules/
