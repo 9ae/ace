@@ -17,3 +17,20 @@ If Ace leads the org, and Yule becomes the highest general of the Church, who le
 
 gov ~ corrupted by greed, ruled by an privleged class.
 church ~ use disenfranchised people to gain power
+
+# Places
+Fictional Germany : Galie
+  Berlin : Illyria
+  Dresden : Ivonne
+
+Fictional  Italy : Atonia
+  Verona : Ravenna
+  Venice : Desdemon
+
+Fictional Japan : Tsuon
+
+Fictional China : Hanon
+  Shanghai : Xiazhou
+
+Fictional UK : Cheryland
+  Bristol : Wickshire

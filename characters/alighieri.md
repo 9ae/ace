@@ -7,3 +7,7 @@ Because kindnapping of the girls for ransom was always a constant threat.
 Viva used her skills to survive in the forrest during the years she was alone.
 
 Ace was initially after gov officials because they seemd to be Les's clientele.
+
+Illyria - mother
+Nomaru - father
+Ardino - uncle
