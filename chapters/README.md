@@ -1,13 +1,14 @@
 # Outline
 
 1. Ace and Zaki meet.
-  - Wilde siblings intro, when Ace goes over to collect updates about Lessa' murder.
+  - [ ] Wilde siblings intro, when Ace goes over to collect updates about Lessa' murder.
   - Focuses on all the issues in the city, the gov failed to solve.
 2. We look into the homeless issue that the church is causing.
-  - Zaki and Sicili meet.
-  - Alan meets Adolf.
+  - [ ] Zaki and Sicili meet
+  - [ ] Fb: How Vivo ends up as a crusader
   - the church starts to swoop in to build abandoned lands in the city
-  - intersection of mental illness and homeless. the nation used to the most welcoming country in the area, so it welcomed lots of refugees, but did not have the structure to house/educated/hire them.
+   intersection of mental illness and homeless. the nation used to the most welcoming country in the area, so it welcomed lots of refugees, but did not have the structure to house/educated/hire them.
+  - [ ] Alan meets Adolf.
 3. war between church and gov starts
 4. Ada & Yihan go on their adventure.
 5. The Alighieri sisters discovers Zaki had killed Lesbia. Alan gets fired from the gov.
