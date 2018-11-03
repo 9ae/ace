@@ -31,3 +31,19 @@
 
 **TOTAL = 1651**
 
+2018-11-3 00:48:38
+* 01.md:	90 words
+* 02.md:	1025 words
+* 03.md:	12 words
+* README.md:	300 words
+* README.md:	84 words
+* alan_adolf.md:	115 words
+* yule.md:	0 words
+* zaki_family_raid.md:	409 words
+* README.md:	292 words
+* church.md:	290 words
+* gov.md:	0 words
+* org.md:	0 words
+
+**TOTAL = 2617**
+

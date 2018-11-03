@@ -21,13 +21,14 @@ function countDir(dirname) {
   let items = fs.readdirSync("./"+dirname)
   for( let ix in items ){
     let item = items[ix];
-    if (item === 'README.md') continue;
+    // if (item === 'README.md') continue;
     countWords(dirname+"/", item);
   }
 }
 
 countDir('chapters');
 countDir('drabbles');
+countDir('world');
 results.push('\n**TOTAL = '+total+"**\n\n");
 
 var all = results.join('\n');
@@ -65,7 +66,7 @@ if (process.argv.includes('send')) {
     };
 
   console.log(data);
-  
+
   req.put(
     { url: url,
       formData: data
@@ -82,4 +83,3 @@ if (process.argv.includes('send')) {
 }
 
 console.log(all);
-
