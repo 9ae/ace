@@ -65,8 +65,6 @@ if (process.argv.includes('send')) {
       wordcount: total
     };
 
-  console.log(data);
-
   req.put(
     { url: url,
       formData: data
