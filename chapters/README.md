@@ -9,10 +9,10 @@
   - the church starts to swoop in to build abandoned lands in the city
    intersection of mental illness and homeless. the nation used to the most welcoming country in the area, so it welcomed lots of refugees, but did not have the structure to house/educated/hire them.
   - [ ] Alan meets Adolf.
-3. war between church and gov starts
+3. war between church and gov starts.
 4. Ada & Yihan go on their adventure to find Madelaine. ~ we explore the expansiveness of the church's power
   - [ ] Flashback to Ace & Yule's time working for the church.
-  - [ ] Ace and Yule end up having to hide at place for the night
+  - [ ] Ada and Yihan end up having to hide at place for the night
 5. ()
   - [ ] Alan attempts to get Adolf to quit sex work.
   - [ ] The team finds a way to blackmail Madame Juliette
