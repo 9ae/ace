@@ -20,11 +20,11 @@ church ~ use disenfranchised people to gain power
 
 # Places
 Fictional Germany : Galie
-  Berlin : Illyria
+  Berlin : Ixan
   Dresden : Ivonne
 
 Fictional  Italy : Atonia
-  Verona : Ravenna
+  Verona : Renova
   Venice : Desdemon
 
 Fictional Japan : Tsuon

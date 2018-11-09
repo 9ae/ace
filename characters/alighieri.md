@@ -11,3 +11,7 @@ Ace was initially after gov officials because they seemd to be Les's clientele.
 Illyria - mother
 Nomaru - father
 Ardino - uncle
+
+Sici ~ Libra,
+Vivo ~ Aquarius
+Lessa ~ Scorpio
