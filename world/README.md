@@ -19,7 +19,7 @@ gov ~ corrupted by greed, ruled by an privleged class.
 church ~ use disenfranchised people to gain power
 
 # Places
-Fictional Germany : Galie
+Fictional Germany : Galei
   Berlin : Ixan
   Dresden : Ivonne
 
@@ -28,6 +28,8 @@ Fictional  Italy : Atonia
   Venice : Desdemon
 
 Fictional Japan : Tsuon
+
+Fictional Iran : Hastuit
 
 Fictional China : Hanon
   Shanghai : Xiazhou

@@ -12,3 +12,7 @@ It has been years since Vivara had seen another human being. Since she's been se
 
  It took Vivara a long moment to realize he was addressing her. Had she forgotten how to talk? She shook her head.
  Then he followed up with, "you must be hungry". She nodded and finally blurted "yes, I am" in a mechanical atonal mumble, even though he had not asked her a question.
+
+- - - -
+
+ 

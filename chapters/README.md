@@ -4,12 +4,12 @@
   - [ ] Wilde siblings intro, when Ace goes over to collect updates about Lessa' murder.
   - Focuses on all the issues in the city, the gov failed to solve.
 2. We look into the homeless issue that the church is causing.
-  - [ ] Zaki and Sicili meet
+  - [x] Zaki and Sicili meet
   - [ ] Fb: How Vivo ends up as a crusader
   - the church starts to swoop in to build abandoned lands in the city
    intersection of mental illness and homeless. the nation used to the most welcoming country in the area, so it welcomed lots of refugees, but did not have the structure to house/educated/hire them.
-  - [ ] Alan meets Adolf.
 3. war between church and gov starts.
+  - [ ] Alan meets Adolf.
 4. Ada & Yihan go on their adventure to find Madelaine. ~ we explore the expansiveness of the church's power
   - [ ] Flashback to Ace & Yule's time working for the church.
   - [ ] Ada and Yihan end up having to hide at place for the night
