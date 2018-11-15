@@ -146,3 +146,37 @@
 
 **TOTAL = 5026**
 
+2018-11-14 22:55:56
+* 01.md:	90 words
+* 02.md:	2473 words
+* 03.md:	12 words
+* README.md:	301 words
+* README.md:	93 words
+* alan_adolf.md:	115 words
+* bandit.md:	614 words
+* yule.md:	644 words
+* zaki_family_raid.md:	409 words
+* README.md:	295 words
+* church.md:	388 words
+* gov.md:	64 words
+* org.md:	0 words
+
+**TOTAL = 5498**
+
+2018-11-14 22:59:13
+* 01.md:	90 words
+* 02.md:	2490 words
+* 03.md:	12 words
+* README.md:	301 words
+* README.md:	93 words
+* alan_adolf.md:	115 words
+* bandit.md:	614 words
+* yule.md:	644 words
+* zaki_family_raid.md:	409 words
+* README.md:	295 words
+* church.md:	388 words
+* gov.md:	64 words
+* org.md:	0 words
+
+**TOTAL = 5515**
+
