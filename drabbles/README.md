@@ -1,7 +1,7 @@
 # Flashback Checklist
 - [x] Ace joins the church as crusader (When Ace and Yule face off)
 - [x] Zaki's parents house gets raided ()
-- [ ] Alighieri girls get attacked on the road
+- [x] Alighieri girls get attacked on the road
 - [ ] Ace & Yule's friendship develop
 - [ ] Ace leaving the Church
 - [ ] Uncle _ training Ace and Les (When they find out about who killed Les)
