@@ -180,3 +180,34 @@
 
 **TOTAL = 5515**
 
+2018-11-17 18:09:18
+* 01.md:	90 words
+* 02.md:	2497 words
+* 03.md:	1389 words
+* README.md:	290 words
+* README.md:	93 words
+* alan_adolf.md:	115 words
+* zaki_family_raid.md:	409 words
+* README.md:	295 words
+* church.md:	388 words
+* gov.md:	303 words
+* org.md:	2 words
+
+**TOTAL = 5871**
+
+2018-11-20 10:17:39
+* 01.md:	90 words
+* 02.md:	2497 words
+* 03.md:	1389 words
+* README.md:	290 words
+* README.md:	93 words
+* alan_adolf.md:	115 words
+* zaki_family_raid.md:	409 words
+* zaki_works4edgar.md:	466 words
+* README.md:	295 words
+* church.md:	388 words
+* gov.md:	303 words
+* org.md:	2 words
+
+**TOTAL = 6337**
+
