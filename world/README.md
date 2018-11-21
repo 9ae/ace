@@ -33,6 +33,7 @@ Fictional Iran : Hastuit
 
 Fictional China : Hanon
   Shanghai : Xiazhou
+  HK : Spring Island 
 
 Fictional UK : Cheryland
   Bristol : Wickshire
