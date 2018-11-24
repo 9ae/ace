@@ -29,11 +29,15 @@ Fictional  Italy : Atonia
 
 Fictional Japan : Tsuon
 
-Fictional Iran : Hastuit
+Fictional Iran : Nuna
+  people : Hastuit
+  language : Astlor
+The major ethnicity in Thoth is Hastuit, and their language Astlor. Astlor is the national language of many of the countries in that area.
+surround countries: Thoth (Zaki's homeland), Skehmel. 
 
 Fictional China : Hanon
-  Shanghai : Xiazhou
-  HK : Spring Island 
+  Shanghai : Xiazo
+  HK : Chundu
 
 Fictional UK : Cheryland
   Bristol : Wickshire
