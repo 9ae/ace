@@ -41,3 +41,7 @@ Fictional China : Hanon
 
 Fictional UK : Cheryland
   Bristol : Wickshire
+
+Fictional France: Cella
+
+Fictional Spain: Basque
