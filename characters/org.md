@@ -12,3 +12,5 @@ Alan their cryptographer and Yihan and Ada are investigators, who Ace befriended
 Their true passion is hardware, and thus ends up making gadgets for the org.
 
 Alan was eventually fired when his homosexuality became public, but it was under the guise of "taking outside contracts."
+
+Outside the tech team, Alan and Helga are good friends. Because Helga is super strong, Alan moves making large gadgets that only she can use.
