@@ -307,3 +307,15 @@
 
 **TOTAL = 10229**
 
+7/6/2019, 12:34:22 PM
+* 01.md:	279 words
+* 02.md:	7252 words
+* 03.md:	1123 words
+* README.md:	345 words
+* README.md:	93 words
+* alan_adolf.md:	115 words
+* zaki_family_raid.md:	409 words
+* zaki_works4edgar.md:	466 words
+
+**TOTAL = 10082**
+

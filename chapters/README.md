@@ -29,7 +29,7 @@
 
    
 
-7. (3/4) Ace & Zaki visit her home city, to look for clues. They end up in Venezia afterwards on the way back.
+7. (3/4) Ace & Zaki visit her home city, to look for clues. They pass by the town where she lived with Yule's tribe, and we flashback to Ace and Erik's story. They end up in Venezia afterwards on the way back.
 
 8. Ace forgives Zaki. since it's near the end we think they are finally going to get together. Ace is looking forward to returning and leading the org with Zaki, because he was the one who encourage her to take the mantle to lead the org.
 

@@ -28,7 +28,6 @@ function countDir(dirname) {
 
 countDir('chapters');
 countDir('drabbles');
-countDir('world');
 results.push('\n**TOTAL = '+total+"**\n\n");
 
 var all = results.join('\n');
