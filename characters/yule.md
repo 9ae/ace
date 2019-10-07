@@ -7,3 +7,7 @@ Since the org and the chruch are initally working together, what if Ace and Yule
 
 Ace's history is one of perpetual displacement and seperation from the people she cares about. When Ace and Yule meets again in chapter 3, she personally hates him for converting.
 
+Guard: *holds Vio's features up* Where are you from?
+Vio: *glares* Mars
+Guard: such exotic features. I'm sure some of our captains will take pleasure in.
+Erik: Let her go!
