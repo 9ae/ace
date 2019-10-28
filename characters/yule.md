@@ -13,3 +13,7 @@ Guard: *holds Vio's features up* Where are you from?
 Vio: *glares* Mars
 Guard: such exotic features. I'm sure some of our captains will take pleasure in.
 Erik: Let her go!
+
+---
+
+Yule (and Ada) pull qualities from Guy, Chase, Jesse, Alex B

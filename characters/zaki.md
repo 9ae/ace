@@ -22,3 +22,6 @@ Alan? Idealists, where Alan learns to correct from his judgement, Zaki doesn't.
 
 What are the precautions of homeschoolig kids? Is that similar to a cancer survivor?
 
+---
+
+Zaki pulls qualities from Philip and Ryan
