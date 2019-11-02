@@ -1,2 +1,4 @@
-Chelsea is a senator of Ivonne, the first ch was about getting her elected.
+##Chelsea
+
+ is a senator of Ivonne, the first ch was about getting her elected.
 
