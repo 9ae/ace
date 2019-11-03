@@ -1,5 +1,5 @@
 Adeline & Alan Hart's parents were British diplomats and they met Yi Han when their family was stationed in HK.
-They attend a school for "gifted" students.
+They attend a school for "gifted" students. Their original surnames was Wilde-Hart, they dropped Wilde whent they relocated to Ixan
 
 Yi Han was there because he had perfect memory. YiHan's older brother was a naval officer.
 
