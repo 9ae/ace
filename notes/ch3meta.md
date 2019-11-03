@@ -74,3 +74,13 @@ Why does Chelsea leave?
 - She attempts to assasinate Edgar with poison Helga provided her. But since Edgar is already dead, nothing happens. He claims to have been trained to withstands many poisons. He removes her from his advisory counsel, and appoints her to be mayor of Ivonne.
 - She is sent to make sure the church does not attach their NE borders, (Ivonne is a city on the border of that region)
 
+
+
+---
+
+What is the Church and org's plan together?
+
+- The church is planning on entering in the rest of the territories from SW, Jacque orders Rein and a few other people to help the church's armies there.
+- Ace and Helga gets sent to local churchs to try confirm their alligence to the main church. Sicili convinces Ace to bring her along, since she volunteers with many of the local churches. 
+- Once of the churches gets bombed as they are heading there a few blocks away.
+- Chelsea confronts Edgar about the bomb signature in the church bombing matching the department of housing bomb signature. 
