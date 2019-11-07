@@ -27,3 +27,5 @@ Ardino - uncle
 Sici ~ Libra,
 Vivo ~ Aquarius
 Lessa ~ Scorpio
+
+They are all named after islands, because their family was originally from the islands of the Atonia, which were groups that was persecuted. It was a reminder to never forget where they came from.
