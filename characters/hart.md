@@ -14,3 +14,5 @@ Their true passion is hardware, and thus ends up making gadgets for the org.
 Alan was eventually fired when his homosexuality became public, but it was under the guise of "taking outside contracts."
 
 Outside the tech team, Alan and Helga are good friends. Because Helga is super strong, Alan moves making large gadgets that only she can use.
+
+Adolf likes Alan because he sees into his soul, and responds to the music he makes in a way no one else can. He is inspired that Alan can remain so optimistic and innocent in a time of chaos and corruption 
