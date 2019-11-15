@@ -68,4 +68,6 @@ Hometown of the Hart twins
 
 ## Fictional France: Cella
 
+Under the control of the church by the start of the story
+
 ## Fictional Spain: Basque
