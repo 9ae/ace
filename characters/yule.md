@@ -13,11 +13,6 @@ Ace's history is one of perpetual displacement and seperation from the people sh
 
 Yule is a noble heroic character subverted. While he wants to live by a good moral code, he betrays his tribe because he believes that unity will be for the greater good. Unlike most hero-types he is not single sighted and blind, the complexity of his character lies in him being able to make compromises.
 
-Guard: *holds Vio's features up* Where are you from?
-Vio: *glares* Mars
-Guard: such exotic features. I'm sure some of our captains will take pleasure in.
-Erik: Let her go!
-
 ---
 
 Yule (and Ada) pull qualities from Guy, Chase, Jesse, Alex B
