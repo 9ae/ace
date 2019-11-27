@@ -1,0 +1,1 @@
+Search warrants, for non-crime scenes are require 3 days notice. 
