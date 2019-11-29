@@ -1,6 +1,6 @@
-# Helga
+# Helga Rose
 
-Other names:
+Other names: Arend Rosenfeld
 
 Birthday:
 
