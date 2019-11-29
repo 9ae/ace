@@ -1,3 +1,105 @@
+# Zaki
+
+Other names:
+
+Birthday:
+
+Place of Origin:
+
+Family:
+
+Friends:
+
+------
+
+## Backstory
+
+
+
+------
+
+## Reasons
+
+Motivations
+
+> 
+
+Fears
+
+> 
+
+What makes them happy?
+
+> 
+
+What gives them hope?
+
+> 
+
+------
+
+## Astrology
+
+Neurospectrums
+
+> 
+
+MBTI:
+
+Ennegram:
+
+------
+
+## Tropes
+
+Gentleman thief: https://tvtropes.org/pmwiki/pmwiki.php/Main/GentlemanThief
+
+------
+
+## Perspective
+
+How do they see themselves?
+
+> 
+
+How do they see others?
+
+> 
+
+How do others see them?
+
+> 
+
+What do they feel about the gov?
+
+> 
+
+What do they feel about the church?
+
+> 
+
+How do they see the world?
+
+> 
+
+------
+
+How do they deal with conflict?
+
+> 
+
+How do they deal with loss?
+
+> 
+
+How do they deal with change?
+
+> 
+
+
+
+---
+
 Zaki is an indep heist master.
 
 Did the gov or church murder his parents?
@@ -25,3 +127,4 @@ What are the precautions of homeschoolig kids? Is that similar to a cancer survi
 ---
 
 Zaki pulls qualities from Philip and Ryan
+

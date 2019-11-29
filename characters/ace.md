@@ -2,7 +2,7 @@
 
 Other name(s): Vivara(Vio) Alighieri
 
-Birthday: 
+Birthday: Sagittarius
 
 Place of Origin: Renova, Atonia
 
@@ -48,6 +48,12 @@ Neurospectrums
 MBTI:
 
 Ennegram:
+
+---
+
+## Tropes
+
+Action girl: https://tvtropes.org/pmwiki/pmwiki.php/Main/ActionGirl
 
 ---
 

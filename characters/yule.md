@@ -1,8 +1,21 @@
 # Yule
 
-Originally named Jyri from a mountains tribe. 
+Other names: Jyri
 
-Flashback to Ace and Yule
+Birthday:
+
+Place of Origin:
+
+Family:
+
+Friends:
+
+Yule (and Ada) pull qualities from Guy, Chase, Jesse, Alex B
+
+------
+
+## Backstory
+
 Yule tells Ace about how they threaten his family’s village and forced them to convert.
 He was the chief’s son, and was kept as hostage to make sure that their clan allied with the church.
 The church took him and a few other children, who’s parents were burnt as heretics. Erik was one of them.
@@ -13,6 +26,83 @@ Ace's history is one of perpetual displacement and seperation from the people sh
 
 Yule is a noble heroic character subverted. While he wants to live by a good moral code, he betrays his tribe because he believes that unity will be for the greater good. Unlike most hero-types he is not single sighted and blind, the complexity of his character lies in him being able to make compromises.
 
----
+------
 
-Yule (and Ada) pull qualities from Guy, Chase, Jesse, Alex B
+## Reasons
+
+Motivations
+
+> 
+
+Fears
+
+> 
+
+What makes them happy?
+
+> 
+
+What gives them hope?
+
+> 
+
+------
+
+## Astrology
+
+Neurospectrums
+
+> 
+
+MBTI:
+
+Ennegram:
+
+------
+
+## Tropes
+
+
+
+------
+
+## Perspective
+
+How do they see themselves?
+
+> 
+
+How do they see others?
+
+> 
+
+How do others see them?
+
+> 
+
+What do they feel about the gov?
+
+> 
+
+What do they feel about the church?
+
+> 
+
+How do they see the world?
+
+> 
+
+------
+
+How do they deal with conflict?
+
+> 
+
+How do they deal with loss?
+
+> 
+
+How do they deal with change?
+
+> 
+
