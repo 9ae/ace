@@ -11,7 +11,7 @@ What if the current president (Edgar) and the org leader (Jacques) used to be be
 Why did they have a falling out, is it idealogical or personal?
 Personal, they used difference of views to draw that divide, but it's just an excuse.
 
-Edgar and Jacques went to boarding school together. Edgar is from a legacy family, his grandfather was big in parliament. Jacques is famous musicans who travel a lot. Edgar was a quiet child, who mostly spent time in the library. Jacques was popular with the boys, he played multiple sports, and had a large group of friends. One day, Jacques got in a injury and Edgar helped him. They soon became inseperable; however at the very core both Edgar and Jacques cared too much about what others thought of him. And even though him and Edgar had started to develop feelings for eachother, they ended the friendship.
+Edgar and Jacques went to boarding school together. Edgar is from a legacy family, his grandfather was big in parliament. Jacques' family are famous musicans who travel a lot. Edgar was a quiet child, who mostly spent time in the library. Jacques was popular with the boys, he played multiple sports, and had a large group of friends. One day, Jacques got in a injury and Edgar helped him. They soon became inseperable; however at the very core both Edgar and Jacques cared too much about what others thought of him. And even though him and Edgar had started to develop feelings for eachother, they ended the friendship.
 
 Jacques knew that he will always be unfit to be with Edgar because this parents came from new money. They had no legacy. Edgar crushed under the weight of his family's expectations, knew he would never have the choice on who to marry.
 
