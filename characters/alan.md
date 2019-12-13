@@ -52,7 +52,9 @@ Ennegram:
 
 ## Tropes
 
+https://tvtropes.org/pmwiki/pmwiki.php/Main/LivingEmotionalCrutch
 
+> Ada and Alan are this for eachother
 
 ------
 

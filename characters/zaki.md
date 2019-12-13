@@ -52,7 +52,13 @@ Ennegram:
 
 ## Tropes
 
-Gentleman thief: https://tvtropes.org/pmwiki/pmwiki.php/Main/GentlemanThief
+https://tvtropes.org/pmwiki/pmwiki.php/Main/GentlemanThief
+
+> Steadfast code of ethics, that he applies not only to himself but everyone arounds him
+
+https://tvtropes.org/pmwiki/pmwiki.php/Main/Determinator
+
+> Single minded blent on revenge
 
 ------
 

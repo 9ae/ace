@@ -53,7 +53,19 @@ Ennegram:
 
 ## Tropes
 
-Action girl: https://tvtropes.org/pmwiki/pmwiki.php/Main/ActionGirl
+ https://tvtropes.org/pmwiki/pmwiki.php/Main/ActionGirl
+
+> She see prefers fighting over talking
+
+https://tvtropes.org/pmwiki/pmwiki.php/Main/DeathGlare
+
+> As for being laconic, she expresses her displeasure with just a look
+
+https://tvtropes.org/pmwiki/pmwiki.php/Main/TheUnfavourite
+
+> She knows her mom likes Sicili more
+
+
 
 ---
 
