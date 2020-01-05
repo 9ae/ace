@@ -62,7 +62,7 @@ Ennegram:
 
 How do they see themselves?
 
-> 
+> She is not very good at lying or concealment. She is very straight forward and always tells the truth, even when she really shouldn't.
 
 How do they see others?
 

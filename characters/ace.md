@@ -65,7 +65,9 @@ https://tvtropes.org/pmwiki/pmwiki.php/Main/TheUnfavourite
 
 > She knows her mom likes Sicili more
 
+https://tvtropes.org/pmwiki/pmwiki.php/Main/Tsundere
 
+> But it could also be her being autistic and masking alot
 
 ---
 
