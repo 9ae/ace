@@ -1,6 +1,6 @@
 # Zaki
 
-Other names:
+Other names: The butterfly collector
 
 Birthday:
 
@@ -9,6 +9,12 @@ Place of Origin:
 Family:
 
 Friends:
+
+Is an art forger, by doing business in the black market he's also learned some rouge fighting skills.
+
+Though he first learned to fight when he was homeless after his parents had been killed, he was taken in by a _ master.  
+
+
 
 ------
 
