@@ -33,6 +33,8 @@ Above the north of Antonia before lands considered Galei proper and before the d
 
 ## Fictional  Italy : Atonia
 
+Comprised of 17 city states
+
 ### Verona : Renova
 
 home of the Alighieri family
