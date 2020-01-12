@@ -23,3 +23,9 @@ After the death, her son Roderik took over and started a militia. He had a twin 
 
 Throughout the life time she was just a normal preacher, but after her death. People started to believe that the spirit if Lygeia would come to you and take over your body at moments near death. After the death her children took over her sect. During one ”spiritual take over” the dying body prophesied that there will be no peace until all people become followers of the sect. Her son Roderik was there at that time, and decide to take that to heart. He decide to form his sect into a more organize religion, and start a crusade.
 
+
+
+---
+
+The church instead of ordering their own weapons, uses the tools of the people they invade. Rod built a strong military by incorporating the styles and techniques of different people they conquered. Building a multi ethnic militia, allowing them to deploy a variety of techniques against their enemies. This strategy in attempt to unify lands and people with radical acceptance of anything else that is not religious, allowed them to expand so fast. It also allowed them to have the conquest and span of power, go undetected by Galei. While Galei officials new that the church is expanding its power, because they never became a customer of theirs, they had no idea to what expanse is the scope of their armies.  
+
