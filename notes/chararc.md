@@ -34,7 +34,7 @@ What are the events that put the lie into question?
 
 4. believes a stronger or worse lie
 
-> 
+> Zaki
 
 ## Corruption
 
@@ -56,7 +56,7 @@ What are the events that put the lie into question?
 
 *change should be to those around them*
 
-> Alan
+> Sicili
 
 # Open Ended Arc
 
