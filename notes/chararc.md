@@ -34,7 +34,7 @@ What are the events that put the lie into question?
 
 4. believes a stronger or worse lie
 
-> 
+> Zaki
 
 ## Corruption
 
@@ -66,4 +66,4 @@ What are the events that put the lie into question?
 4. char holds on to truth
    Which is more true to you? the lie or the truth?
 
-> 
+> Yule
