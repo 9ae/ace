@@ -22,6 +22,14 @@ Though he first learned to fight when he was homeless after his parents had been
 
 
 
+---
+
+## Arc
+
+Journey: Forgiveness, Letting go of ideas. Letting go ~ maybe Zaki's journey is one of grief
+
+Story: Zaki wants to get close to Edgar to kill him and the rest of the council. Zaki hell bent on revenge, starts to lighten up with the influence of the sisters. When Sicili finds out he's been stalking her, she tells him to stay away. Instead of letting go, he holds on tighter, believing that to win the Alighieri's sisters back, he has to win the war, and bring the peace they have long for seeked.
+
 ------
 
 ## Reasons

@@ -26,6 +26,18 @@ Ace's history is one of perpetual displacement and seperation from the people sh
 
 Yule is a noble heroic character subverted. While he wants to live by a good moral code, he betrays his tribe because he believes that unity will be for the greater good. Unlike most hero-types he is not single sighted and blind, the complexity of his character lies in him being able to make compromises.
 
+
+
+---
+
+## Arc
+
+Journey: Means matter on the journey towards an end
+
+Story: 
+
+Unlike Zaki who approaches things with rage, Yule is careful planning. What does Yule want? To end all tribal warfare by unification. Because of the Church's success in Atonia and Nuna, he really does belief that people across different cultures can unite under one faith. He truly belief that it will be the unifying thread to allow people to have empathy for one another.
+
 ------
 
 ## Reasons

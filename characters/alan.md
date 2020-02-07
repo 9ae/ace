@@ -16,6 +16,16 @@ Friends:
 
 
 
+---
+
+## Arc
+
+Journey: Learning that other people may have different values, and they are just as valid as his.
+
+Story: Delay getting fire from the gov. instead of getting kidnapped, he gets fired and sent to a labor camp. As a result Ada and Yihan quits and join the org.
+
+His arc is mostly in the Madame Juliette chapter, for the most part he is a flat character. Always cheerful and optimistic. 
+
 ------
 
 ## Reasons

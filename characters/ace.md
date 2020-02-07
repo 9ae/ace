@@ -16,6 +16,21 @@ Friends: Alan, Ada, YiHan, Zaki, Rein, Helga
 
 Vio who never wanted to be the leader was groomed for leadership like Lessa, their family plain for Sici was to marry her off to form a political alliance. Vio while not wanting to deal with the politcs of leadership, never envisioned a life outside her family's business. She would have been happy to help Lessa lead, behind the scenes as a strategist.
 
+
+
+---
+
+## Arc
+
+Journey: Coming into her own power & taking leadership and responsibility of the world she is in
+
+Story: 
+
+	- seeing the people she care about getting caught in larger plots
+	- 
+
+
+
 ------
 
 ## Reasons
