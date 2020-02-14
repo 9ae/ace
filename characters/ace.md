@@ -29,7 +29,11 @@ Story:
 	- seeing the people she care about getting caught in larger plots
 	- 
 
+See her fighting abilities as a superpower she never asked for. When she kills, its as if she enters into a trace state and has no control. Sometimes she is really good, other times she faulters. 
 
+She does want want to be a killer, but it is the only thing she knows how to do, and it is the only job she can do to keep providing Sicili the cancer treatment she needs.
+
+In chapter 5 we can explore her struggles with her own abilities.
 
 ------
 

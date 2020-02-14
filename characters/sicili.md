@@ -10,11 +10,17 @@ Family: youner sister by 2 years of Ace
 
 Friends:
 
+plays the violin
+
 ------
 
-## Backstory
+## Arc
 
-plays the violin
+belief: The teachings in the order of lygeia are ultimately good for the world
+
+test: confronted with the astrocities that Roderick has commited under the religion's name. Uncertain if she still can serve in their name.
+
+what's reassures her belief? Yule going against orders after Rod tells him to do something against his own conscience.
 
 ------
 

@@ -14,7 +14,7 @@ Is an art forger, by doing business in the black market he's also learned some r
 
 Though he first learned to fight when he was homeless after his parents had been killed, he was taken in by a _ master.  
 
-
+Hell bent on avenging his parents, believes in a unjust world.
 
 ------
 
@@ -28,7 +28,7 @@ Though he first learned to fight when he was homeless after his parents had been
 
 Journey: Forgiveness, Letting go of ideas. Letting go ~ maybe Zaki's journey is one of grief
 
-Story: Zaki wants to get close to Edgar to kill him and the rest of the council. Zaki hell bent on revenge, starts to lighten up with the influence of the sisters. When Sicili finds out he's been stalking her, she tells him to stay away. Instead of letting go, he holds on tighter, believing that to win the Alighieri's sisters back, he has to win the war, and bring the peace they have long for seeked.
+Story: Zaki wants to get close to Edgar to kill him and the rest of the council. Zaki hell bent on revenge, starts to lighten up with the influence of the sisters. When Sicili finds out he's been stalking her, she tells him to stay away. Instead of letting go, he holds on tighter, believing that to win the Alighieri's sisters back, he has to win the war, and bring the peace they have long for seeked. He believes only in acquiring power, will he be loved.
 
 ------
 
