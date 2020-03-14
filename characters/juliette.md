@@ -4,11 +4,15 @@ Other names:
 
 Birthday:
 
-Place of Origin:
+Place of Origin: Cella
 
 Family:
 
-Friends:
+Friends: 
+
+
+
+Juliette is an older woman with dark brown hair fading into greys. She often wears her hair in a high bun, with wavy curls neatly falling from. 
 
 ------
 
