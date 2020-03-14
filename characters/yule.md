@@ -4,11 +4,11 @@ Other names: Jyri
 
 Birthday:
 
-Place of Origin:
+Place of Origin: The Falcon tribe of the Mountains
 
-Family:
+Family: Erik
 
-Friends:
+Friends: 
 
 Yule (and Ada) pull qualities from Guy, Chase, Jesse, Alex B
 
@@ -36,7 +36,7 @@ Journey: Means matter on the journey towards an end
 
 Story: 
 
-Unlike Zaki who approaches things with rage, Yule is careful planning. What does Yule want? To end all tribal warfare by unification. Because of the Church's success in Atonia and Nuna, he really does belief that people across different cultures can unite under one faith. He truly belief that it will be the unifying thread to allow people to have empathy for one another.
+Unlike Zaki who approaches things with rage, Yule is careful planning. What does Yule want? To end all tribal warfare by unification. Because of the Church's success in Atonia and Nuna, he really does believes that people across different cultures can united under one faith. He truly belief that it will be the unifying thread to allow people to have empathy for one another.
 
 ------
 
