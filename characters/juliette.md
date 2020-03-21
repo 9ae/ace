@@ -1,14 +1,14 @@
 # Madame Juliette
 
-Other names:
+Other names: Juliette Rousseau
 
-Birthday:
+Birthday: Jan 8
 
 Place of Origin: Cella
 
-Family:
+Family: N/A
 
-Friends: 
+Friends: Lessa, Adolf
 
 
 
@@ -44,9 +44,7 @@ What gives them hope?
 
 ## Astrology
 
-Neurospectrums
-
-> 
+Neurospectrums: Neurotypical
 
 MBTI:
 
@@ -55,6 +53,8 @@ Ennegram:
 ------
 
 ## Tropes
+
+https://tvtropes.org/pmwiki/pmwiki.php/Main/MamaBear
 
 
 
