@@ -1,14 +1,14 @@
 # Adolf
 
-Other names:
+Other names: 
 
-Birthday:
+Birthday: 
 
 Place of Origin:
 
-Family:
+Family: N/A
 
-Friends:
+Friends: 
 
 Adolf likes Alan because he sees into his soul, and responds to the music he makes in a way no one else can. He is inspired that Alan can remain so optimistic and innocent in a time of chaos and corruption 
 

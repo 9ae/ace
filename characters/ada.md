@@ -2,11 +2,11 @@
 
 Other names: Ada
 
-Birthday:
+Birthday: May 11 (Gemini) [23]
 
-Place of Origin:
+Place of Origin: Wickshire
 
-Family:
+Family: Ada, Nana
 
 Friends:
 
