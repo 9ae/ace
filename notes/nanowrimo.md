@@ -595,3 +595,25 @@
 
 **TOTAL = 26452**
 
+4/26/2020, 4:16:56 PM
+* 01.md:	3676 words
+* 02.md:	6977 words
+* 03.md:	5592 words
+* 04.md:	366 words
+* 05.md:	9330 words
+* README.md:	7 words
+* README.md:	93 words
+* ace_ascends.md:	55 words
+* ace_zaki_talks_ab_revenge.md:	148 words
+* ada_looking_into_mirror.md:	217 words
+* alan_adolf.md:	66 words
+* alan_intro.md:	260 words
+* i26.md:	105 words
+* i63.md:	32 words
+* i91.md:	179 words
+* refugees.md:	52 words
+* zaki_family_raid.md:	409 words
+* zaki_works4edgar.md:	466 words
+
+**TOTAL = 28030**
+
