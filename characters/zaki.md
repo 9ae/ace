@@ -2,7 +2,7 @@
 
 Other names: The butterfly collector
 
-Birthday:
+Birthday: May 5 / September 8
 
 Place of Origin:
 

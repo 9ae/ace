@@ -2,13 +2,13 @@
 
 Other names: Jyri
 
-Birthday:
+Birthday: Jan 10
 
 Place of Origin: The Falcon tribe of the Mountains
 
 Family: Erik
 
-Friends: 
+Friends: Ace, 
 
 Yule (and Ada) pull qualities from Guy, Chase, Jesse, Alex B
 
@@ -44,19 +44,23 @@ Unlike Zaki who approaches things with rage, Yule is careful planning. What does
 
 Motivations
 
-> 
+> Rised to be the a contender for leadership, even though his father is the chief of the tribe. His own leadership is not guarenteed, there is an expectation that he will run as leader when his father passes away. But the mountain tribes do no have inheritence leadership, and it is merit based. In their tribe, when it's time for a new leader. There is a competition, one is fighting, another is listing out deeds of one's life by a unbiased party. Every adult in the tribe casts a vote. 
+>
+> In that way, both him and Ace are similiar as their were groomed for leadership. The difference is Yule willingly accepted his path, where was Ace didn't want the responsibility. They are both older siblings, and otherstand each other's pressure in that role, of having to make choices for the better well being of others.
+>
+> This is why he joined in with the Church. He genuinely wants to bring peace to all nations.
 
 Fears
 
-> 
+> Letting people down. He it kills him that he had to betray is tribe. But he thinks it's the best way for them to stay alive and protected. Now he see's Roderick as a father figure, and doesn't want to let him down. Even though he is starting to find his orders questionable, for not being in the interest of the people.
 
 What makes them happy?
 
-> 
+> Knowing that is loved ones are safe. When people are proud of him? He responds well to words of affirmation. So much of his sense of self is wrapped in becoming a good leader, that all he wants is acknowledgement that he is/had made the right decision. He is someone who cares a lot of what other thinks about him, especially people close to him. 
 
 What gives them hope?
 
-> 
+> He hopes to find his brother Erik one day. And he hopes that his sacrifice by working with the church is worth it. Before he meet Sicili he was starting to lose faith in his alligence but he gives him hope because she enspouses the virtues of what Lygeian is suppose to be. 
 
 ------
 
@@ -66,7 +70,7 @@ Neurospectrums
 
 > 
 
-MBTI:
+MBTI: ESTJ
 
 Ennegram:
 
