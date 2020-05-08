@@ -4,6 +4,10 @@ What are the core beliefs of this religion?
 self denial: surrender the concept of self and act in the greater good of others
 **The body is a prison**
 
+When people die, they get buried to rejoin with the earth. To ensure a smooth integration you must break free from the worldly attachments. This as a basis makes the religion a very detached religion.
+
+Lygeia transformed the entire religion by making it more worldly and argued that we cannot transition if we don't try to leave the world a better place. 
+
 What if transcendentalism became religion?
 
 What if plato's duality is made into a religion?

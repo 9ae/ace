@@ -12,6 +12,12 @@ Friends: Vio, Helga, Yule
 
 plays the violin
 
+---
+
+## Backstory
+
+During their early years, she and Lessa had to depend on the kindness of others to house and feed them for survival. Until Lessa was able to provide them stable income (at 16), for 2.5 years they moved from relatives and family friends. This was when she was only 8 years old. This made her eager to please people. She sought out to live up to the ideal of whoever her guardians think a daughter should be. 
+
 ------
 
 ## Arc
@@ -24,6 +30,9 @@ what's reassures her belief? Yule going against orders after Rod tells him to do
 
 What pressure it must be to be a beacon of hope for people? But how did she end up becoming that? Is there more to her than just being naturally likeable?
 
+Is about the disillusionment of stories.
+She believed in the tales of lygeia. This chapter we have them chasing after a legend.
+
 ------
 
 ## Reasons
@@ -32,6 +41,8 @@ Motivations
 
 > Sicili is more into pleasing a larger general audience than Yule is. But in how much of their sense of self is based of how much people like them, they are relatable to eachother in that way. They understand eachother deeply, because they were raised in communal upbringings whereas Ace and Zaki had more solidatrary years.
 > Sicili's strength comes from her ability to mobilize the powers of others. She knows that she is only as strong as the people who believe in her and is willing to throw their lives down for her.
+>
+> What does she want out of life? For the people around her to be happy. 
 
 Fears
 
