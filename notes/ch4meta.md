@@ -19,7 +19,7 @@ What how does Ace thinks in such a way that it complements how zaki thinks?
 
 How can we use AYZ's arcs to drive the action of this chapter?
 
-How invested in the war is Ace now?
+How invested in the war is Ace now? 
 
 How does Zaki feel about the the church?
 
