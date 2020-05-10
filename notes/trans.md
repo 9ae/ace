@@ -15,3 +15,29 @@ Nature immitates the soul; does not think but do. - Plotinus (neoplato philopshe
 > Confession practice in Lygeian is about a practice of letting go. The listener is suppose to suggest means offering one relief from the pain they have suffered or caused.
 
 The universe fundamentally good. preference for intuition > material investigation (scientific knowledge). 
+
+Swedenborg doctrine of correspondence. ie: language, nature is a vehile of thought. words re signs of nature facts. 
+
+Emerson wants to promote genres: insight, revelation, poetry. interested in originality instead of retrospect. Poe suspicious of perseptive (unreliable narrator). 
+
+Optimism in self to understand all. Proposes that what is us, isn't what we see in the mirror. Mind unify nature and culture, then separates both from the self. We live in a world we forgot we created. We participate in the creation of ourselves. We must take control over nature ourselves; which makes him an anti-naturalist. He might care more about people than nature.
+
+Society, the social state is the divided state.. we are divided from our true nature. The state of society is nature has been so divided that it cannot be re-combined. Indsutrial specialization has divided us so much we are reduced to gears. Marx looks at how we can create a state that can unify this fragmented state. 
+
+While Emerson distrust organize religion, he is still a Christian at heart. Where Marx sees religion as an illusion. 
+
+Locke - possessive individualism, idea of self from property. who you are is what you own? you are born with your own body. mcPherson (and emerson) thinks that's a terrible way to view oneself.
+
+Emerson - the mass is a mob. first need to disengage, in spiritual isolation, to come to our truth. grassroots self-reliance effort to obtain truth. What we need to do is find the heroic within ourselves. 
+
+Marx - the mass can be powerful if we can work together
+
+Emerson takes Locke's materialism and uses the technique of arguments to re-appropriates for spiritual enlightenment.
+
+Cosmopolitism diversity is a fact, Universalism diversity is a problem.
+
+> many religions in itself is beign and in many ways was constructed as a way to encourage humans to to be kinder to one another. It is formed as a way to dampen ourselfish gene. The irony is that so many religions have been used by individuals then obtain power and act selfishly.
+
+`grief will make us idealist. I grieve that grief can teach me nothing, though carry me one step into nature` - E 
+
+We understand that we don't see directly. 
