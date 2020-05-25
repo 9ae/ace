@@ -1,3 +1,5 @@
+# Emerson
+
 Holding diametrically oppositing views a byproduct of the dynamic nature of culture and of the individual. More interested in the process of thinking. Interested in the soul for its ability to act, in its ability to change. 
 
 Emerson IDs tthe contemporary human pains as we come too late. **We are in the age of memorial, tomb building. Instead of thinking for ourselves.** Believes human mind, can contain contradictions, and may be able to hold and be expanded by contradictions. Unwilling to be tyrannized by the past. "there's not only creative writing, but creative reading." Process of creative reading, contradictions are contained. 
@@ -41,3 +43,36 @@ Cosmopolitism diversity is a fact, Universalism diversity is a problem.
 `grief will make us idealist. I grieve that grief can teach me nothing, though carry me one step into nature` - E 
 
 We understand that we don't see directly. 
+
+We can no longer correct our distorting lenses, once we live in what we saw. Cartesian split between subjectivity and objectivity. Transparent eyeball, we are no longer untainted.  Realize what we say when we look at Nature is self. 
+
+Crucible of belief. Ends with optimism. Self-trust.
+
+It's not the necessity of self trust, but there isn't anything you can trust by one self. We have the divine in each of us. 
+
+Wintrop city on a hill (200 years ago), Thoroeau is a though experiment on Walden. Cartesian stripping away, to reform.
+
+Lurking in Emerson is the residue of Puritan ideas. 
+
+Ontological individualism, society but a necessary evil. 
+
+# Thoreau
+
+Huckleberry Finn civil disobedience - poll tax
+
+Poetry happens into jail.. gives him insight of the culture outside of it.
+
+progress to true democracy must acknowledge a higher right of the individual.
+
+A new kind of state he thought of in jail, translate Emerson's thoughts into political theory.
+
+Starts with economy, what would it be like to rethink? Man has no time to be anything but machine.
+The cost of a thing is how much life you are willing to give up to get it. 
+
+Walden is a thought experiment. Physically reduce life to its lowest terms. To get to the bottom of things. Search for foundation search for reality. How to get beyond appearance. Asking the right questions, using the scientific method, recognizing when that's not enough.
+
+Is it possible to get outside the system? ODs on contradiction, not comfortable anywhere not in nature or culture. 
+
+Social choices -> individual choices -> Social choices
+
+House is springboard for the imagination.
