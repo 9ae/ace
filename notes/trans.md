@@ -75,4 +75,29 @@ Is it possible to get outside the system? ODs on contradiction, not comfortable 
 
 Social choices -> individual choices -> Social choices
 
-House is springboard for the imagination.
+House is springboard for the imagination. 
+
+Day ~ year. Induction. Talks about man's incursion into nature more than nature. Extrapolates occurances in nature to find a higher truth. There is one set of principles patented in a leaf, nature corrects itself. Interested in the possibility of redemption and perfection. 
+
+Core Trans ~ conflate individual with divine
+
+He knows the cabin will disappear, but Walden as a book continues to exist.
+
+you have to know how to ask the right questions. 
+
+Death is a possibility, he will hit hard bottom but he will be dead by then. Our bodies limit us, we need something more, we need imagination. 
+
+# Whitman
+
+unlike Emerson and Thoreau is much more interested in people, and more atune to one's body. Breaking free from their platonic notion that the body body is a prison.
+
+Develops a larger than life persona, constantly reworking his poetry. Constantly re-inventing himself.
+
+Emerson wanted poetry to not be just metres, but metres making an argument. The poet has a new thought instead of imitation.
+
+Whitman reprinted Emerson's praising letter on the 2nd edition. `It can be like Roderick using Lygeia's influence to conquer the world`
+
+link between procreation and artistic creation
+
+Whitman see new culture in the lives of immigrants. Ahesive, close together in the LES slums. Sees the crucible of democracy in that. Explores common that the new england transcendentalist are too afraid to explore. 
+
