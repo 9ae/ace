@@ -63,7 +63,9 @@ Outline
 
 >Vio worrying will Zaki come to help them. She describes to Yule why Zaki would be useful to this mission. As she is talking, Yule realises she may like him. Zaki finally arrive, with breakfast food (beignets) for everyone.
 
-**5. Midpoint (shift from victim to warrior)** – Your MC continues to face new challenges, but they’re on the defense - mostly reacting, waiting, making things worse. Then, halfway through the novel, something happens to shift their perspective and spur them to take action, to stop reacting and start winning, no matter what it takes. What does your MC try when they’re on the defense? What shifts them into offense? What new plans do they make? 
+**5. Midpoint (shift from victim to warrior)** – Your MC continues to face new challenges, but they’re on the defense - mostly reacting, waiting, making things worse. Then, halfway through the novel, something happens to shift their perspective and spur them to take action, to stop reacting and start winning, no matter what it takes. What does your MC try when they’re on the defense? What shifts them into offense? What new plans do they make?
+
+What do we want to show about the world? How has the order affected Galei?
 
 >Journey to the town (via train). What happens on the train.
 >Arrive in town, what are the conditions of the town?
