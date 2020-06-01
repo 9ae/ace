@@ -8,7 +8,11 @@ We were all original part of a cosmic energy, which we call Nature. Due to the c
 
 ## What is our purpose in life?
 
-U/N originally. Lygeia provides an answer, and that is to alleviate the suffering of oneself and others, so we may all rejoin with Nature after Death.
+To seek the truth within yourself; only the truth will bring you peace. (general belief)
+
+Another profit advocate for universalism, that what is true for you is true for every human, and it is the truth that binds us despite our differences.
+
+Lygeia provides an different answer, and that is to alleviate the suffering of oneself and others, so we may all rejoin with Nature after Death.
 
 ## What happens to us after we die?
 
@@ -16,7 +20,7 @@ When we die, our souls should be able to rejoin nature. To ensure a smooth trans
 
 # History
 
-This origin story is believed by people from the peninsula for a centurires. For a long time, many scholars of the religion had a sense of detachment.
+This origin story is believed by people from the peninsula for a centurires. For a long time, many scholars of the religion had a sense of detachment. There is a common belief that society is flawed, and for one to rejoin nature they must take themselves out of the attachments of society. That through meditation one can seek their own truth, and that truth alone will guide them towards returning to nature. The individual truth is the only truth one can be sure of.
 
 One man: Encouraged people to seek their own truths to re-connect with nature. And said what I find true for me is true for all humans. 
 

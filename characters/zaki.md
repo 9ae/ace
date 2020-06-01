@@ -20,7 +20,7 @@ Hell bent on avenging his parents, believes in a unjust world.
 
 ## Backstory
 
-
+"You'll always be a guest in someone's house" - on POC citizens in a country.
 
 ---
 
