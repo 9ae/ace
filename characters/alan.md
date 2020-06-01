@@ -60,7 +60,7 @@ Neurospectrums
 
 > 
 
-MBTI: ENTP 
+MBTI: ENFJ 
 
 > He's terrible at keeping time, always late to meetings to which he'll spring and arrive smelling bad.
 

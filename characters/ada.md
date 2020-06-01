@@ -60,7 +60,7 @@ Neurospectrums
 
 > 
 
-MBTI:
+MBTI: ENTP
 
 Ennegram:
 

@@ -64,7 +64,7 @@ Neurospectrums
 
 > Vio is written as a girl with asperbergers syndrome. She does not like being touched, and gets along with animals better than humans. Only knows how to take things at face value, which often leads her to be easily manipulated by others. She does not like verbal confrontataion, and would prefer to "fight rather than talk"
 
-MBTI:
+MBTI: INFJ
 
 Ennegram:
 
@@ -102,7 +102,7 @@ How do they see others?
 
 How do others see them?
 
-> 
+> Her journey is to show she can become a great introverted leaders. She discovers that other's believe in her, if only she can belief in herself.
 
 What do they feel about the gov?
 
@@ -130,3 +130,10 @@ How do they deal with change?
 
 > 
 
+---
+
+## Relationships
+
+### Ada
+
+Vio is the leader, the Carrie. She is the big sister. Where Ada is the hedonistic "artist".
