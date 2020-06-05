@@ -2,11 +2,11 @@
 
 Other names: The butterfly collector
 
-Birthday: May 5 / September 8
+Birthday: May 5 (Taurus)
 
-Place of Origin:
+Place of Origin: Thoth
 
-Family:
+Family: Deceased father and mother
 
 Friends:
 
@@ -15,6 +15,8 @@ Is an art forger, by doing business in the black market he's also learned some r
 Though he first learned to fight when he was homeless after his parents had been killed, he was taken in by a _ master.  
 
 Hell bent on avenging his parents, believes in a unjust world.
+
+https://open.spotify.com/playlist/4O2Jh1jYuiLnI42m9iWi9R?si=QM42877vTYKrA2exBNhsXw
 
 ------
 
@@ -36,7 +38,7 @@ Story: Zaki wants to get close to Edgar to kill him and the rest of the council.
 
 Motivations
 
-> 
+> Revenge... how is Edgar associated with the death of his parents?
 
 Fears
 
@@ -44,11 +46,11 @@ Fears
 
 What makes them happy?
 
-> 
+> Vio
 
 What gives them hope?
 
-> 
+> Sicili
 
 ------
 
@@ -58,7 +60,7 @@ Neurospectrums
 
 > 
 
-MBTI:
+MBTI: INTJ (Architect)
 
 Ennegram:
 

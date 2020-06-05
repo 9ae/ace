@@ -76,6 +76,10 @@ https://tvtropes.org/pmwiki/pmwiki.php/Main/LovableAlphaBitch
 
 > In most times, she seems like she is defending the poor of Galei. But in such cases, it's often my way or no way!
 
+https://tvtropes.org/pmwiki/pmwiki.php/Main/GentlemanSnarker
+
+> Her jibes at Alan are always sharp
+
 ------
 
 ## Perspective
