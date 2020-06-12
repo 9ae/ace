@@ -17,7 +17,7 @@ Generally non-confrontational, unless he knows he has the upper hand.
 
 ## Backstory
 
-
+Yi Han was there because he had perfect memory. YiHan's older brother was a naval officer.
 
 ---
 
