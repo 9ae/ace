@@ -16,13 +16,25 @@ Though he first learned to fight when he was homeless after his parents had been
 
 Hell bent on avenging his parents, believes in a unjust world.
 
-https://open.spotify.com/playlist/4O2Jh1jYuiLnI42m9iWi9R?si=QM42877vTYKrA2exBNhsXw
-
 ------
 
 ## Backstory
 
 "You'll always be a guest in someone's house" - on POC citizens in a country.
+
+---
+
+## Soundtrack
+
+https://open.spotify.com/playlist/4O2Jh1jYuiLnI42m9iWi9R?si=QM42877vTYKrA2exBNhsXw
+
+I want: 
+
+Preparation:
+
+Battle:
+
+Reprise:
 
 ---
 
@@ -62,7 +74,7 @@ Neurospectrums
 
 MBTI: INTJ (Architect)
 
-Ennegram:
+Ennegram: 
 
 ------
 

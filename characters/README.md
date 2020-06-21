@@ -16,6 +16,24 @@ Friends:
 
 
 
+
+
+## Soundtrack
+
+I want:
+
+
+
+Preparation:
+
+
+
+Battle:
+
+
+
+Reprise:
+
 ---
 
 ## Reasons

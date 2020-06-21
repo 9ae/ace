@@ -8,22 +8,22 @@ How many times is Vio willing to forgive Zaki? Her arc with this theme ends like
 
 Zaki is all about getting back and vio is about letting go. At the end, they revert roles in the way they approach eachother's wrong doings. 
 
-# Chemstry
+# Chemistry
 starts off with social attraction, then connects emotionally in bottle chapter.
 
-# Scenes
+# Sceness
 
-## Meet cute at art supply store
+- [ ] Meet cute at art supply store
 
-## Vio rescues Zaki from bomb
+- [ ] Vio rescues Zaki from bomb
 
-## Morning in Zaki's apartment
+- [ ] Morning in Zaki's apartment
 
-## Zaki helps interview Nunan, and convinces Vio to join the protest
+- [ ] Zaki helps interview Nunan, and convinces Vio to join the protest
 
-## Zaki meets Sicili
+- [ ] Zaki meets Sicili
 
-## Ch3: Zaki tries to befriend Vio, even after they no long owe eachother any favors
+- [ ] Ch3: Zaki tries to befriend Vio, even after they no long owe eachother any favors
 
 ## Zaki helps on the painting mission
 
