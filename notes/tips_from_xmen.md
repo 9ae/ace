@@ -4,5 +4,6 @@
   - They show hope and vunerability in each other
 - Use space (location) into fight scene choreography
 - Settings can also have archi-types
-- 
+- What is it like to take away from characters things they are the most?
+  - Charlies X suffering althimzers 
 
