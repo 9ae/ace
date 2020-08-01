@@ -11,18 +11,15 @@ Zaki is all about getting back and vio is about letting go. At the end, they rev
 # Chemistry
 starts off with social attraction, then connects emotionally in bottle chapter.
 
-# Sceness
+maybe their magic dynamic is Vio can be snarky like him when she's only snarky with Sicili. This can be like when two autistic people meet there is a repoire that they can't get with NTs. Like they can never feel natural with them, with the way he idolizes and imprints on Sicili, there is a chance that me might somewhat be on the spectrum too. 
 
-- [ ] Meet cute at art supply store
+# Scenes
 
-- [ ] Vio rescues Zaki from bomb
-
+- [x] Meet cute at art supply store
+- [x] Vio rescues Zaki from bomb
 - [ ] Morning in Zaki's apartment
-
-- [ ] Zaki helps interview Nunan, and convinces Vio to join the protest
-
-- [ ] Zaki meets Sicili
-
+- [x] Zaki helps interview Nunan, and convinces Vio to join the protest
+- [x] Zaki meets Sicili
 - [ ] Ch3: Zaki tries to befriend Vio, even after they no long owe eachother any favors
 
 ## Zaki helps on the painting mission
