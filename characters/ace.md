@@ -68,6 +68,12 @@ What gives them hope?
 
 > Zaki
 
+---
+
+## Personality
+
+She doesn't speak much, but when she does, she has a sharp tongue. Zaki brings out the more talkative side of her. 
+
 ------
 
 ## Astrology
