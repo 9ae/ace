@@ -74,6 +74,12 @@ What gives them hope?
 
 She doesn't speak much, but when she does, she has a sharp tongue. Zaki brings out the more talkative side of her. 
 
+
+
+### quirks
+
+everytime someone touches her she rubs/washes it off
+
 ------
 
 ## Astrology
