@@ -165,3 +165,4 @@ Zaki pulls qualities from Philip and Ryan. What would that look like?
 What are the qualities that we draw from Phil? His talent at drawing. His overaching gestures. His idealization...
 
 Thinks like Phil but acts like Ryan. At the core, he thinks and feels very deeply about everything. But he's learned that the world is not hospitable to a boy like him. So he often acts out, often impulsively. 
+
