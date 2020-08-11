@@ -162,6 +162,13 @@ How do they deal with change?
 
 > 
 
+How does she her powers?
+
+> Is it even realistic for her to not want her powers?
+> The first time when she tuned in, she had used it to save her sister and no one got hurt. After then she wanted to harness her powers. Someone who rejects power isn't the type of woman Ace is. More than anyone she wants power, the ability make her own choices and protect her loved ones.
+> The second time it manifest was during a battle with her tribe, and she was trying to protect her adoptive mother. Erik ends up getting seriously hurt when she was in a trance. She now realizes that this mysterious power is too unpredictable to possess, and now hates it.
+
+
 ---
 
 ## Relationships
