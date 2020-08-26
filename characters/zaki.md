@@ -64,6 +64,18 @@ What gives them hope?
 
 > Sicili
 
+What does Zaki want in life?
+
+> a beacon, like Sicili .. but why? does everything draw bac k to the night his parents got killed?
+>
+> Maybe behind wanting a beacon, he more so wants something to believe in? But why?
+>
+> why do people believe? maybe it's like the boundless birds problem, knowing the futility of life is too depressing. That we must construct a lie for ourselves to keep us going. I guess this can be something Vio and Zaki bound over in this chapter. 
+>
+> What is Zaki conscious of that he wants? What did Phil want in life? To believe he can, that despite living in the shadows for many years. He wants to prove to himself that he can have a normal life, a girl friend, a job, and that it won't be all taken away in the blink of an eye. Which is how he feels about being Hastuit in Galei. He saw his parents try to fit into Galeian society, just when they thought they could become part of the culture of the country it was all suddenly taken away.
+>
+> 
+
 ------
 
 ## Astrology
