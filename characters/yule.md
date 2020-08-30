@@ -78,7 +78,7 @@ Ennegram:
 
 ## Tropes
 
-
+Paragon character
 
 ------
 
