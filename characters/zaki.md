@@ -16,6 +16,8 @@ Though he first learned to fight when he was homeless after his parents had been
 
 Hell bent on avenging his parents, believes in a unjust world.
 
+Holding on to anger is like drinking poison and expecting the other person to die
+
 ------
 
 ## Backstory
