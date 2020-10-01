@@ -36,3 +36,11 @@ With shrinking revenue from taxes, Galei's government became broke and sold many
 Now most publicly elected officials are under the control of private company's interest. 
 
 Territories also gained more independence as they can no longer count on central government aid. The "invasion" of the church into the other territories was actually a coup to start the war, so the weapons manufactories can have a reason to produce more again. This is also why they set out to invade Ivonne, because the church won't be able to have country over territories with military power. Maybe it can just be Ivonne that got invaded at first, considering they are the only profitable region, central gov has plenty motivation to be upset about it.
+
+---
+
+# History
+
+Galeians descended from the mountain tribes into the valleys and hills. They were near places that had great iron ore and towns started to develop making weapons to give them better competetive advantage. Eventually they migrated to an unhabited land near the Ixan River. Since plains life was easier than mountain life, with no one to fight with, and ability to farm they stayed there. 100 years later Galei developed into a thriving weapons manufactory. Since it was a sparcely populated country they had an open door policy on immigration to attrack more workers. Around that time Hastuit territories were struggling with drought and a few decades later was the first place Roderick invaded on his crusade. Many Hastuit refugees came to Galei. Atonia was still one of the major customers of Galeian weapons.
+
+Since the decline in demain after Atonia was united under the Order, factories closed down and many of them stopped hiring Hastuit workers. They became the scapegoat for many people losing their jobs since they were for a long time the model minority. Unlike immigrants from other nearby lands they looked distictly different and it was easy to point them out.
