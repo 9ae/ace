@@ -30,6 +30,10 @@ Story: Delay getting fire from the gov. instead of getting kidnapped, he gets fi
 
 His arc is mostly in the Madame Juliette chapter, for the most part he is a flat character. Always cheerful and optimistic. 
 
+What does he think/feel after losing his position with the gov?
+
+> He was pretty happy with his job at the government. 
+
 ------
 
 ## Reasons

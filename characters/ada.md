@@ -50,6 +50,12 @@ Until Alan disappears, their time together is spent showing how they are very su
 
 Feeling helpless in her ability to make a better world without endangering those around her, she turns to a live of hedonism.
 
+What does she think/feel after losing her position with the gov?
+
+> What if she is the realist one? She has less to lose than Yihan and is less naive than Alan who doens't believe bad things can happen in this world. She wants to go back to Wickshire. But resigns that suggestion once Alan lets her know that he may be imprisoned for who he is. But why does she want to go to Wickshire? Or is it because it's the only safe place she knows.
+>
+> 
+
 ------
 
 ## Reasons
