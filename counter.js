@@ -27,7 +27,7 @@ function countDir(dirname) {
 }
 
 countDir('chapters');
-countDir('drabbles');
+// countDir('drabbles');
 results.push('\n**TOTAL = '+total+"**\n\n");
 
 var all = results.join('\n');

@@ -942,3 +942,39 @@
 
 **TOTAL = 50568**
 
+11/1/2020, 9:25:47 PM
+* 01.md:	6209 words
+* 02.md:	7088 words
+* 03.md:	7042 words
+* 04.md:	9516 words
+* 05.md:	9378 words
+* 06.md:	6680 words
+* README.md:	7 words
+* 07.md:	4542 words
+* README.md:	93 words
+* ace_ascends.md:	55 words
+* ace_zaki_talks_ab_revenge.md:	147 words
+* ada_looking_into_mirror.md:	217 words
+* alan_adolf.md:	0 words
+* alan_intro.md:	260 words
+* i26.md:	105 words
+* i63.md:	32 words
+* i91.md:	179 words
+* refugees.md:	52 words
+* sici_ice_skating.md:	37 words
+* zaki_being_tailed.md:	411 words
+* zaki_works4edgar.md:	57 words
+
+**TOTAL = 52107**
+
+11/1/2020, 9:26:43 PM
+* 01.md:	6209 words
+* 02.md:	7088 words
+* 03.md:	7042 words
+* 04.md:	9516 words
+* 05.md:	9378 words
+* 06.md:	6680 words
+* README.md:	7 words
+
+**TOTAL = 45920**
+
