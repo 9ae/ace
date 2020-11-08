@@ -1002,3 +1002,15 @@
 
 **TOTAL = 48041**
 
+11/7/2020, 4:50:00 PM
+* 01.md:	6209 words
+* 02.md:	7088 words
+* 03.md:	7042 words
+* 04.md:	9516 words
+* 05.md:	9378 words
+* 06.md:	6681 words
+* 08.md:	2923 words
+* README.md:	7 words
+
+**TOTAL = 48844**
+
