@@ -28,6 +28,8 @@ Yule is a noble heroic character subverted. While he wants to live by a good mor
 
 
 
+His adoptive mother Benedetta, named Erik after her lost son.
+
 ---
 
 ## Arc

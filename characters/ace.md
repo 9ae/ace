@@ -59,6 +59,8 @@ Fears
 > Being uprooted again - The church has killed both her family and chosen family. She is afraid of really settling down, surrendering to any sense of security.
 >
 > Large crowds, public speaking (which is what makes her ascension to take leadership of the org so impressive)
+>
+> Drowning
 
 What makes them happy?
 
