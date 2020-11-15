@@ -23,6 +23,8 @@ He's the one True Neutral character in this series.
 
 Yi Han was there because he had perfect memory. YiHan's older brother was a naval officer. His parents died from the NI and Hanon war, so he doesn't remember them. His other brother joined the Imperial navy after the war, because they had an on base day care that can take care of baby Han. 
 
+has higher chance of PTSD because of his memory
+
 ---
 
 ## Arc
