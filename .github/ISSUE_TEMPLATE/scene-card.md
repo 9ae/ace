@@ -7,8 +7,14 @@ assignees: ''
 
 ---
 
-Plot | Story
----- | -----
-# CAUSE (what happens) | # Why it matters
-# EFFECT (consequence) | # The realization
- | ## and so
+# CAUSE (what happens)
+
+
+##  Why it matters
+
+
+# Effect (consequence) 
+
+## The realization
+
+## and so?
