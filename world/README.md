@@ -37,7 +37,7 @@ Comprised of 17 city states
 
 ### Verona : Renova
 
-home of the Alighieri family
+home of the Alighieri family. Their manor is a a mix between a fortress castle and tuscan villa.
 
 ### Venice : Desdemon
 
