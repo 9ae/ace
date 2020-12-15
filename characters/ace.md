@@ -116,6 +116,12 @@ https://tvtropes.org/pmwiki/pmwiki.php/Main/Tsundere
 
 ---
 
+## Inspiration
+
+Seema Parihar (https://en.wikipedia.org/wiki/Seema_Parihar)
+
+---
+
 ## Perspective
 
 What do they believe in?
