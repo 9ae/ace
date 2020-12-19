@@ -37,3 +37,10 @@ What does he think/feel after losing his position with the gov?
 >
 > While he is not surprised by what happened, because he sensed that they were going to look for a scapegoat for some of the unsolved mysteries (bomb at housing dept, disappearnce of the president's task force.) Unlike the Harts, he has the most to lose with this job since he doesn't have any other claim to status like they do. 
 
+---
+## Relations
+
+### Ada
+his relationship with @Ada grows from banter
+
+Ada & Yi Han, do hardware and info gathering. Ada's skill at the gambling table makes her able to mix well in the dens, when she needs to find out information and make weagers. Yi Han's charm, and compulsive white lying helps him getting people to open up to him, because he does seem genuine and kismetically connected to them.

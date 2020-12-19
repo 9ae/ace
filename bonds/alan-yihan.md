@@ -1,1 +1,0 @@
-Friendly hostile. They always had a competitve relationship when they were in school together. Yi Han knows how to bait Alan into getting angry with him, and Alan falls for it everytime.
