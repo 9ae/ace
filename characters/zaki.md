@@ -52,7 +52,7 @@ Story: Zaki wants to get close to Edgar to kill him and the rest of the council.
 
 Motivations
 
-> Revenge... how is Edgar associated with the death of his parents?
+> Revenge. seekers can be narcasist, feels they have been wronged and plan to seek justice for it. they struggle with emotional regulation.
 
 Fears
 
