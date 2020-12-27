@@ -12,6 +12,8 @@ Friends: Ace,
 
 Yule (and Ada) pull qualities from Guy, Chase, Jesse, Alex B
 
+The mountain people speak in short direct sentences (kinda like Yoda if he just said the first half of his sentences). But he changed his speech pattern after time with the Order, although he sometimes still slips back in mountain speak, when he is angry or loses patience.
+
 ------
 
 ## Backstory
