@@ -18,6 +18,12 @@ Hell bent on avenging his parents, believes in a unjust world.
 
 Holding on to anger is like drinking poison and expecting the other person to die
 
+---
+
+![floor plan](Zaki_studio-floor-plan.png)
+
+
+
 ------
 
 ## Backstory
