@@ -18,6 +18,8 @@ Can focus more on outward presentation than inner turmoid. But you should know w
 
 What are overarching ideas you want to explore, question, and have a pay off answer (or lead to further questioning here)?
 
+Mash together multiple ideas
+
 ## Character Arcs
 
 Plot out the change arcs of major characters
@@ -42,7 +44,12 @@ Write down scenes (they can be more than 9) into scene cards
 
 Figure out which scenes:
 
--  more than 3/4 written (you need dialog and description edits)
+- more than 3/4 written (you need dialog and description edits)
 - more than 1/2 written (will involve a scene edit)
 - needs an entire re-write
 
+# Ideas
+
+- Make the ch1 mission protect the Harts
+- The Org starts of as a private security firm hired by the gov, since their detective department budget was severly cut.
+- It is during ch2 that Edgar & Jacques has a falling out, and Jacques removes the org from gov employment and allies them with the Order.
