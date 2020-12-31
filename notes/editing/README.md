@@ -2,7 +2,7 @@
 
 ## Pre-Edit Todo list
 
-- [ ] Prune issues
+- [x] Prune issues
 - [x] Assign character colors
-- [ ] 
+
 

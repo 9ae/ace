@@ -39,6 +39,7 @@ align them to 9-point story
 ### Scene cards
 
 Now align the chapter outline to a 9-point outline
+- [ ] Dig through [cards dumped here](https://github.com/9ae/ace/milestone/4) convert them to scene cards or archive them
 
 Write down scenes (they can be more than 9) into scene cards
 
