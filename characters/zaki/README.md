@@ -1,50 +1,12 @@
-# Zaki Attar
-
-Other names: The butterfly collector
-
-Birthday: May 5 (Taurus)
-
-Place of Origin: Thoth
-
-Family: Deceased father and mother
-
-Friends:
-
 Is an art forger, by doing business in the black market he's also learned some rouge fighting skills.
 
 Though he first learned to fight when he was homeless after his parents had been killed, he was taken in by a _ master.  
 
 Hell bent on avenging his parents, believes in a unjust world.
 
-Holding on to anger is like drinking poison and expecting the other person to die
 
 ---
 
-![floor plan](Zaki_studio-floor-plan.png)
-
-
-
-------
-
-## Backstory
-
-"You'll always be a guest in someone's house" - on POC citizens in a country.
-
----
-
-## Soundtrack
-
-https://open.spotify.com/playlist/4O2Jh1jYuiLnI42m9iWi9R?si=QM42877vTYKrA2exBNhsXw
-
-I want: 
-
-Preparation:
-
-Battle:
-
-Reprise:
-
----
 
 ## Arc
 
@@ -94,7 +56,7 @@ Neurospectrums
 
 MBTI: INTJ (Architect)
 
-Ennegram: 
+Ennegram: 4 - Individualist
 
 ------
 
