@@ -145,7 +145,7 @@ Reprise:
 
 *How do they deal with change?*
 
- 
+
 *What is their method of manipulation?*
 
 

@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ScappleDocument Version="1.2" ID="0FD55145-99E3-4578-BB15-CA376193CCAE">
+    <Notes>
+        <Note ID="0" FontSize="18.0" Position="239.785004,240.558853" Width="51.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Style="Jagged"></Border>
+                <Fill>0.318823 0.0 0.934535</Fill>
+            </Appearance>
+            <String>Zaki</String>
+            <ConnectedNoteIDs>1, 6</ConnectedNoteIDs>
+        </Note>
+        <Note ID="1" FontSize="12.0" Position="365.488281,200.507812" Width="200.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1">0.668968 0.810267 0.895084</Border>
+                <Fill>0.743297 0.900297 0.994538</Fill>
+            </Appearance>
+            <String>Seeking revenge on those who killed his parents</String>
+            <ConnectedNoteIDs>0, 2</ConnectedNoteIDs>
+            <PointsToNoteIDs>2</PointsToNoteIDs>
+        </Note>
+        <Note ID="2" FontSize="12.0" Position="722.442261,156.863113" Width="200.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1">0.668968 0.810267 0.895084</Border>
+                <Fill>0.743297 0.900297 0.994538</Fill>
+            </Appearance>
+            <String>Takes gov jobs to get close to Edgar (this is after Jacques pulled the org out)</String>
+            <ConnectedNoteIDs>1, 3</ConnectedNoteIDs>
+            <PointsToNoteIDs>3</PointsToNoteIDs>
+        </Note>
+        <Note ID="3" FontSize="12.0" Position="1176.388916,169.792114" Width="200.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1">0.668968 0.810267 0.895084</Border>
+                <Fill>0.743297 0.900297 0.994538</Fill>
+            </Appearance>
+            <String>Get promoted to be Edgar’s body guard</String>
+            <ConnectedNoteIDs>2, 4</ConnectedNoteIDs>
+            <PointsToNoteIDs>4</PointsToNoteIDs>
+        </Note>
+        <Note ID="4" FontSize="12.0" Position="1539.869873,197.243042" Width="122.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1">0.668968 0.810267 0.895084</Border>
+                <Fill>0.743297 0.900297 0.994538</Fill>
+            </Appearance>
+            <String>Is invited to gov ball</String>
+            <ConnectedNoteIDs>3, 5</ConnectedNoteIDs>
+            <PointsToNoteIDs>5</PointsToNoteIDs>
+        </Note>
+        <Note ID="5" FontSize="12.0" Position="1841.169678,205.04361" Width="200.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1">0.668968 0.810267 0.895084</Border>
+                <Fill>0.743297 0.900297 0.994538</Fill>
+            </Appearance>
+            <String>Kills Edgar, only to find out he was already dead.</String>
+            <ConnectedNoteIDs>4, 18</ConnectedNoteIDs>
+        </Note>
+        <Note ID="6" FontSize="12.0" Position="181.0,317.561523" Width="200.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1">0.669411 0.885244 0.567003</Border>
+                <Fill>0.74379 0.983605 0.630003</Fill>
+            </Appearance>
+            <String>Gets hired by an Atonia expat, to kill three people.</String>
+            <ConnectedNoteIDs>0, 7</ConnectedNoteIDs>
+            <PointsToNoteIDs>7</PointsToNoteIDs>
+        </Note>
+        <Note ID="7" FontSize="12.0" Position="333.254364,399.032043" Width="124.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1">0.669411 0.885244 0.567003</Border>
+                <Fill>0.74379 0.983605 0.630003</Fill>
+            </Appearance>
+            <String>New kills Lesbia</String>
+            <ConnectedNoteIDs>6, 8</ConnectedNoteIDs>
+            <PointsToNoteIDs>8</PointsToNoteIDs>
+        </Note>
+        <Note ID="8" FontSize="12.0" Position="477.28125,356.511719" Width="148.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1">0.669411 0.885244 0.567003</Border>
+                <Fill>0.74379 0.983605 0.630003</Fill>
+            </Appearance>
+            <String>Finds out next hit is Sicili</String>
+            <ConnectedNoteIDs>7, 9</ConnectedNoteIDs>
+            <PointsToNoteIDs>9</PointsToNoteIDs>
+        </Note>
+        <Note ID="9" FontSize="12.0" Position="650.0,356.0" Width="182.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1">0.669411 0.885244 0.567003</Border>
+                <Fill>0.74379 0.983605 0.630003</Fill>
+            </Appearance>
+            <String>Gets close to Vio to meet Sicili.</String>
+            <ConnectedNoteIDs>8, 10, 23</ConnectedNoteIDs>
+            <PointsToNoteIDs>10</PointsToNoteIDs>
+        </Note>
+        <Note ID="10" FontSize="12.0" Position="852.410156,358.101562" Width="128.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1">0.669411 0.885244 0.567003</Border>
+                <Fill>0.74379 0.983605 0.630003</Fill>
+            </Appearance>
+            <String>Meets Sicili and falls in love with her</String>
+            <ConnectedNoteIDs>9, 11</ConnectedNoteIDs>
+            <PointsToNoteIDs>11</PointsToNoteIDs>
+        </Note>
+        <Note ID="11" FontSize="12.0" Position="1036.898438,363.429688" Width="229.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1">0.669411 0.885244 0.567003</Border>
+                <Fill>0.74379 0.983605 0.630003</Fill>
+            </Appearance>
+            <String>Gives Atonian guy the money back. Also warn him if anyone harms her he will make sure they are hurt 10x.</String>
+            <ConnectedNoteIDs>10, 12, 15, 22</ConnectedNoteIDs>
+            <PointsToNoteIDs>15</PointsToNoteIDs>
+        </Note>
+        <Note ID="12" FontSize="12.0" Position="1149.734375,492.195312" Width="200.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <TextColor>0.0 0.0 0.0</TextColor>
+                <Border Weight="1" Style="Cloud">0.05951 0.50193 0.998455</Border>
+                <Fill>0.999999 0.999974 0.999991</Fill>
+            </Appearance>
+            <String>How does the Atonian guy respond?</String>
+            <ConnectedNoteIDs>11</ConnectedNoteIDs>
+        </Note>
+        <Note ID="15" FontSize="12.0" Position="1301.0,363.0" Width="145.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1">0.894548 0.707752 0.715898</Border>
+                <Fill>0.989117 0.814091 0.999474</Fill>
+            </Appearance>
+            <String>Gets to know the sisters</String>
+            <ConnectedNoteIDs>11, 16</ConnectedNoteIDs>
+            <PointsToNoteIDs>16</PointsToNoteIDs>
+        </Note>
+        <Note ID="16" FontSize="12.0" Position="1481.0,363.0" Width="200.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1">0.894548 0.707752 0.715898</Border>
+                <Fill>0.989117 0.814091 0.999474</Fill>
+            </Appearance>
+            <String>Tells Sicili he wants to take her on a date but she politely rejects him</String>
+            <ConnectedNoteIDs>15, 17</ConnectedNoteIDs>
+            <PointsToNoteIDs>17</PointsToNoteIDs>
+        </Note>
+        <Note ID="17" FontSize="12.0" Position="1716.0,363.0" Width="111.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1">0.894548 0.707752 0.715898</Border>
+                <Fill>0.989117 0.814091 0.999474</Fill>
+            </Appearance>
+            <String>Gets closer to Vio</String>
+            <ConnectedNoteIDs>16, 18</ConnectedNoteIDs>
+            <PointsToNoteIDs>18</PointsToNoteIDs>
+        </Note>
+        <Note ID="18" FontSize="12.0" Position="1862.0,363.0" Width="155.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1">0.894548 0.707752 0.715898</Border>
+                <Fill>0.989117 0.814091 0.999474</Fill>
+            </Appearance>
+            <String>She finds out he was the one who killed Sicili</String>
+            <ConnectedNoteIDs>5, 17, 24</ConnectedNoteIDs>
+            <PointsToNoteIDs>24</PointsToNoteIDs>
+        </Note>
+        <Note ID="22" FontSize="12.0" Position="1041.232056,244.0" Width="216.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1">0.894548 0.707752 0.715898</Border>
+                <Fill>0.993942 0.786391 0.795442</Fill>
+            </Appearance>
+            <String>This is where he exercises agency!
+So what we need to know before this happens what does he do that makes the audience think he’s morally ambiguous?</String>
+            <ConnectedNoteIDs>11, 23</ConnectedNoteIDs>
+            <PointsToNoteIDs>11, 23</PointsToNoteIDs>
+        </Note>
+        <Note ID="23" FontSize="12.0" Position="700.0,278.0" Width="200.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Fill>1.0 1.0 1.0</Fill>
+            </Appearance>
+            <String>something else happens on one of his jobs during this phase.</String>
+            <ConnectedNoteIDs>9, 22</ConnectedNoteIDs>
+            <PointsToNoteIDs>9</PointsToNoteIDs>
+        </Note>
+        <Note ID="24" FontSize="12.0" Position="2063.0,356.0" Width="200.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1">0.894548 0.707752 0.715898</Border>
+                <Fill>0.989117 0.814091 0.999474</Fill>
+            </Appearance>
+            <String>[S2] He believes that taking control of Galei will make them forgive him. If he can make a country they are safe in?</String>
+            <ConnectedNoteIDs>18</ConnectedNoteIDs>
+        </Note>
+    </Notes>
+    <BackgroundShapes></BackgroundShapes>
+    <AutoFit>0, 4, 8-9, 15, 17</AutoFit>
+    <NoteStyles>
+        <Style Name="Brainstorm" ID="D5622E4C-6A60-4D52-BC63-15D03A3E3745" AffectFontStyle="Yes" AffectAlignment="Yes" AffectTextColor="Yes" AffectNoteBody="Yes" AffectSize="No" AffectFade="No" AffectSticky="Yes">
+            <FontSize>12.0</FontSize>
+            <Alignment>Left</Alignment>
+            <TextColor>0.0 0.0 0.0</TextColor>
+            <BorderThickness>1</BorderThickness>
+            <BorderStyle>Cloud</BorderStyle>
+            <BorderColor>0.05951 0.50193 0.998455</BorderColor>
+            <FillColor>0.999999 0.999974 0.999991</FillColor>
+            <Size>200.0,150.0</Size>
+        </Style>
+        <Style Name="Bubble (Blue)" ID="DDEA6C29-B42D-4063-BEB2-09AE54336E23" AffectFontStyle="No" AffectAlignment="No" AffectTextColor="No" AffectNoteBody="Yes" AffectFade="No">
+            <BorderThickness>1</BorderThickness>
+            <BorderColor>0.668968 0.810267 0.895084</BorderColor>
+            <FillColor>0.743297 0.900297 0.994538</FillColor>
+        </Style>
+        <Style Name="Bubble (Green)" ID="2CDE32E9-C027-4CB4-A651-0061A22C0D23" AffectFontStyle="No" AffectAlignment="No" AffectTextColor="No" AffectNoteBody="Yes" AffectFade="No">
+            <BorderThickness>1</BorderThickness>
+            <BorderColor>0.669411 0.885244 0.567003</BorderColor>
+            <FillColor>0.74379 0.983605 0.630003</FillColor>
+        </Style>
+        <Style Name="Bubble (Pink)" ID="FDDEDFDA-346D-4D38-82CC-95D42EFE62AB" AffectFontStyle="No" AffectAlignment="No" AffectTextColor="No" AffectNoteBody="Yes" AffectFade="No">
+            <BorderThickness>1</BorderThickness>
+            <BorderColor>0.894548 0.707752 0.715898</BorderColor>
+            <FillColor>0.989117 0.814091 0.999474</FillColor>
+        </Style>
+        <Style Name="Bubble (Red)" ID="B66FD633-657D-4F41-9E0A-1E635045F72E" AffectFontStyle="No" AffectAlignment="No" AffectTextColor="No" AffectNoteBody="Yes" AffectFade="No">
+            <BorderThickness>1</BorderThickness>
+            <BorderColor>0.894548 0.707752 0.715898</BorderColor>
+            <FillColor>0.993942 0.786391 0.795442</FillColor>
+        </Style>
+        <Style Name="Bubble (Yellow)" ID="A7CE0588-76CC-41B4-A895-C2ED384507AC" AffectFontStyle="No" AffectAlignment="No" AffectTextColor="No" AffectNoteBody="Yes" AffectFade="No">
+            <BorderThickness>1</BorderThickness>
+            <BorderColor>0.87775 0.828268 0.562122</BorderColor>
+            <FillColor>0.975278 0.920298 0.62458</FillColor>
+        </Style>
+        <Style Name="Red Text" ID="F9CBDD3C-1114-4364-9B8C-E11B6A6740AE" AffectFontStyle="No" AffectAlignment="No" AffectTextColor="Yes" AffectNoteBody="No" AffectFade="No">
+            <TextColor>0.985948 0.0 0.026951</TextColor>
+        </Style>
+        <Style Name="Title Text" ID="A339B343-E86C-4FAE-890E-EAD8CB02D611" AffectFontStyle="Yes" AffectAlignment="Yes" AffectTextColor="No" AffectNoteBody="No" AffectFade="No">
+            <FontSize>28.0</FontSize>
+            <IsBold>Yes</IsBold>
+        </Style>
+    </NoteStyles>
+    <UISettings>
+        <BackgroundColor>0.999767 0.98837 0.949907</BackgroundColor>
+        <DefaultFont>Helvetica</DefaultFont>
+        <NoteXPadding>8.0</NoteXPadding>
+    </UISettings>
+    <PrintSettings PaperSize="612.0,792.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="na-letter" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"></PrintSettings>
+</ScappleDocument>

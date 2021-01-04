@@ -7,7 +7,8 @@ Birthday: May 5 (Taurus)
 Place of Origin: Thoth
 
 Job: (what do they do and how did they get started)
-Poison supplier
+**Poison supplier** - by apprententice with the poison master
+**Fighting skills** - on the street, he is very observant, he hung on top of roof tops watching street thugs fight. And he imitated them. One day he spotted an Eastern martial artist practing outside, from him he learned form. *He doesn't use it much nowadays, he mostly work with poisons to weaken his opponents. But he can still hold off on his own if jumped in the streets.*
 
 Catch Phrase
 > 
@@ -65,41 +66,47 @@ Journey: Forgiveness, Letting go of ideas. Letting go ~ maybe Zaki's journey is 
 
 Story: Zaki wants to get close to Edgar to kill him and the rest of the council. Zaki hell bent on revenge, starts to lighten up with the influence of the sisters. When Sicili finds out he's been stalking her, she tells him to stay away. Instead of letting go, he holds on tighter, believing that to win the Alighieri's sisters back, he has to win the war, and bring the peace they have long for seeked. He believes only in acquiring power, will he be loved.
 
-*What do they believe in?*
-
-
-*What do the learn in the end?*
-
-
-*Journey (how they learn about it)?*
+> TODO structure for negative arc
 
 
 ---
 ## Current life
 
+Living as a poison maker and administer. He like Vio works the night shift, even though he is out on a kill less often. He uses the night to prepare the poisons on the nights he's home.
+
 ### Daily Routine
+12am (midnight) - start work (either preparing poisons or out on assignment)
+4am - washes up and paints for awhile
+6am - goes out to collect butterflies
+10am - comes home to sleep
+4pm - gets up to start day
+makes breakfast
+paints for a while
 
 ---
 ## People 
 
 ### Family
-Deceased father and mother
+Deceased father and mother. They are refugee scholars, who lived in a small town. They got murdered by their neighbors.
 
 ### Friends
 
+**Vio** She is his foil. While he is a mix of MPDB and broody bad boy, how has Vio influence him. She loves whole heartedly. While she may not be his dream girl like Sicili, Vio was the first girl to ever show any interest in him. And even though he never intented to, he shows her a certain degree of vunerability because he doesn't care that much if she will stop liking him. 
+
+
+**Yule** they have worked togther several times. Their relationship is a bit of the hero v anti-hero archtype.
 
 ---
 ## Backstory
 
 *What is the best thing that happend in their life?*
-
+Vio rescuing him from the fire. Meeting Sicili?
 
 *What is the worst thing that happend in their life?*
 Watching his parents murdered. *How has that effected their perspective?* Before that his worse fear was worrying that his parents won't let him pursue art as a career. After he saw the world he lived in as no longer safe, and random acts of violence can happen. *What about him his experience seek revenge vs wanting to change the world for others at large?* After the murders, he came out of hiding and threw up. He couldn't bare to stay in the house anymore and ran. In a few days, the police found his DNA samples, and with one of the sons needing cover-up the official report framed him. He saw that in the newspapers. 
 
 *What happened afterwards?*
 Afterwards he was on the streets for a year, it was during them that he decided that if given the chance he will seek revenge for his parents murders. He was a pretty decent thief and one day dipped into the pocket of a black market butterfly poison maker. The man caught up to him and recognize his talent for steath. He decided to train Zaki, because he can loan him out as not just another poison maker but also an assassin.
-
 
 ### Learned their lie
 
@@ -115,32 +122,36 @@ Afterwards he was on the streets for a year, it was during them that he decided 
 
 [playlist](https://open.spotify.com/playlist/4O2Jh1jYuiLnI42m9iWi9R?si=QM42877vTYKrA2exBNhsXw)
 
-I want:
+I want: [You Want a Battle - Bullet for My Valentine](https://open.spotify.com/track/1KCAEG6JcsTzi8ddZzs0nk?si=064y4E1VTsivYYBvQao1bQ)
 
+[She will be loved - Maroon 5](https://open.spotify.com/track/6QsPYWmHEUEvfFiOJRcQQA?si=PvNaJoqHRWymtGWEshd3cg)
 
+Preparation: [Seven Devils - Florence & the Machine](https://open.spotify.com/track/5qaLfqAUiqvsoL0l4T05Yx?si=VIOyA6MrTOS0sOQG1XB0mg)
 
-Preparation:
+Battle: [Rebirthing (instrumental) - Skillet](https://open.spotify.com/track/39Y30lgmHLxBWaSknRDII7?si=s2Qj_K2ESbKZKTyRyjFUMg)
 
-
-
-Battle:
-
-
-
-Reprise:
+Reprise: [It's your fault - Phil Zhang](https://open.spotify.com/track/7JahVFmZWC4hWR9Agmohyz?si=XvUDfk27SiS84nM_9fHqYw)
 
 ---
 
 ## Reasons
 
 *Motivations*
+
 - Revenge. seekers can be narcasist, feels they have been wronged and plan to seek justice for it. they struggle with emotional regulation.
 
 *Fears*
 
+- *What are his fears pre-murders?* Parents will not let him pursue an art career. **Fear of not having agency over your career path**
+- *After running away?* Afraid he may not be able to survive on his own.
+- *After being framed?* Afraid of being caught. **Afraid to live in Galei, but has no means of leaving.**
+- *Before meeting the poison master?* He had toughen up during the years on the streets. He is no longer afraid of the previous things he's afraid of. Now he has alot of confidence in himself. `This could be a spin-off, how Zaki learned to overcome his fears and survive on the streets.`
+- **After living with the poison master?** Was the poison master abusive? No, we've tortured him enough. **He did develop the fear of abandonment** because whenever he messed up the poison master muttered about getting another apprentice. He still holds his fear, even after he's no longer dependent on the poison master. And shows it with the sisters?
+- *At the start of the story?* Fear of feeling the grief from living in an unjust world? Fear of being caught?
+- Developed during the story?
 
 *What do they value in life?*
-a beacon, like Sicili .. but why? does everything draw bac k to the night his parents got killed?
+a beacon, like Sicili .. but why? does everything draw back to the night his parents got killed?
 
 Maybe behind wanting a beacon, he more so wants something to believe in? But why?
 
@@ -148,18 +159,19 @@ why do people believe? maybe it's like the boundless birds problem, knowing the 
 
 What is Zaki conscious of that he wants? What did Phil want in life? To believe he can, that despite living in the shadows for many years. He wants to prove to himself that he can have a normal life, a girl friend, a job, and that it won't be all taken away in the blink of an eye. Which is how he feels about being Hastuit in Galei. He saw his parents try to fit into Galeian society, just when they thought they could become part of the culture of the country it was all suddenly taken away.
 
-*What makes them happy?*
+*What makes them happy?* Painting
 
 
-*What gives them hope?*
+*What gives them hope?* Sicili
 
-
-*What makes them feel alive?*
+*What makes them feel alive?* Vio
 
 
 ---
 
 ## Perspective
+
+What are the precautions of homeschoolig kids? Is that similar to a cancer survivor?
 
 *How do they see themselves?*
 
@@ -190,7 +202,6 @@ What is Zaki conscious of that he wants? What did Phil want in life? To believe 
 
 *How do they deal with change?*
 
- 
 *What is their method of manipulation?*
 
 
