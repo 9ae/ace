@@ -67,6 +67,7 @@ Journey: Forgiveness, Letting go of ideas. Letting go ~ maybe Zaki's journey is 
 Story: Zaki wants to get close to Edgar to kill him and the rest of the council. Zaki hell bent on revenge, starts to lighten up with the influence of the sisters. When Sicili finds out he's been stalking her, she tells him to stay away. Instead of letting go, he holds on tighter, believing that to win the Alighieri's sisters back, he has to win the war, and bring the peace they have long for seeked. He believes only in acquiring power, will he be loved.
 
 > TODO structure for negative arc
+https://www.youtube.com/watch?v=z1lXgxyWrKw
 
 
 ---
