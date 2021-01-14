@@ -1,16 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ScappleDocument Version="1.2" ID="0FD55145-99E3-4578-BB15-CA376193CCAE">
     <Notes>
-        <Note ID="0" FontSize="18.0" Position="239.785004,240.558853" Width="51.0">
+        <Note ID="0" FontSize="28.0" Position="218.322098,240.433151" Width="73.0">
             <Appearance>
-                <Alignment>Left</Alignment>
                 <Border Style="Jagged"></Border>
                 <Fill>0.318823 0.0 0.934535</Fill>
             </Appearance>
             <String>Zaki</String>
             <ConnectedNoteIDs>1, 6</ConnectedNoteIDs>
+            <Formatting>
+                <FormatRange Bold="Yes">0,4</FormatRange>
+            </Formatting>
         </Note>
-        <Note ID="1" FontSize="12.0" Position="365.488281,200.507812" Width="200.0">
+        <Note ID="1" FontSize="12.0" Position="365.0,201.0" Width="200.0">
             <Appearance>
                 <Alignment>Left</Alignment>
                 <Border Weight="1">0.668968 0.810267 0.895084</Border>
@@ -20,7 +22,7 @@
             <ConnectedNoteIDs>0, 2</ConnectedNoteIDs>
             <PointsToNoteIDs>2</PointsToNoteIDs>
         </Note>
-        <Note ID="2" FontSize="12.0" Position="722.442261,156.863113" Width="200.0">
+        <Note ID="2" FontSize="12.0" Position="722.0,157.0" Width="200.0">
             <Appearance>
                 <Alignment>Left</Alignment>
                 <Border Weight="1">0.668968 0.810267 0.895084</Border>
@@ -30,7 +32,7 @@
             <ConnectedNoteIDs>1, 3</ConnectedNoteIDs>
             <PointsToNoteIDs>3</PointsToNoteIDs>
         </Note>
-        <Note ID="3" FontSize="12.0" Position="1176.388916,169.792114" Width="200.0">
+        <Note ID="3" FontSize="12.0" Position="1176.0,170.0" Width="200.0">
             <Appearance>
                 <Alignment>Left</Alignment>
                 <Border Weight="1">0.668968 0.810267 0.895084</Border>
@@ -40,7 +42,7 @@
             <ConnectedNoteIDs>2, 4</ConnectedNoteIDs>
             <PointsToNoteIDs>4</PointsToNoteIDs>
         </Note>
-        <Note ID="4" FontSize="12.0" Position="1539.869873,197.243042" Width="122.0">
+        <Note ID="4" FontSize="12.0" Position="1540.0,197.0" Width="122.0">
             <Appearance>
                 <Alignment>Left</Alignment>
                 <Border Weight="1">0.668968 0.810267 0.895084</Border>
@@ -50,7 +52,7 @@
             <ConnectedNoteIDs>3, 5</ConnectedNoteIDs>
             <PointsToNoteIDs>5</PointsToNoteIDs>
         </Note>
-        <Note ID="5" FontSize="12.0" Position="1841.169678,205.04361" Width="200.0">
+        <Note ID="5" FontSize="12.0" Position="1841.0,205.0" Width="200.0">
             <Appearance>
                 <Alignment>Left</Alignment>
                 <Border Weight="1">0.668968 0.810267 0.895084</Border>
@@ -59,7 +61,7 @@
             <String>Kills Edgar, only to find out he was already dead.</String>
             <ConnectedNoteIDs>4, 18</ConnectedNoteIDs>
         </Note>
-        <Note ID="6" FontSize="12.0" Position="181.0,317.561523" Width="200.0">
+        <Note ID="6" FontSize="12.0" Position="181.0,318.0" Width="200.0">
             <Appearance>
                 <Alignment>Left</Alignment>
                 <Border Weight="1">0.669411 0.885244 0.567003</Border>
@@ -69,27 +71,27 @@
             <ConnectedNoteIDs>0, 7</ConnectedNoteIDs>
             <PointsToNoteIDs>7</PointsToNoteIDs>
         </Note>
-        <Note ID="7" FontSize="12.0" Position="333.254364,399.032043" Width="124.0">
+        <Note ID="7" FontSize="12.0" Position="333.0,399.0" Width="124.0">
             <Appearance>
                 <Alignment>Left</Alignment>
                 <Border Weight="1">0.669411 0.885244 0.567003</Border>
                 <Fill>0.74379 0.983605 0.630003</Fill>
             </Appearance>
             <String>New kills Lesbia</String>
-            <ConnectedNoteIDs>6, 8</ConnectedNoteIDs>
-            <PointsToNoteIDs>8</PointsToNoteIDs>
+            <ConnectedNoteIDs>6, 25</ConnectedNoteIDs>
+            <PointsToNoteIDs>25</PointsToNoteIDs>
         </Note>
-        <Note ID="8" FontSize="12.0" Position="477.28125,356.511719" Width="148.0">
+        <Note ID="8" FontSize="12.0" Position="730.129639,351.758209" Width="148.0">
             <Appearance>
                 <Alignment>Left</Alignment>
                 <Border Weight="1">0.669411 0.885244 0.567003</Border>
                 <Fill>0.74379 0.983605 0.630003</Fill>
             </Appearance>
             <String>Finds out next hit is Sicili</String>
-            <ConnectedNoteIDs>7, 9</ConnectedNoteIDs>
+            <ConnectedNoteIDs>9, 25</ConnectedNoteIDs>
             <PointsToNoteIDs>9</PointsToNoteIDs>
         </Note>
-        <Note ID="9" FontSize="12.0" Position="650.0,356.0" Width="182.0">
+        <Note ID="9" FontSize="12.0" Position="835.013916,413.306976" Width="160.0">
             <Appearance>
                 <Alignment>Left</Alignment>
                 <Border Weight="1">0.669411 0.885244 0.567003</Border>
@@ -99,7 +101,7 @@
             <ConnectedNoteIDs>8, 10, 23</ConnectedNoteIDs>
             <PointsToNoteIDs>10</PointsToNoteIDs>
         </Note>
-        <Note ID="10" FontSize="12.0" Position="852.410156,358.101562" Width="128.0">
+        <Note ID="10" FontSize="12.0" Position="870.831116,467.284607" Width="128.0">
             <Appearance>
                 <Alignment>Left</Alignment>
                 <Border Weight="1">0.669411 0.885244 0.567003</Border>
@@ -109,7 +111,7 @@
             <ConnectedNoteIDs>9, 11</ConnectedNoteIDs>
             <PointsToNoteIDs>11</PointsToNoteIDs>
         </Note>
-        <Note ID="11" FontSize="12.0" Position="1036.898438,363.429688" Width="229.0">
+        <Note ID="11" FontSize="12.0" Position="1037.0,363.0" Width="229.0">
             <Appearance>
                 <Alignment>Left</Alignment>
                 <Border Weight="1">0.669411 0.885244 0.567003</Border>
@@ -119,7 +121,7 @@
             <ConnectedNoteIDs>10, 12, 15, 22</ConnectedNoteIDs>
             <PointsToNoteIDs>15</PointsToNoteIDs>
         </Note>
-        <Note ID="12" FontSize="12.0" Position="1149.734375,492.195312" Width="200.0">
+        <Note ID="12" FontSize="12.0" Position="1150.0,492.0" Width="200.0">
             <Appearance>
                 <Alignment>Left</Alignment>
                 <TextColor>0.0 0.0 0.0</TextColor>
@@ -156,7 +158,7 @@
                 <Fill>0.989117 0.814091 0.999474</Fill>
             </Appearance>
             <String>Gets closer to Vio</String>
-            <ConnectedNoteIDs>16, 18</ConnectedNoteIDs>
+            <ConnectedNoteIDs>16, 18, 27</ConnectedNoteIDs>
             <PointsToNoteIDs>18</PointsToNoteIDs>
         </Note>
         <Note ID="18" FontSize="12.0" Position="1862.0,363.0" Width="155.0">
@@ -169,7 +171,7 @@
             <ConnectedNoteIDs>5, 17, 24</ConnectedNoteIDs>
             <PointsToNoteIDs>24</PointsToNoteIDs>
         </Note>
-        <Note ID="22" FontSize="12.0" Position="1041.232056,244.0" Width="216.0">
+        <Note ID="22" FontSize="12.0" Position="1041.0,244.0" Width="216.0">
             <Appearance>
                 <Alignment>Left</Alignment>
                 <Border Weight="1">0.894548 0.707752 0.715898</Border>
@@ -198,9 +200,40 @@ So what we need to know before this happens what does he do that makes the audie
             <String>[S2] He believes that taking control of Galei will make them forgive him. If he can make a country they are safe in?</String>
             <ConnectedNoteIDs>18</ConnectedNoteIDs>
         </Note>
+        <Note ID="25" FontSize="12.0" Position="477.144928,354.638245" Width="206.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1">0.669411 0.885244 0.567003</Border>
+                <Fill>0.74379 0.983605 0.630003</Fill>
+            </Appearance>
+            <String>[2] She saves him from the protest before squaring off with Yule</String>
+            <ConnectedNoteIDs>7-8, 26</ConnectedNoteIDs>
+            <PointsToNoteIDs>8</PointsToNoteIDs>
+        </Note>
+        <Note ID="26" FontSize="12.0" Position="486.435608,437.801636" Width="200.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1" Style="Square">0.668968 0.810267 0.895084</Border>
+                <Fill>0.743297 0.900297 0.994538</Fill>
+            </Appearance>
+            <String>He decides to join protest, evne if he might get caught.
+Vio is amazed, he says either way they will put him in prison. He was just bluffing because the sentence of murder is way higher than sentence for protesting.
+
+Show how anxious he actually his feeling. Have Vio meet him before te protest wher he is surrounded by cigarette buds.</String>
+            <ConnectedNoteIDs>25</ConnectedNoteIDs>
+        </Note>
+        <Note ID="27" FontSize="12.0" Position="1710.353149,462.009033" Width="200.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1" Style="Square">0.668968 0.810267 0.895084</Border>
+                <Fill>0.743297 0.900297 0.994538</Fill>
+            </Appearance>
+            <String>[post-Varin] They go out into the streets, where Zaki teachs Vio a thing or two out pick pocketing. A man chase them down and they pretend to be a couple and kiss. Even after they no longer need to, they kiss again.</String>
+            <ConnectedNoteIDs>17</ConnectedNoteIDs>
+        </Note>
     </Notes>
     <BackgroundShapes></BackgroundShapes>
-    <AutoFit>0, 4, 8-9, 15, 17</AutoFit>
+    <AutoFit>0, 4, 8, 15, 17</AutoFit>
     <NoteStyles>
         <Style Name="Brainstorm" ID="D5622E4C-6A60-4D52-BC63-15D03A3E3745" AffectFontStyle="Yes" AffectAlignment="Yes" AffectTextColor="Yes" AffectNoteBody="Yes" AffectSize="No" AffectFade="No" AffectSticky="Yes">
             <FontSize>12.0</FontSize>
@@ -212,33 +245,17 @@ So what we need to know before this happens what does he do that makes the audie
             <FillColor>0.999999 0.999974 0.999991</FillColor>
             <Size>200.0,150.0</Size>
         </Style>
-        <Style Name="Bubble (Blue)" ID="DDEA6C29-B42D-4063-BEB2-09AE54336E23" AffectFontStyle="No" AffectAlignment="No" AffectTextColor="No" AffectNoteBody="Yes" AffectFade="No">
-            <BorderThickness>1</BorderThickness>
-            <BorderColor>0.668968 0.810267 0.895084</BorderColor>
-            <FillColor>0.743297 0.900297 0.994538</FillColor>
-        </Style>
-        <Style Name="Bubble (Green)" ID="2CDE32E9-C027-4CB4-A651-0061A22C0D23" AffectFontStyle="No" AffectAlignment="No" AffectTextColor="No" AffectNoteBody="Yes" AffectFade="No">
-            <BorderThickness>1</BorderThickness>
-            <BorderColor>0.669411 0.885244 0.567003</BorderColor>
-            <FillColor>0.74379 0.983605 0.630003</FillColor>
-        </Style>
-        <Style Name="Bubble (Pink)" ID="FDDEDFDA-346D-4D38-82CC-95D42EFE62AB" AffectFontStyle="No" AffectAlignment="No" AffectTextColor="No" AffectNoteBody="Yes" AffectFade="No">
-            <BorderThickness>1</BorderThickness>
-            <BorderColor>0.894548 0.707752 0.715898</BorderColor>
-            <FillColor>0.989117 0.814091 0.999474</FillColor>
-        </Style>
-        <Style Name="Bubble (Red)" ID="B66FD633-657D-4F41-9E0A-1E635045F72E" AffectFontStyle="No" AffectAlignment="No" AffectTextColor="No" AffectNoteBody="Yes" AffectFade="No">
-            <BorderThickness>1</BorderThickness>
-            <BorderColor>0.894548 0.707752 0.715898</BorderColor>
-            <FillColor>0.993942 0.786391 0.795442</FillColor>
-        </Style>
-        <Style Name="Bubble (Yellow)" ID="A7CE0588-76CC-41B4-A895-C2ED384507AC" AffectFontStyle="No" AffectAlignment="No" AffectTextColor="No" AffectNoteBody="Yes" AffectFade="No">
-            <BorderThickness>1</BorderThickness>
-            <BorderColor>0.87775 0.828268 0.562122</BorderColor>
-            <FillColor>0.975278 0.920298 0.62458</FillColor>
-        </Style>
         <Style Name="Red Text" ID="F9CBDD3C-1114-4364-9B8C-E11B6A6740AE" AffectFontStyle="No" AffectAlignment="No" AffectTextColor="Yes" AffectNoteBody="No" AffectFade="No">
             <TextColor>0.985948 0.0 0.026951</TextColor>
+        </Style>
+        <Style Name="Scene Note" ID="E58395A3-ED4B-48E0-84CD-1CEF2D16610A" AffectFontStyle="Yes" AffectAlignment="Yes" AffectTextColor="Yes" AffectNoteBody="Yes" AffectSize="No" AffectFade="No" AffectSticky="Yes">
+            <FontSize>12.0</FontSize>
+            <Alignment>Left</Alignment>
+            <BorderThickness>1</BorderThickness>
+            <BorderStyle>Square</BorderStyle>
+            <BorderColor>0.668968 0.810267 0.895084</BorderColor>
+            <FillColor>0.743297 0.900297 0.994538</FillColor>
+            <Size>200.0,150.0</Size>
         </Style>
         <Style Name="Title Text" ID="A339B343-E86C-4FAE-890E-EAD8CB02D611" AffectFontStyle="Yes" AffectAlignment="Yes" AffectTextColor="No" AffectNoteBody="No" AffectFade="No">
             <FontSize>28.0</FontSize>

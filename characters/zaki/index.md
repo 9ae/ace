@@ -31,6 +31,18 @@ You make your reader look really hard for something good in this character.
 Let them be their own worse enemy. 
 
 ---
+## Theme
+
+### Revenge
+
+When is taking justice in your own hands justifyable?
+- secular: when the legal system fails to protect you
+- religious: will neeed something along the concept on karma to assure people, that justice will be served. @world/religion
+
+
+
+
+---
 ## Goals
 
 > Holding on to anger is like drinking poison and expecting the other person to die
@@ -92,10 +104,11 @@ Deceased father and mother. They are refugee scholars, who lived in a small town
 
 ### Friends
 
-**Vio** She is his foil. While he is a mix of MPDB and broody bad boy, how has Vio influence him. She loves whole heartedly. While she may not be his dream girl like Sicili, Vio was the first girl to ever show any interest in him. And even though he never intented to, he shows her a certain degree of vunerability because he doesn't care that much if she will stop liking him. 
+#### Vio
+She is his foil. While he is a mix of MPDB and broody bad boy, how has Vio influence him. She loves whole heartedly. While she may not be his dream girl like Sicili, Vio was the first girl to ever show any interest in him. And even though he never intented to, he shows her a certain degree of vunerability because he doesn't care that much if she will stop liking him. 
 
-
-**Yule** they have worked togther several times. Their relationship is a bit of the hero v anti-hero archtype.
+#### Yule
+they have worked togther several times. Their relationship is a bit of the hero v anti-hero archtype.
 
 ---
 ## Backstory
@@ -165,7 +178,8 @@ What is Zaki conscious of that he wants? What did Phil want in life? To believe 
 
 *What gives them hope?* Sicili
 
-*What makes them feel alive?* Vio
+*What makes them feel alive?* @vio because they get put into alot of near death situations together. He associates her with that rush. 
+Their pattern is rush, rush, peace. Where for two chapters they have exciting adventures together, they have one bonding chapter.
 
 
 ---
