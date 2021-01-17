@@ -16,7 +16,11 @@ Catch Phrase
 `How do the draw out the analogy of making a kill to drawing?`
 
 ---
+![outfit](Zaki_outfit.jpg)
+
+![outside studio](Zaki_flat-outside.jpg)
 ![floor plan](Zaki_studio-floor-plan.png)
+![inside studio](Zaki_flat-inside.jpg)
 
 #### Anti Hero
 
@@ -39,7 +43,7 @@ When is taking justice in your own hands justifyable?
 - secular: when the legal system fails to protect you
 - religious: will neeed something along the concept on karma to assure people, that justice will be served. @world/religion
 
-
+`TODO understand why people want revenge`
 
 
 ---
@@ -78,7 +82,7 @@ Journey: Forgiveness, Letting go of ideas. Letting go ~ maybe Zaki's journey is 
 
 Story: Zaki wants to get close to Edgar to kill him and the rest of the council. Zaki hell bent on revenge, starts to lighten up with the influence of the sisters. When Sicili finds out he's been stalking her, she tells him to stay away. Instead of letting go, he holds on tighter, believing that to win the Alighieri's sisters back, he has to win the war, and bring the peace they have long for seeked. He believes only in acquiring power, will he be loved.
 
-> TODO structure for negative arc
+`TODO structure for negative arc`
 https://www.youtube.com/watch?v=z1lXgxyWrKw
 
 
