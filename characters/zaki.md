@@ -16,11 +16,11 @@ Catch Phrase
 `How do the draw out the analogy of making a kill to drawing?`
 
 ---
-![outfit](Zaki_outfit.jpg)
+![outfit](media/Zaki_outfit.jpg)
 
-![outside studio](Zaki_flat-outside.jpg)
-![floor plan](Zaki_studio-floor-plan.png)
-![inside studio](Zaki_flat-inside.jpg)
+![outside studio](media/Zaki_flat-outside.jpg)
+![floor plan](media/Zaki_studio-floor-plan.png)
+![inside studio](media/Zaki_flat-inside.jpg)
 
 #### Anti Hero
 
