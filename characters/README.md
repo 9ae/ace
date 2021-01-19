@@ -57,12 +57,18 @@ After embrace their anti-theme, they realize it does not bring them happiness.
 *How can I show my readers that they are to blame for their own tragic end?*
 
 ### Disillusionment
+
+![illusion points](media/disillusion.jpg)
 Discovers the truth but it is tragic to them. Is truth tragic? Makes them a pessimist.
 @Ada
 
 ### Corruption
+
+![corruption points](media/corrupt.jpg)
 They must be conflicted, doubting their own truth.
 @Yule
 
 ### Fall
+
+![fall points](media/fall.jpg)
 Downward spiral, reject theme at very turn, and cling to anti-theme which leads them to their tragic end. 
