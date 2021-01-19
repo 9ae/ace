@@ -43,8 +43,28 @@ When is taking justice in your own hands justifyable?
 - secular: when the legal system fails to protect you
 - religious: will neeed something along the concept on karma to assure people, that justice will be served. @world/religion
 
-`TODO understand why people want revenge`
 
+[Psychology of Revenge](https://www.psychologytoday.com/us/blog/tech-support/201707/the-psychology-revenge-and-vengeful-people)
+
+Most people only daydream about seeking revenge and never go into planning or acting upon.
+"eye for an eye" - old testament justification.
+Jesus was a reformer in encouraging forgiveness.
+
+revenges makes the another suffer, punishment justifies the suffering to prevent future wrong doings.
+
+threat of revenge could have kept people in line to vibe with social codes.
+
+acting on revenge only heighten the relevance of people's traumatic experience even more in their lives.
+
+men tend to derive more pleasure from "getting the bad guys"?
+
+**narcissist** are more likely to seek revenge or those who are **neurotic**. Narcissism is a clearer indicator of people's plan to seek revenge, much more than their ability of forgive. *This makes perfect sense in how he see Sicili, at the end she is just a symbol to his desired life rather than a person.* Inability to manage anger, and obsessive neurotically. 
+
+**Social rejection** increase aggression, by not belonging leads to one's feeling of isolation and takes away their empathy for others. 
+
+[Why It's Secretly Rewarding](https://www.scienceofpeople.com/the-psychology-of-revenge/)
+
+Rush of reward in the moment. But afterwards you feel even worse because you are re-traumatized. Zaki who has felt wronged by so many people, becomes addicted to this feeling. Which is why after his first killing, he goes in for another. **He is chasing that rush**, he felt at the moment.
 
 ---
 ## Goals
@@ -78,6 +98,9 @@ He believe revenge will make him feel safe, but their deaths still haunt him.
 ---
 ## Arc
 
+### Needs
+Vio to break him out of his narrative life story. `A huge gist of writing their arcs is figuring out how they need eachother to grow. That is much more a compelling way to show their attraction than any romance or sexual tension.`
+
 Journey: Forgiveness, Letting go of ideas. Letting go ~ maybe Zaki's journey is one of grief
 
 Story: Zaki wants to get close to Edgar to kill him and the rest of the council. Zaki hell bent on revenge, starts to lighten up with the influence of the sisters. When Sicili finds out he's been stalking her, she tells him to stay away. Instead of letting go, he holds on tighter, believing that to win the Alighieri's sisters back, he has to win the war, and bring the peace they have long for seeked. He believes only in acquiring power, will he be loved.
@@ -103,16 +126,50 @@ paints for a while
 ---
 ## People 
 
+Answer:
+1. How do they see this character?
+2. How does this character see them?
+3. What archetypes does their role in the story play?
+4. What is the progression of this relationship?
+
+
 ### Family
-Deceased father and mother. They are refugee scholars, who lived in a small town. They got murdered by their neighbors.
+Deceased father and mother. They are refugee scholars, who lived in a small town. They got murdered by their neighbors. They never talked about how they got displaced by the Order. They focused on starting a new life in Galei.
 
 ### Friends
+
+`TODO answer`
+*How can we spin it where his sporadic lashing out can be viewed as passion in the romantic tropes and a huge reflag to those who are abuse informed?*
+
+`TODO does he have an insightful senstive friend? Does he have a Max? Vio? Yihan?`
 
 #### Vio
 She is his foil. While he is a mix of MPDB and broody bad boy, how has Vio influence him. She loves whole heartedly. While she may not be his dream girl like Sicili, Vio was the first girl to ever show any interest in him. And even though he never intented to, he shows her a certain degree of vunerability because he doesn't care that much if she will stop liking him. 
 
+He sees **Vio** as the path to get to Sicili. But he ultimately ends up being confused because in many times she breaks his mold that he had set out for her. Well what is that mold? That she's depraved and broken? Her hands are stained with blood, both from his own and Ada's doing she shows greater kindness and bravery than he understood. Vio is a very contradictory character, and filled with internal struggle.
+
+**Vio** sees him as a mystery. He is compelling to her because ... `TODO fill in after you fill out Vio's profile`. She finds him compelling because 
+
 #### Yule
 they have worked togther several times. Their relationship is a bit of the hero v anti-hero archtype.
+
+He sees **Yule** as someone in the way of being with Zaki.
+*How does the Zaki/Sicili/Yule dynamic play out?* Is Zaki aware of Yule and Sicili's budding relationship?
+
+#### Sicili
+He see **Sicili** as the partner he deserves after achieving his goal. She presents the image of what a wife should be, and projects goodness upon her that she doesn't really have.
+
+**Sicili** has never had a lover before. While she doesn't like Zaki, and ultimately thinks he's beneath her. Why would she think that? Because she was raised to see her marriage as a political advantage, and even though she is no longer in that role. The idea of how she sees the value of her own *hand* still has not changed.
+
+### Employment
+
+### Edgar
+He sees **Edgar** as the ultimate goal to exact justice for the injustice done upon his parents. Even when Edgar shows him kindness.
+
+**Edgar** or more percisely how the the council see him? They know who he is, why do they not arrest him? Do they know he's killing people from prominent families? ~~What if they do, and just lets it happen anyway because they want to use him to be the new figure head of the nation.~~
+If they didn't know, why would they hire him? When did Edgar die? Sometime after Jacques pulled the org out. So his relationship with Edgar is just his relationship with the council, and since one of the councilmen hired him to kill the Aligheiri... does the councilman know it's Zaki?
+Yes: He'll be keeping Zaki under his watch by hiring him as Edgar. 
+No: Who are the council that are decided to hire Zaki? `TODO revisit after Edgar's profile`
 
 ---
 ## Backstory
@@ -193,22 +250,26 @@ Their pattern is rush, rush, peace. Where for two chapters they have exciting ad
 What are the precautions of homeschoolig kids? Is that similar to a cancer survivor?
 
 *How do they see themselves?*
-
+Zaki see himself as the center of this world. And view all things as how it ultimately affects him. His parent's murder was bad because it put his life at risk. 
 
 *How do they see others?*
-
+He sees other as a means to achieve the life he wants. He thinks everyone is just looking out for themselves and will cheat/hurt others to get what they need. For that he keeps mostly to himself.
 
 *How do others see them?*
+The is normally viewed as secretive, since he spent most of his life hiding. Most people don't catch on to his narcissitic tendencies, except Yule, who by working for a egomaniac caught on. Yihan, who is most socially ept notices too, but I'm not sure if they ever had much interaction together.
 
+*How does Zaki think of a punative justice system vs a restorative one?*
+Like Light he is for a punative justice system as long as it actually is just. He understands that a punative justice system that is not fair for all people, is itself a means of oppression.
+What about restorative justice? It has never crossed his mind, it is the sisters, who has brought the idea to him. How did he react to it? At first he dismisses it for being impractical. It will take too long to rehabilitate, and seeing the cruelty of people as a young child, he believes that some people are just bad and unredeemable. Therefore setting on the conclusion that ultimately it will fail because you can't fix people. Bad people should be immediately disposed of as to not drain a toll on society. Keeping them in jail is just a waste of state resources.
 
 *What do they feel about the gov?*
 "You'll always be a guest in someone's house" - on POC citizens in a country.
 
 *What do they feel about the church?*
-
+N/A He was raised under a different religion. Even though it was the Order that made his parents refugees, he was born in Galei and does not hold any meaningful resentment towards them. His parents didn't either, they let the cause of their displacement go and tried their best to focus on starting a new life in Galei.
 
 *How do they see the world?*
-
+Sees things in black and white. He sees people as symbols, and ultimately believes that people are more often bad than good. 
 
 ---
 ## Battle strategy
@@ -233,7 +294,7 @@ MBTI: INTJ (Architect)
 Ennegram: 4 - Individualist
 
 ## Neurospectrums
-borderline personality disorder
+`TODO What are co-morbid issues narcissist have?`
 
 ---
 

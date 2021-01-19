@@ -85,7 +85,7 @@ How do they see themselves?
 > 
 
 How do they see others?
-
+[Zaki](zaki.md#perspective)
 > 
 
 How do others see them?

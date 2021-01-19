@@ -48,11 +48,20 @@ Catch Phrase
 
 ---
 ## People
+Answer:
+1. How do they see this character?
+2. How does this character see them?
+3. What archetypes does their role in the story play?
+4. What is the progression of this relationship?
+
 
 ### Family
 
 
 ### Friends
+
+
+### Employment
 
 
 ---

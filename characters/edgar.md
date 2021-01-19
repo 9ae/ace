@@ -1,5 +1,7 @@
 # Edgar von Essen
 
+`There are two Edgars, the real one who died. And the shadow puppet Edgar controlled by the council. What are their motivations?`
+
 Other names:
 
 Birthday:
