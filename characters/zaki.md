@@ -99,14 +99,78 @@ He believe revenge will make him feel safe, but their deaths still haunt him.
 ## Arc
 
 ### Needs
-Vio to break him out of his narrative life story. `A huge gist of writing their arcs is figuring out how they need eachother to grow. That is much more a compelling way to show their attraction than any romance or sexual tension.`
+Vio to break him out of his narrative life story. *A huge gist of writing their arcs is figuring out how they need eachother to grow. That is much more a compelling way to show their attraction than any romance or sexual tension.*
 
 Journey: Forgiveness, Letting go of ideas. Letting go ~ maybe Zaki's journey is one of grief
 
 Story: Zaki wants to get close to Edgar to kill him and the rest of the council. Zaki hell bent on revenge, starts to lighten up with the influence of the sisters. When Sicili finds out he's been stalking her, she tells him to stay away. Instead of letting go, he holds on tighter, believing that to win the Alighieri's sisters back, he has to win the war, and bring the peace they have long for seeked. He believes only in acquiring power, will he be loved.
 
-`TODO structure for negative arc`
-https://www.youtube.com/watch?v=z1lXgxyWrKw
+### Misbelief
+- Revenge will bring you happiness
+- Being victorious makes you worthy of love
+
+*What if Zaki's serial kills are not about personal vendetta but killing those who have harmed Sicili?* It will tie his two plot threads tighter together. But now how do we tie that into the revenge theme?
+
+
+### Fall Arc
+
+`TODO 9-pt plot is much more exciting than Abbie's... but we may no have enough pre-planned plot points for Zaki. Can we squeeze more in or just have a few more things happen after he kill Edgar.` Does he get caught, does the step forward? How will the country handle him?
+
+[The better fall structure](https://www.helpingwritersbecomeauthors.com/learn-5-types-of-character-arc-at-a-glance-the-3-negative-arcs-part-2-of-2/)
+
+(Act 1)
+#### Hook
+Believes in lie but is also *conflicted*.
+*What does my character think will make them happy?*
+*How is their desire based on their misbelief?*
+
+#### Inciting Incident
+Lie my not bring you happiness
+
+#### Fear-base choice (battle 1)
+Pushed outside their comfort zone, when his world view gets challenged.
+
+*How can they still get what he still find happiness, without changing his perspective?*
+
+Does he lean closer to the theme? **What if working for the Atonian councilman, was his plan to get closer to Edgar. But his rejection of finishing the job cost him his chances.** But he decides it's okay, he may have another path to get to Edgar. And even contemplates letting of completing his revenge, (influcned by Vio) and living happily with Sicili. 
+
+(Act 2)
+
+#### Game changer
+midpoint plot twist. They make a decision that will change everything.
+
+**SOMETHING HAPPENS! Edgar threatens Sicili, and he decides she can never be safe if he doesn't kill Edgar. It doesn't have to be direct, he could pass a policy that threatens her.** Maybe it's all undocumented people will be shipped out. Sicili casually mentions she'll never feel safe with Edgar as PM. He tells her "don't worry, I'll keep you safe."
+
+*What unexpected event/cause is going to fuck up their plan/life?*
+*Why does it matter to them?*
+*How does it change their plan?*
+
+#### Battle 2
+anti-theme is effective, but destructive
+
+#### Darkest Hour
+Or brightest hour, when Zaki thinks he can be happy.
+
+(act 3)
+#### Battle 3 (Acceptance of anti-theme)
+Fails to get want/need
+He kills Edgar, and Sicili doesn't want to be with him.
+
+Accepts anti-theme as their truth, and getting what they want without realizing the truth
+
+*What makes my character embrace the anti-theme once and for all?*
+*What dramatic action do they take to get what they want?*
+
+#### Climax
+manic attempt to salvage want
+
+#### Total destruction
+Does he fall apart?
+
+#### Tragic End
+After embrace their anti-theme, they realize it does not bring them happiness.
+
+*How can I show my readers that they are to blame for their own tragic end?*
 
 
 ---
@@ -275,26 +339,30 @@ Sees things in black and white. He sees people as symbols, and ultimately believ
 ## Battle strategy
 
 *How do they deal with conflict?*
-
+Retreat, and them come back when he has a plan.
+Unlike Alan he doesn't rush into action, but he also doesn't shy away from a fight. 
 
 *How do they deal with loss?*
-
+How did he cope with his parents death? Did he ever have space, when immediately after he was worried about survival?
 
 *How do they deal with change?*
+He is pretty adaptive, after all he learned to live on the streets and get taken up by the poison master.
 
 *What is their method of manipulation?*
-
+Acts of kindness, or helping out. After meeting Sicili, he is always willing to offer help to Vio. To get close to Edgar, he takes on more government secret jobs.
+He has learned this through his relationship with the poison master.
 
 ---
 
 ## Astrology
 
-MBTI: INTJ (Architect)
+MBTI: INFJ (Advocate)
 
 Ennegram: 4 - Individualist
 
 ## Neurospectrums
-`TODO What are co-morbid issues narcissist have?`
+Borderline and narcissist. He is in a toxic relationship with himself. The narcacistic tendencies are a cover-up for the insecurities felt by his borderline insecurities. 
+Have poor insight over how his behaviors are detrimental to himself. 
 
 ---
 
