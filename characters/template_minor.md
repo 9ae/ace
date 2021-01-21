@@ -6,10 +6,6 @@ Birthday:
 
 Place of Origin:
 
-Family:
-
-Friends:
-
 Catch Phrase
 > 
 
@@ -27,6 +23,15 @@ Catch Phrase
 
 *What is their theme? What will they teach a MC?*
 
+
+---
+## People
+
+### Family
+
+### Friends
+
+### Colleagues
 
 ---
 ## Backstory

@@ -19,6 +19,10 @@ Who brings people together? *Sicili*, *Alan*
 
 # Arcs
 
+## Thematic Truth
+The lie the character believes is specifici to their goals/challenges. But the truth ha sto be infinite, with multiple facets. 
+The lie should interact with every point in the main conflict and the truth comes in to throw the lie into question.
+
 ## Negative arcs
 
 > Character who ultimately believe in the anti-theme.
@@ -44,6 +48,7 @@ plot twist, forcing the character to make another decision, one that will change
 *How does it change their plan?*
 
 If they are the antagonist, they might cause the twist, then show how does it effect/benefits them.
+It can also be significant to them, by showing how far they will go. Point of no return.
 
 #### Acceptance of anti-theme
 Accepts anti-theme as their truth, and getting what they want without realizing the truth
@@ -72,3 +77,12 @@ They must be conflicted, doubting their own truth.
 
 ![fall points](media/fall.jpg)
 Downward spiral, reject theme at very turn, and cling to anti-theme which leads them to their tragic end. 
+
+
+### Examples
+
+Loki's fear that he is an outsider and my not be worthy.
+Therefore it makes him want to be king of asgard to make him prove himself.
+Even after getting what he wants, he is still haunted by his fear.
+
+Show their internal conflict in their first scene.
