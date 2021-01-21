@@ -1,34 +1,40 @@
 # Sicili Alighieri
 
-Other names: 
+Other names: Sici
 
-Birthday:
+Birthday: Libra
 
-Place of Origin:
+Place of Origin: Renova, Atonia
 
 Job: (what do they do and how did they get started)
+A school teacher working with church's private day care programs.
 
 Catch Phrase
 > 
 
 plays the violin
+
 ---
 ## Impact
 
 *Why do they enter the story?*
-
+She wants to prove that even though the Order has been ruthless. The religion can still help people find inner peace.
 
 *What is their relationship to a major character*
-
+She is the person Vio lives to protect.
+... the aspiration Zaki hopes to obtain.
+She inspires Yule to standup to Roderick and fight for what is right (according to religion's ethnics instead of the Order's ambitions.)
 
 *How do they influence the plot?*
-
+`TODO other than pre-Varin she doesn't have her own plot line, but gets threaded into others plot.`
 
 *What is their theme? What will they teach a MC?*
-
+- *Which one of Lygeia's teachings does she believe in the most?*
 
 ---
 ## Arc
+
+`TODO make her more action orientated in her plan with Yule to regain his position with Roderick`
 
 Her growth in s1 is a **circle arc**.
 
