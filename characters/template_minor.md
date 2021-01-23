@@ -127,3 +127,8 @@ Ennegram:
 
 
 ---
+
+## Inspirations
+
+
+--

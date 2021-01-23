@@ -9,6 +9,12 @@ Place of Origin: Renova, Atonia
 Job: (what do they do and how did they get started)
 A school teacher working with church's private day care programs.
 
+Feelings:
+- thankful: "The Lady Prophet blessed us with..."
+- trusting: 
+- appaluade: "Just unbelievable".
+- cautious: 
+
 Catch Phrase
 > 
 

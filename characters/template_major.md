@@ -9,6 +9,9 @@ Place of Origin:
 Job: (what do they do and how did they get started)
 
 Catch Phrase
+- What determins something you would say a lot?
+- Could be a nervous habit? When do they say it?
+- What is an feeling they would express alot? "Cool beans" means 'whatever', so that's apathy.
 > 
 
 ---
@@ -175,3 +178,8 @@ Ennegram:
 
 
 ---
+
+## Inspirations
+
+
+--
