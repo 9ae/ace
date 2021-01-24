@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ScappleDocument Version="1.2" ID="C99465F0-5840-4269-B406-8FA87E9F2157">
     <Notes>
-        <Note ID="0" FontSize="12.0" Position="951.989746,339.456543" Width="80.0">
+        <Note ID="0" FontSize="12.0" Position="952.0,339.0" Width="80.0">
             <Appearance>
                 <Alignment>Left</Alignment>
                 <Border Weight="1">0.894548 0.707752 0.715898</Border>
@@ -11,14 +11,14 @@
             <ConnectedNoteIDs>1, 4, 7</ConnectedNoteIDs>
             <PointsToNoteIDs>1</PointsToNoteIDs>
         </Note>
-        <Note ID="1" FontSize="12.0" Position="1028.763916,234.900848" Width="38.0">
+        <Note ID="1" FontSize="12.0" Position="1029.0,235.0" Width="38.0">
             <Appearance>
                 <Alignment>Left</Alignment>
             </Appearance>
             <String>Ada</String>
             <ConnectedNoteIDs>0</ConnectedNoteIDs>
         </Note>
-        <Note ID="2" FontSize="12.0" Position="1013.292969,431.258972" Width="65.0">
+        <Note ID="2" FontSize="12.0" Position="1013.0,431.0" Width="65.0">
             <Appearance>
                 <Alignment>Left</Alignment>
                 <Border Weight="1">0.894548 0.707752 0.715898</Border>
@@ -27,7 +27,7 @@
             <String>2. Helper</String>
             <ConnectedNoteIDs>4, 8</ConnectedNoteIDs>
         </Note>
-        <Note ID="3" FontSize="12.0" Position="1013.152222,544.808777" Width="76.0">
+        <Note ID="3" FontSize="12.0" Position="1013.0,545.0" Width="76.0">
             <Appearance>
                 <Alignment>Left</Alignment>
                 <Border Weight="1">0.894548 0.707752 0.715898</Border>
@@ -36,7 +36,7 @@
             <String>3. Achiever</String>
             <ConnectedNoteIDs>6, 9</ConnectedNoteIDs>
         </Note>
-        <Note ID="4" FontSize="12.0" Position="908.0,630.115906" Width="93.0">
+        <Note ID="4" FontSize="12.0" Position="908.0,630.0" Width="93.0">
             <Appearance>
                 <Alignment>Left</Alignment>
                 <Border Weight="1">0.894548 0.707752 0.715898</Border>
@@ -46,17 +46,17 @@
             <ConnectedNoteIDs>0, 2, 10</ConnectedNoteIDs>
             <PointsToNoteIDs>10</PointsToNoteIDs>
         </Note>
-        <Note ID="5" FontSize="12.0" Position="726.79071,624.560364" Width="92.0">
+        <Note ID="5" FontSize="12.0" Position="727.0,625.0" Width="92.0">
             <Appearance>
                 <Alignment>Left</Alignment>
                 <Border Weight="1">0.894548 0.707752 0.715898</Border>
                 <Fill>0.989117 0.814091 0.999474</Fill>
             </Appearance>
             <String>5. Investigator</String>
-            <ConnectedNoteIDs>7-8, 11</ConnectedNoteIDs>
-            <PointsToNoteIDs>11</PointsToNoteIDs>
+            <ConnectedNoteIDs>7-8, 11-12</ConnectedNoteIDs>
+            <PointsToNoteIDs>11-12</PointsToNoteIDs>
         </Note>
-        <Note ID="6" FontSize="12.0" Position="641.384033,545.0" Width="71.0">
+        <Note ID="6" FontSize="12.0" Position="641.0,545.0" Width="71.0">
             <Appearance>
                 <Alignment>Left</Alignment>
                 <Border Weight="1">0.894548 0.707752 0.715898</Border>
@@ -65,7 +65,7 @@
             <String>6. Loyalist</String>
             <ConnectedNoteIDs>3, 9</ConnectedNoteIDs>
         </Note>
-        <Note ID="7" FontSize="12.0" Position="613.036804,440.716125" Width="86.0">
+        <Note ID="7" FontSize="12.0" Position="613.0,441.0" Width="86.0">
             <Appearance>
                 <Alignment>Left</Alignment>
                 <Border Weight="1">0.894548 0.707752 0.715898</Border>
@@ -74,7 +74,7 @@
             <String>7. Enthusiast</String>
             <ConnectedNoteIDs>0, 5</ConnectedNoteIDs>
         </Note>
-        <Note ID="8" FontSize="12.0" Position="687.143311,342.088806" Width="88.0">
+        <Note ID="8" FontSize="12.0" Position="687.0,342.0" Width="88.0">
             <Appearance>
                 <Alignment>Left</Alignment>
                 <Border Weight="1">0.894548 0.707752 0.715898</Border>
@@ -92,23 +92,30 @@
             <String>9. Peacemaker</String>
             <ConnectedNoteIDs>3, 6</ConnectedNoteIDs>
         </Note>
-        <Note ID="10" FontSize="12.0" Position="979.936279,708.718323" Width="39.0">
+        <Note ID="10" FontSize="12.0" Position="980.0,709.0" Width="39.0">
             <Appearance>
                 <Alignment>Left</Alignment>
             </Appearance>
             <String>Zaki</String>
             <ConnectedNoteIDs>4</ConnectedNoteIDs>
         </Note>
-        <Note ID="11" FontSize="12.0" Position="722.562195,703.360535" Width="47.0">
+        <Note ID="11" FontSize="12.0" Position="723.0,703.0" Width="47.0">
             <Appearance>
                 <Alignment>Left</Alignment>
             </Appearance>
             <String>Yihan</String>
             <ConnectedNoteIDs>5</ConnectedNoteIDs>
         </Note>
+        <Note ID="12" FontSize="12.0" Position="784.0,750.0" Width="34.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>Vio</String>
+            <ConnectedNoteIDs>5</ConnectedNoteIDs>
+        </Note>
     </Notes>
     <BackgroundShapes></BackgroundShapes>
-    <AutoFit>0-11</AutoFit>
+    <AutoFit>0-12</AutoFit>
     <NoteStyles>
         <Style Name="Bubble (Blue)" ID="6FA03F3D-C77B-4CD0-B8F4-8C7B329E6C2B" AffectFontStyle="No" AffectAlignment="No" AffectTextColor="No" AffectNoteBody="Yes" AffectFade="No">
             <BorderThickness>1</BorderThickness>

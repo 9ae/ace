@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ScappleDocument Version="1.2" ID="0FD55145-99E3-4578-BB15-CA376193CCAE">
     <Notes>
-        <Note ID="0" FontSize="28.0" Position="1192.395874,1425.351807" Width="73.0">
+        <Note ID="0" FontSize="28.0" Position="1192.0,1425.0" Width="73.0">
             <Appearance>
                 <Border Style="Jagged"></Border>
                 <Fill>0.318823 0.0 0.934535</Fill>
@@ -12,7 +12,7 @@
                 <FormatRange Bold="Yes">0,4</FormatRange>
             </Formatting>
         </Note>
-        <Note ID="1" FontSize="12.0" Position="1339.395874,1386.351807" Width="200.0">
+        <Note ID="1" FontSize="12.0" Position="1339.0,1386.0" Width="200.0">
             <Appearance>
                 <Alignment>Left</Alignment>
                 <Border Weight="1">0.668968 0.810267 0.895084</Border>
@@ -22,7 +22,7 @@
             <ConnectedNoteIDs>0, 2</ConnectedNoteIDs>
             <PointsToNoteIDs>2</PointsToNoteIDs>
         </Note>
-        <Note ID="2" FontSize="12.0" Position="1696.395874,1342.351807" Width="200.0">
+        <Note ID="2" FontSize="12.0" Position="1696.0,1342.0" Width="200.0">
             <Appearance>
                 <Alignment>Left</Alignment>
                 <Border Weight="1">0.668968 0.810267 0.895084</Border>
@@ -32,7 +32,7 @@
             <ConnectedNoteIDs>1, 3</ConnectedNoteIDs>
             <PointsToNoteIDs>3</PointsToNoteIDs>
         </Note>
-        <Note ID="3" FontSize="12.0" Position="2150.395752,1355.351807" Width="200.0">
+        <Note ID="3" FontSize="12.0" Position="2150.0,1355.0" Width="200.0">
             <Appearance>
                 <Alignment>Left</Alignment>
                 <Border Weight="1">0.668968 0.810267 0.895084</Border>
@@ -42,7 +42,7 @@
             <ConnectedNoteIDs>2, 4</ConnectedNoteIDs>
             <PointsToNoteIDs>4</PointsToNoteIDs>
         </Note>
-        <Note ID="4" FontSize="12.0" Position="2514.395752,1382.351807" Width="122.0">
+        <Note ID="4" FontSize="12.0" Position="2514.0,1382.0" Width="122.0">
             <Appearance>
                 <Alignment>Left</Alignment>
                 <Border Weight="1">0.668968 0.810267 0.895084</Border>
@@ -52,7 +52,7 @@
             <ConnectedNoteIDs>3, 5</ConnectedNoteIDs>
             <PointsToNoteIDs>5</PointsToNoteIDs>
         </Note>
-        <Note ID="5" FontSize="12.0" Position="2815.395752,1390.351807" Width="200.0">
+        <Note ID="5" FontSize="12.0" Position="2815.0,1390.0" Width="200.0">
             <Appearance>
                 <Alignment>Left</Alignment>
                 <Border Weight="1">0.668968 0.810267 0.895084</Border>
@@ -61,67 +61,67 @@
             <String>Kills Edgar, only to find out he was already dead.</String>
             <ConnectedNoteIDs>4, 18</ConnectedNoteIDs>
         </Note>
-        <Note ID="6" FontSize="12.0" Position="1155.395874,1503.351807" Width="200.0">
+        <Note ID="6" FontSize="12.0" Position="1155.0,1503.0" Width="200.0">
             <Appearance>
                 <Alignment>Left</Alignment>
                 <Border Weight="1">0.669411 0.885244 0.567003</Border>
-                <Fill>0.74379 0.983605 0.630003</Fill>
+                <Fill>0.990121 0.815203 0.999729</Fill>
             </Appearance>
             <String>Gets hired by an Atonia expat, to kill three people.</String>
             <ConnectedNoteIDs>0, 7</ConnectedNoteIDs>
             <PointsToNoteIDs>7</PointsToNoteIDs>
         </Note>
-        <Note ID="7" FontSize="12.0" Position="1307.395874,1584.351807" Width="124.0">
+        <Note ID="7" FontSize="12.0" Position="1307.0,1584.0" Width="94.0">
             <Appearance>
                 <Alignment>Left</Alignment>
                 <Border Weight="1">0.669411 0.885244 0.567003</Border>
-                <Fill>0.74379 0.983605 0.630003</Fill>
+                <Fill>0.990121 0.815203 0.999729</Fill>
             </Appearance>
-            <String>New kills Lesbia</String>
-            <ConnectedNoteIDs>6, 25</ConnectedNoteIDs>
-            <PointsToNoteIDs>25</PointsToNoteIDs>
+            <String>He kills Lesbia</String>
+            <ConnectedNoteIDs>6, 25, 33</ConnectedNoteIDs>
+            <PointsToNoteIDs>25, 33</PointsToNoteIDs>
         </Note>
-        <Note ID="8" FontSize="12.0" Position="1704.395874,1537.351807" Width="148.0">
+        <Note ID="8" FontSize="12.0" Position="1704.0,1537.0" Width="148.0">
             <Appearance>
                 <Alignment>Left</Alignment>
                 <Border Weight="1">0.669411 0.885244 0.567003</Border>
-                <Fill>0.74379 0.983605 0.630003</Fill>
+                <Fill>0.990121 0.815203 0.999729</Fill>
             </Appearance>
             <String>Finds out next hit is Sicili</String>
             <ConnectedNoteIDs>9, 25</ConnectedNoteIDs>
             <PointsToNoteIDs>9</PointsToNoteIDs>
         </Note>
-        <Note ID="9" FontSize="12.0" Position="1809.395874,1598.351807" Width="160.0">
+        <Note ID="9" FontSize="12.0" Position="1809.0,1598.0" Width="160.0">
             <Appearance>
                 <Alignment>Left</Alignment>
                 <Border Weight="1">0.669411 0.885244 0.567003</Border>
-                <Fill>0.74379 0.983605 0.630003</Fill>
+                <Fill>0.990121 0.815203 0.999729</Fill>
             </Appearance>
             <String>Gets close to Vio to meet Sicili.</String>
             <ConnectedNoteIDs>8, 10, 23</ConnectedNoteIDs>
             <PointsToNoteIDs>10</PointsToNoteIDs>
         </Note>
-        <Note ID="10" FontSize="12.0" Position="1845.395874,1652.351807" Width="128.0">
+        <Note ID="10" FontSize="12.0" Position="1845.0,1652.0" Width="128.0">
             <Appearance>
                 <Alignment>Left</Alignment>
                 <Border Weight="1">0.669411 0.885244 0.567003</Border>
-                <Fill>0.74379 0.983605 0.630003</Fill>
+                <Fill>0.990121 0.815203 0.999729</Fill>
             </Appearance>
             <String>Meets Sicili and falls in love with her</String>
             <ConnectedNoteIDs>9, 11</ConnectedNoteIDs>
             <PointsToNoteIDs>11</PointsToNoteIDs>
         </Note>
-        <Note ID="11" FontSize="12.0" Position="2011.395874,1548.351807" Width="229.0">
+        <Note ID="11" FontSize="12.0" Position="2011.0,1548.0" Width="229.0">
             <Appearance>
                 <Alignment>Left</Alignment>
                 <Border Weight="1">0.669411 0.885244 0.567003</Border>
-                <Fill>0.74379 0.983605 0.630003</Fill>
+                <Fill>0.990121 0.815203 0.999729</Fill>
             </Appearance>
             <String>Gives Atonian guy the money back. Also warn him if anyone harms her he will make sure they are hurt 10x.</String>
             <ConnectedNoteIDs>10, 12, 15, 22</ConnectedNoteIDs>
             <PointsToNoteIDs>15</PointsToNoteIDs>
         </Note>
-        <Note ID="12" FontSize="12.0" Position="2124.395752,1677.351807" Width="200.0">
+        <Note ID="12" FontSize="12.0" Position="2124.0,1677.0" Width="200.0">
             <Appearance>
                 <Alignment>Left</Alignment>
                 <TextColor>0.0 0.0 0.0</TextColor>
@@ -131,7 +131,7 @@
             <String>How does the Atonian guy respond?</String>
             <ConnectedNoteIDs>11</ConnectedNoteIDs>
         </Note>
-        <Note ID="15" FontSize="12.0" Position="2275.395752,1548.351807" Width="145.0">
+        <Note ID="15" FontSize="12.0" Position="2275.0,1548.0" Width="145.0">
             <Appearance>
                 <Alignment>Left</Alignment>
                 <Border Weight="1">0.894548 0.707752 0.715898</Border>
@@ -141,7 +141,7 @@
             <ConnectedNoteIDs>11, 16</ConnectedNoteIDs>
             <PointsToNoteIDs>16</PointsToNoteIDs>
         </Note>
-        <Note ID="16" FontSize="12.0" Position="2455.395752,1548.351807" Width="200.0">
+        <Note ID="16" FontSize="12.0" Position="2455.0,1548.0" Width="200.0">
             <Appearance>
                 <Alignment>Left</Alignment>
                 <Border Weight="1">0.894548 0.707752 0.715898</Border>
@@ -151,7 +151,7 @@
             <ConnectedNoteIDs>15, 17</ConnectedNoteIDs>
             <PointsToNoteIDs>17</PointsToNoteIDs>
         </Note>
-        <Note ID="17" FontSize="12.0" Position="2690.395752,1548.351807" Width="111.0">
+        <Note ID="17" FontSize="12.0" Position="2690.0,1548.0" Width="111.0">
             <Appearance>
                 <Alignment>Left</Alignment>
                 <Border Weight="1">0.894548 0.707752 0.715898</Border>
@@ -161,17 +161,17 @@
             <ConnectedNoteIDs>16, 18, 27</ConnectedNoteIDs>
             <PointsToNoteIDs>18</PointsToNoteIDs>
         </Note>
-        <Note ID="18" FontSize="12.0" Position="2836.395752,1548.351807" Width="155.0">
+        <Note ID="18" FontSize="12.0" Position="2836.0,1548.0" Width="155.0">
             <Appearance>
                 <Alignment>Left</Alignment>
                 <Border Weight="1">0.894548 0.707752 0.715898</Border>
                 <Fill>0.989117 0.814091 0.999474</Fill>
             </Appearance>
-            <String>She finds out he was the one who killed Sicili</String>
-            <ConnectedNoteIDs>5, 17, 24</ConnectedNoteIDs>
-            <PointsToNoteIDs>24</PointsToNoteIDs>
+            <String>Vio finds out he was the one who killed Lessa</String>
+            <ConnectedNoteIDs>5, 17, 24, 37-38</ConnectedNoteIDs>
+            <PointsToNoteIDs>24, 38</PointsToNoteIDs>
         </Note>
-        <Note ID="22" FontSize="12.0" Position="2015.395874,1429.351807" Width="216.0">
+        <Note ID="22" FontSize="12.0" Position="2015.0,1429.0" Width="216.0">
             <Appearance>
                 <Alignment>Left</Alignment>
                 <Border Weight="1">0.894548 0.707752 0.715898</Border>
@@ -182,7 +182,7 @@ So what we need to know before this happens what does he do that makes the audie
             <ConnectedNoteIDs>11, 23</ConnectedNoteIDs>
             <PointsToNoteIDs>11, 23</PointsToNoteIDs>
         </Note>
-        <Note ID="23" FontSize="12.0" Position="1674.395874,1463.351807" Width="200.0">
+        <Note ID="23" FontSize="12.0" Position="1674.0,1463.0" Width="200.0">
             <Appearance>
                 <Alignment>Left</Alignment>
                 <Fill>1.0 1.0 1.0</Fill>
@@ -191,7 +191,7 @@ So what we need to know before this happens what does he do that makes the audie
             <ConnectedNoteIDs>9, 22</ConnectedNoteIDs>
             <PointsToNoteIDs>9</PointsToNoteIDs>
         </Note>
-        <Note ID="24" FontSize="12.0" Position="3037.395752,1541.351807" Width="200.0">
+        <Note ID="24" FontSize="12.0" Position="3037.0,1541.0" Width="200.0">
             <Appearance>
                 <Alignment>Left</Alignment>
                 <Border Weight="1">0.894548 0.707752 0.715898</Border>
@@ -200,17 +200,17 @@ So what we need to know before this happens what does he do that makes the audie
             <String>[S2] He believes that taking control of Galei will make them forgive him. If he can make a country they are safe in?</String>
             <ConnectedNoteIDs>18</ConnectedNoteIDs>
         </Note>
-        <Note ID="25" FontSize="12.0" Position="1451.395874,1540.351807" Width="206.0">
+        <Note ID="25" FontSize="12.0" Position="1451.0,1540.0" Width="206.0">
             <Appearance>
                 <Alignment>Left</Alignment>
                 <Border Weight="1">0.669411 0.885244 0.567003</Border>
-                <Fill>0.74379 0.983605 0.630003</Fill>
+                <Fill>0.990121 0.815203 0.999729</Fill>
             </Appearance>
-            <String>[2] She saves him from the protest before squaring off with Yule</String>
-            <ConnectedNoteIDs>7-8, 26</ConnectedNoteIDs>
+            <String>[2] Vio saves him from the protest before squaring off with Yule</String>
+            <ConnectedNoteIDs>7-8, 26, 34</ConnectedNoteIDs>
             <PointsToNoteIDs>8</PointsToNoteIDs>
         </Note>
-        <Note ID="26" FontSize="12.0" Position="1460.395874,1623.351807" Width="200.0">
+        <Note ID="26" FontSize="12.0" Position="1460.0,1623.0" Width="200.0">
             <Appearance>
                 <Alignment>Left</Alignment>
                 <Border Weight="1" Style="Square">0.668968 0.810267 0.895084</Border>
@@ -222,7 +222,7 @@ Vio is amazed, he says either way they will put him in prison. He was just bluff
 Show how anxious he actually his feeling. Have Vio meet him before te protest wher he is surrounded by cigarette buds.</String>
             <ConnectedNoteIDs>25</ConnectedNoteIDs>
         </Note>
-        <Note ID="27" FontSize="12.0" Position="2684.395752,1647.351807" Width="200.0">
+        <Note ID="27" FontSize="12.0" Position="2684.0,1647.0" Width="200.0">
             <Appearance>
                 <Alignment>Left</Alignment>
                 <Border Weight="1" Style="Square">0.668968 0.810267 0.895084</Border>
@@ -231,7 +231,7 @@ Show how anxious he actually his feeling. Have Vio meet him before te protest wh
             <String>[post-Varin] They go out into the streets, where Zaki teachs Vio a thing or two out pick pocketing. A man chase them down and they pretend to be a couple and kiss. Even after they no longer need to, they kiss again.</String>
             <ConnectedNoteIDs>17</ConnectedNoteIDs>
         </Note>
-        <Note ID="28" FontSize="12.0" Position="251.322281,259.262207" Width="200.0">
+        <Note ID="28" FontSize="12.0" Position="251.0,259.0" Width="200.0">
             <Appearance>
                 <Alignment>Left</Alignment>
                 <TextColor>0.0 0.0 0.0</TextColor>
@@ -241,21 +241,77 @@ Show how anxious he actually his feeling. Have Vio meet him before te protest wh
             <String>_’s default function is forgiveness.
 And they are too ready to put themselves to the path of forgiveness even when they are not emotionally readly</String>
         </Note>
-        <Note ID="30" FontSize="12.0" Position="291.430908,204.788208" Width="82.0">
+        <Note ID="30" FontSize="12.0" Position="291.0,205.0" Width="82.0">
             <Appearance>
                 <Alignment>Left</Alignment>
             </Appearance>
             <String>Forgiveness</String>
         </Note>
+        <Note ID="32" FontSize="28.0" Position="1115.511719,1179.599365" Width="60.0">
+            <Appearance>
+                <TextColor>1.0 1.0 1.0</TextColor>
+                <Border Style="Jagged"></Border>
+                <Fill>0.318823 0.0 0.934535</Fill>
+            </Appearance>
+            <String>Vio</String>
+            <ConnectedNoteIDs>33</ConnectedNoteIDs>
+            <PointsToNoteIDs>33</PointsToNoteIDs>
+            <Formatting>
+                <FormatRange Bold="Yes">0,3</FormatRange>
+            </Formatting>
+        </Note>
+        <Note ID="33" FontSize="12.0" Position="1254.321899,1235.046265" Width="200.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Fill>0.990121 0.815203 0.999729</Fill>
+            </Appearance>
+            <String>Discovers Lesbia is murdered.
+Finds evidence that suggest the murder is after her family</String>
+            <ConnectedNoteIDs>7, 32, 34</ConnectedNoteIDs>
+            <PointsToNoteIDs>34</PointsToNoteIDs>
+        </Note>
+        <Note ID="34" FontSize="12.0" Position="1490.327148,1193.288818" Width="200.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Fill>0.990121 0.815203 0.999729</Fill>
+            </Appearance>
+            <String>Decides that they must find Lessa’s killer, because might be in danger too. Is terrified of not just the feds but of being seen at all. She worries that will expose them.</String>
+            <ConnectedNoteIDs>25, 33, 35</ConnectedNoteIDs>
+            <PointsToNoteIDs>25, 35</PointsToNoteIDs>
+        </Note>
+        <Note ID="35" FontSize="12.0" Position="1744.644531,1217.661987" Width="81.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>Investigate?</String>
+            <ConnectedNoteIDs>34, 37</ConnectedNoteIDs>
+            <PointsToNoteIDs>37</PointsToNoteIDs>
+        </Note>
+        <Note ID="37" FontSize="12.0" Position="2711.740479,1232.261108" Width="177.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>Gets tempted into revengence</String>
+            <ConnectedNoteIDs>18, 35</ConnectedNoteIDs>
+            <PointsToNoteIDs>18</PointsToNoteIDs>
+        </Note>
+        <Note ID="38" FontSize="12.0" Position="3072.493652,1217.800049" Width="224.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Fill>0.989117 0.814091 0.999474</Fill>
+            </Appearance>
+            <String>Sicili urge her to remember who she is, and why she needs to forgive.</String>
+            <ConnectedNoteIDs>18</ConnectedNoteIDs>
+        </Note>
     </Notes>
     <BackgroundShapes>
-        <Shape ID="29" Sticky="No" Position="203.934555,157.796066" Width="508.757599" Height="372.0">
+        <Shape ID="29" Sticky="No" Position="204.0,158.0" Width="508.757599" Height="372.0">
             <Appearance>
                 <Border Weight="1"></Border>
             </Appearance>
         </Shape>
     </BackgroundShapes>
-    <AutoFit>0, 4, 8, 15, 17, 30</AutoFit>
+    <AutoFit>0, 4, 7-8, 15, 17, 30, 32, 35, 37</AutoFit>
     <NoteStyles>
         <Style Name="Brainstorm" ID="D5622E4C-6A60-4D52-BC63-15D03A3E3745" AffectFontStyle="Yes" AffectAlignment="Yes" AffectTextColor="Yes" AffectNoteBody="Yes" AffectSize="No" AffectFade="No" AffectSticky="Yes">
             <FontSize>12.0</FontSize>

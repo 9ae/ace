@@ -33,7 +33,11 @@ How to write autistic characters with good dialogue?
 Entrapta draws us in with her sense of wonder. Despite being jaded what are characteristics if Vio inspires us to believe in a better world? She is constantly giving everyone the benefit of the doubt, despite her solidary nature and fear of people. She secretly yearns to be surrounded by people. Anyone that is willing to be part of her life, she is too afraid to lose. 
 
 *What is her vunerability that makes her relatable to readers?*
+Vio had always been a romantic at heart. She hides it because she was brought up to be a fighter and a leader. Since her family had been kidnapped and held for ransome many times, she didn't think it was reasonable for someone in leadership position to have loved ones. She doesn't want that to happen to her spouse or children.
 
+But even so, she's had many obsesive crushes. Even though the she never outwardly admits it, the reader can see she is gaga for Zaki, when he reveals that he likes Sicili. 
+
+She talks to imaginary Lessa and Erik. 
 
 ---
 ## Goals
@@ -86,7 +90,7 @@ The family that attacked them were once allies that Illyria didn't forgive.
 What does she do when she's not working?
 Now she mostly is looking for Lessa's killer.
 Before I guess she would hang out with her cousin.
-Other than that she's training, she likes learning martial arts styles across the globe. She has a thing with control, and believes as long as she feels not threatened the beast in her won't come out. 
+Other than that she's training, she likes **learning martial arts styles from across the lands**. She has a thing with control, and believes as long as she feels not threatened the beast in her won't come out. **This hobby makes her desire to learn Zaki's street fighting style and how to pick pockets a lot more in character.**
 
 ### Daily Routine
 
@@ -109,12 +113,14 @@ Answer:
 Vio who never wanted to be the leader was groomed for leadership like Lessa, their family plain for Sici was to marry her off to form a political alliance. Vio while not wanting to deal with the politcs of leadership, never envisioned a life outside her family's business. She would have been happy to help Lessa lead, behind the scenes as a strategist.
 
 #### Sicili
-She actually was very jealous of Sicili who was able to easily make friends. But she was told jealous was inappropriate. So she hid it (reaction formation). The source of all her hidden power is her repressed emotions. And not because she is evil
+She actually was very jealous of Sicili who was able to easily make friends. Her parents also seem to be prouder of Sicili because she matched the role they had laid out for her, whereas Vio constantly failed in the obligations they laid out for her. But she was told jealous was inappropriate. So she hid it (reaction formation). The source of all her hidden power is her repressed emotions. And not because she is evil. 
 
 #### Lessa
 On nights when she finishes early, she goes to visit Lessa who is probably still up. Lessa takes her out and tries to pull Vio out of her comfort zone.
 
 After she died, she went to Lessa's place out of habit. And she'll still talk to an imaginary Lessa throught s1, when she feels stuck.
+
+If we show how important Lessa was to Vio, other than their birth rival expectations, then it will make more sense why she is **tempted into avenge her cousin's death.**
 
 #### Illyria & Nomaru
 Both were pretty absent since they had to run their territory. 
@@ -126,11 +132,19 @@ Her childhood friend was sacrificed, even though she doesn't remember.
 Maybe a fortune teller once hold her that she is a curse to those she loves. She truly believes there is evil inside her. Since since she goes through violent fugue states, she is within reason.
 
 #### Erik
-Went missing, she assumed he is dead. 
+Went missing, she assumed he is dead. Since her memory of Yule is tainted by the fact that he joined up with the Order. Erik symbolizes her time living with the mountain tribe. It was the happiest time of her life, and her attachment to the memory of him. 
+
+#### Yule
+She had always looked up to him. He was the first person who said they believed in her abilities. At first she had a crush on him too. But he eventually got a girlfriend, and she gave up on him. She considers him as more of an older brother now. He has always saw her as a little sister, he had hoped that she'll be a good match for Erik because she kept him in check.
 
 #### Zaki
-What if their arc is yes they have chemistry. But Zaki is pursuing your sister. It's like when your crush likes your best friend instead. That makes Vio a much more active character in this triangle. 
+What if their arc is shows they have chemistry. After they get into quiet a few near death situations together, she too falls under the thrill of being together. Though less than Zaki, because she is always in near death situations. But Zaki is pursuing your sister. It's like when your crush likes your best friend instead. That makes Vio a much more active character in this triangle. 
 Examples: early seasons Willow.
+
+*How are they similar?* both are seeking peace after their traumatic childhoods. They both want justice for the death of a loved one.
+
+*Where do they diverge?* Vio wants to forgive, where Zaki wants retribution.
+
 
 #### Ada
 Ada reminds Vio of Lessa, in how she jumps in head first. They have a few moments of finishing eachother, but they don't interact much during s1. They get to know eachother more during s2, whe Vio tries to get Ada to join her cause, and all Ada cares about is partying.
@@ -150,19 +164,25 @@ Does he know about Vio's power?
 ## Backstory
 
 *What is the best thing that happend in their life?*
-
+Her time with the mountains tribes was the happiest time in her life. She was witha choosen family, with no heavy expectations. Yule believed in her, and she never had anyone believe in her. At that time, she didn't realize it was the **church who was pulling the strings stowing conflict in Atonia.**
+The mountain's people life, though communal, was less socially pressured than Atonian life. They threw celebrations as a way to bound with eachother, where Atonia's threw parties to show off. They were more direct and mean the things they say, as opposed to polite lies.
+Instead of explict flashbacks to her time with the mountain people, we can get an idea of what her life is with them by her conversations with Erik.
 
 *What is the worst thing that happend in their life?*
-
+Her family being raided or the church coming to the mountains? Given the prior it is the church coming? What if it was neither, it was seeing her childhood best friend die. Consciously, it's probably the church raiding.
 
 ### Learned their lie
 
+What is the lie that she believes in? That she's incapable and her powers are dangerous.
+
 *What did they go into the scene believing and how they are surprised by the outcome?*
+During this raid, she was too confident in her abilities. She had secretly been wanting to get into this awesome fighting state. Her flaw here was wanting power for power stake. She got what she wanted. And rushed into danger resulting her get caught up and going into fighting fugue. Up until then she saw that state as something to grant her strength, but then realized that it can do great harm.
 
 *How do they struggle to hold on to their old belief?*
+What is the internal struggle they cope with that results her deciding that her powers are evil? She feels guillt over what happened, instead of trying to figure out how to master her powers. She shoves it away, and tries to not trigger them again. This is driven by her internal belief that she in incapable, something hammered in by her parents, who always seemed disappointed in her.
 
 *What is their conclusion/new beief?*
-
+That her powers are evil. She believe now as long as she has the upperhand, her fighting fugue state won't incur.
 
 ---
 ## Soundtrack
