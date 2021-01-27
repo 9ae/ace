@@ -22,6 +22,11 @@ Mash together multiple ideas
 
 ## Character Arcs
 
+**Prep: Catalogue**
+Make outline of written scens, and note edits so you know what you have.
+this way you can grab from and insert 
+
+**Outline each**
 Plot out the change arcs of major characters
 
 Figure out what ideas from the original idea you want to keep here, and what you want to discard

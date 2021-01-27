@@ -132,10 +132,22 @@ Her childhood friend was sacrificed, even though she doesn't remember.
 Maybe a fortune teller once hold her that she is a curse to those she loves. She truly believes there is evil inside her. Since since she goes through violent fugue states, she is within reason.
 
 #### Erik
-Went missing, she assumed he is dead. Since her memory of Yule is tainted by the fact that he joined up with the Order. Erik symbolizes her time living with the mountain tribe. It was the happiest time of her life, and her attachment to the memory of him. 
+Went missing, she assumed he is dead. Since her memory of Yule is tainted by the fact that he joined up with the Order. Erik symbolizes her time living with the mountain tribe. It was the happiest time of her life, and her attachment to the memory of him. Ok, we cna't totally write him off because he'll appear in memory spectre form. So her perceptions of him determine how we actually see him.
+She sees him as cocky. They banter; which is the one of the only times you see her do so. Since she is pretty quiet around live people.
+
+He looks at Galeian politics with a simple mind, the mountain tribes had always thought the Atonians, Cellians, and even Galeians are silly and frivolous. So he points out all the ridiculous things they do. In a way, he's both the voice for Vio in how she finds life normally. *But he is also our proxy for looking into this world.* He is fascinated by the political structure but also the technology.
+
+archetypes: cool imaginary best friend. He is her wonder.
 
 #### Yule
 She had always looked up to him. He was the first person who said they believed in her abilities. At first she had a crush on him too. But he eventually got a girlfriend, and she gave up on him. She considers him as more of an older brother now. He has always saw her as a little sister, he had hoped that she'll be a good match for Erik because she kept him in check.
+
+archetypes: Yule is the hero, while Vio is the anti-hero. He tries to make the world a better place, while she just wants to keep her family safe. 
+
+the change arc is how his spirit for trying your hardest influenced her to step into the spotlight and take charge and help out.
+
+She helped him let go of the guilt for abandoning his tribe. Or did Sicli do that? It would matter more if she did it because she is the one he needs forgiveness from (well also his family, but they aren't here). 
+Vio is also the only one he knew as Jyri, he gets to be his old self with her.
 
 #### Zaki
 What if their arc is shows they have chemistry. After they get into quiet a few near death situations together, she too falls under the thrill of being together. Though less than Zaki, because she is always in near death situations. But Zaki is pursuing your sister. It's like when your crush likes your best friend instead. That makes Vio a much more active character in this triangle. 
@@ -143,7 +155,9 @@ Examples: early seasons Willow.
 
 *How are they similar?* both are seeking peace after their traumatic childhoods. They both want justice for the death of a loved one.
 
-*Where do they diverge?* Vio wants to forgive, where Zaki wants retribution.
+*Where do they diverge?* Vio wants to forget, where Zaki wants retribution.
+
+Well she seems to have develop a crush on him. How did that happen? Since she's unaware it has to with her need more than her want. She needs to fight for what she believes in and accept her powers. Zaki does exactly that, he fights for what he believes in (even if she disagrees with his motivtes). He owns up to his abilities, though his isn't as deadly as hers. We have to show a scene where Zaki is willing to give up control for a greater good.
 
 
 #### Ada
@@ -152,7 +166,7 @@ Ada reminds Vio of Lessa, in how she jumps in head first. They have a few moment
 ### Colleagues
 
 #### Helga
-Vio's closest friend in the org. 
+Vio's closest friend in the org. Why are they close? They are one of the few girls who work there. The other girls stay away from Helga, because there is some transphobia amongst them. Vio was the only girl who didn't mind, and partnered with her during training. 
 
 #### Rein
 Vio's mentor
@@ -215,10 +229,11 @@ The desire to protect Sicili, it is almost an obsession. It hides away the fact 
 - Large crowds, public speaking (which is what makes her ascension to take leadership of the org so impressive)
 
 *What do they value in life?*
-
+**Forgiveness:** has an obsession with discipline, obsessed with learning to control instincts. She believes it will be the key to help her gain control over her fugue state. Extreme forgiveness is an act of self-control of holding back out baser instincts to hit back.
 
 *What makes them happy?*
 When people believe in her.
+When she can find someone she connects with...
 
 *What gives them hope?*
 

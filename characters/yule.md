@@ -58,6 +58,8 @@ Fears
 
 > Letting people down. He it kills him that he had to betray is tribe. But he thinks it's the best way for them to stay alive and protected. Now he see's Roderick as a father figure, and doesn't want to let him down. Even though he is starting to find his orders questionable, for not being in the interest of the people.
 
+> That all his scarifice is not worth it. 
+
 What makes them happy?
 
 > Knowing that is loved ones are safe. When people are proud of him? He responds well to words of affirmation. So much of his sense of self is wrapped in becoming a good leader, that all he wants is acknowledgement that he is/had made the right decision. He is someone who cares a lot of what other thinks about him, especially people close to him. 
