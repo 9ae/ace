@@ -3,6 +3,18 @@
 [Major character profile](template_major.md)
 [Minor character profile](template_minor.md)
 
+# Protagonist
+
+## What can we learn from Adora
+[Why Adora Matters?](https://youtu.be/YynSgRoE-ZY)
+
+Victim of abuse, start on the enemy side. The golden child of the abuse dynamic.
+Bombarded with expectations. Prioritizes everything before herself.
+Favoritism gives her the idea of conditional love. Can never see secure in her value of herself. They don't want Aodra, they want her for what she can do.
+She needs to decide if she wields the power or she is the power. Does she refer to she-ra in first or third person.
+
+> don't betray yourself for the expectation of others
+
 # Rag Tag team
 
 Who is the most socially aware? *Yihan*

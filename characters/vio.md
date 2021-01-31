@@ -78,6 +78,10 @@ Forgiveness
 > Not forgiving is turning your back on a friend. Now your enemy may stab you at anytime.
 The family that attacked them were once allies that Illyria didn't forgive.
 
+Denial
+
+Victimhood
+
 *What do the learn in the end?*
 
 
@@ -135,7 +139,7 @@ Maybe a fortune teller once hold her that she is a curse to those she loves. She
 Went missing, she assumed he is dead. Since her memory of Yule is tainted by the fact that he joined up with the Order. Erik symbolizes her time living with the mountain tribe. It was the happiest time of her life, and her attachment to the memory of him. Ok, we cna't totally write him off because he'll appear in memory spectre form. So her perceptions of him determine how we actually see him.
 She sees him as cocky. They banter; which is the one of the only times you see her do so. Since she is pretty quiet around live people.
 
-He looks at Galeian politics with a simple mind, the mountain tribes had always thought the Atonians, Cellians, and even Galeians are silly and frivolous. So he points out all the ridiculous things they do. In a way, he's both the voice for Vio in how she finds life normally. *But he is also our proxy for looking into this world.* He is fascinated by the political structure but also the technology.
+He looks at Galeian politics with a simple mind, the mountain tribes had always thought the Atonians, Cellians, and even Galeians are silly and frivolous. So he points out all the ridiculous things they do. In a way, he's both the voice for Vio in how she finds life normally. *But he is also our proxy for looking into this world.* He is fascinated by the political structure but also the technology. *Since he lives inside her head, he challenges the lies she tells herself.*
 
 archetypes: cool imaginary best friend. He is her wonder.
 
@@ -239,6 +243,7 @@ When she can find someone she connects with...
 
 
 *What makes them feel alive?*
+**Lessa** by pushing her out of her comfort zone. Lessa brings joy and excitment to her life in Ixan. Which had been feeld wil responsiblities and trying to maintain control. She let her get let go of some of that control in a non-threatening way.
 
 
 ---
@@ -270,6 +275,24 @@ Her journey is to show she can become a great introverted leaders. She discovers
 
 
 *How do they deal with loss?*
+AKA coping & defense mechanisms.
+Why did she think it happened?
+How did she react to prevent it feeling that way in the future.
+
+**family & home**
+Since was trained to serve one role, to be the head of the clan and protect her sister. When both were taken away from her, she didn't know what her purpose was for a long time. She believed what happen to her parents home was their fault for not forgiving the rival family. Yet because of her sense of duty, she tried to make it home to Atonia to avenge her family.
+
+**The Falcon tribe** taught her that family is not just about duty. It should be about connection too. From there she found acceptance until the Order came in. For the first time she felt connected to the people she's lost. When that was over she could no longer bring herself to connect with people and ran way back to the mountain caves to live by herself for years. `TODO something brought her to Ixan, we don't know what yet.` Her way of coping was avoidance and denial... because of the guilt she felt for not being able to rescue Erik soon enough, she alleviated herself of that guilt by keeping him in her mind. 
+
+**Lessa** made her feel alive and she can live for herself. The death of her cousin, pushed her pass the breaking point of what she can stand to lose. She won't sit idlely to wait for them to come to for Sicili, so she sets out to find her cousin's killer. When a memory ghost Lessa comes to visit her during one of the earlier chapters, she dismisses her.
+V: I can't let you stay in my mind, because I need to feel the pain of you not being here, in order for me to save Sicili.
+L: You want you save Sicili, but couldn't save me in time. 
+V: I'm sorry. 
+L: I guess, our parents pitting us against eachother meant we'll forever take eachother with caution.
+V: You know that's not why!
+L: Say what you want. You keep your barbarian crush around. Guess you have no one to avenge on his behalf...
+V: The Order is too powerful, I'm just one girl.
+L: And Roderick is just one man, when he started.
 
 
 *How do they deal with change?*
