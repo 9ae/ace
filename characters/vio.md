@@ -82,6 +82,24 @@ Denial
 
 Victimhood
 
+*Fear holding her back*
+Have her talk about her experience of the fugue state with Erik. "I don't know what is real or imagined?" She wants to avoid fighting, but that is all she thinks she is good for.
+
+Overcoming:
+- show power and fugue state early
+- show how she feels about them
+- show why does she feel this way
+- put her in challenges where she must face/overcome this fear
+- ahha moment of realizing she must definitively let go of this fear
+- accomplishes her goal after letting go of this fear
+
+Along on the journey who will become her anchor to make her feel safe as she dip her toes into her powers.
+Zaki: almost stranger, feels like she can tell him anything. Leans into his own powers.
+Ada: Non-judgemental, is someone who will always use what she has to get what she wants.
+
+`TODO how does this journey play into the theme of forgiveness?`
+
+
 *What do the learn in the end?*
 
 
@@ -227,10 +245,29 @@ Reprise:
 The desire to protect Sicili, it is almost an obsession. It hides away the fact that she is very jealous of Sici - reaction formation.
 
 *Fears*
-- **Of letting people down**, of not being able to protect people she loves. 
-- **Rejection** she's had so much of it in the past, while attempting to make friends.
-- **Being uprooted again** The church has killed both her family and chosen family. She is afraid of really settling down, surrendering to any sense of security.
-- Large crowds, public speaking (which is what makes her ascension to take leadership of the org so impressive)
+*How does her losts inform her fears?*
+Choose one to tackle each series.
+
+1. **Self**
+  - Living with the mystery of not knowing why she blacks out.
+  - Connection to readers who are afraid of their own desires, abilities, or thoughts.
+    - How does religious morality play into their own fears of self?
+    - Can we make it an allegory for the homosexual experience?
+    - She believes she is touched by the devil.
+   - Wuxia trope of "evoporated spirit, enters the demon". Is about fear of isolation, power, and getting too deep. **afraid of the truth**.
+`TODO is this fear relevant to enough readers to make it the main thing this character has to overcome during s1? Need more examples of how she feels about it. We don't need to touch on the cause of the powers but the effects.` That is the purpose of art, you should talk about things that are important to you, that others don't talk very much about.
+
+2. **Lost**
+  - **Being uprooted again** The church has killed both her family and chosen family. She is afraid of really settling down, surrendering to any sense of security.
+  - **Of letting people down**, of not being able to protect people she loves. 
+  `TODO if her response to disconnect is similiar to how Ada deals with lost, how does s2 play out for them with them dealing with the same thing but coping differently.`
+3. **Rejection**
+  - Not being good enough to protect Sicili
+  - People will discover how weird and socially awkward she is.
+    - It's not something she notices in the moment, but finds out later when she over hears people talking about her.
+    - She doesn't know if she's done something wrong until after, and especially if people are mad because they expect something of her that she isn't aware of needing to do.
+  - Large crowds, public speaking (which is what makes her ascension to take leadership of the org so impressive)
+  `TODO How does this play into her buddying relationship with Zaki?`
 
 *What do they value in life?*
 **Forgiveness:** has an obsession with discipline, obsessed with learning to control instincts. She believes it will be the key to help her gain control over her fugue state. Extreme forgiveness is an act of self-control of holding back out baser instincts to hit back.
@@ -240,6 +277,35 @@ When people believe in her.
 When she can find someone she connects with...
 
 *What gives them hope?*
+
+**Forgiveness will bring peace**
+Sicili makes her believe there may be still good in the world if you just believe and live by the words of the prophet. Reminds her with that people of the church are still helping the vulnerable.
+*If warring factions can learn to forgive eachother and work together, then they can unite against the conquering Order.*
+
+Vio is constantly willing to give all character who have wronged her the benefit of the doubt.
+- Yule for joining with The Order
+- Forgiving Helga for comprosing their mission
+- Rescuing Zaki
+
+**There is a place where she belongs** with the mountain tribes. From working with Yule she sees that as a commander he’s brought tribe virtues to his troops. That the culture of the mountain tribes does not have to be restricted to the mountains.
+
+**Despite her autism she can**:
+- still be a leader despite her autism.
+- Lessa makes her believe that she too can be normal
+- will find love
+
+Her fear of losing Sicili helps her overcome of her insecurities with her unnamed autism.
+Show how much shame she feels, over each infraction. And yet she gets up and try again anyway.
+
+Move readers: Show her martial arts obsession is just a cover up for how anxious and out of control she constantly feel. She is constantly talking to herself or Erik.
+
+We see how she has to mentally prepare for all the things she is nervous about. Bring examples of the embarrasing amount of prep work one puts into the simplest interactions.
+
+She is surprised whenever she discovers she can do something she had thought was impossible for her.
+
+**She is not evil**
+Zaki embraces her darkness and promises to be her anchor when she needs him.
+It's like your partner going with you to move out of your abusive parent's place. ie: Adam and Ronan from Raven Boys.
 
 
 *What makes them feel alive?*

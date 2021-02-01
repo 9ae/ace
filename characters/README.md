@@ -39,6 +39,14 @@ The lie should interact with every point in the main conflict and the truth come
 
 > Character who ultimately believe in the anti-theme.
 
+> Tragedies capitalizes on reader's dread. They know something bad is going to go down. It's just a matter of how and when.
+
+Death Note failed in this beat by stretching it out waaaaay tooo long.
+
+Shakespeare added colliatoral damage to classic tragedies.
+
+A character's fatal flaw is only fatal if you put them in a situation brings out the worse of that trait.
+
 ### Structure
 #### Conflicted
 graples with their desire, fear, and anti-theme

@@ -247,20 +247,20 @@ And they are too ready to put themselves to the path of forgiveness even when th
             </Appearance>
             <String>Forgiveness</String>
         </Note>
-        <Note ID="32" FontSize="28.0" Position="1115.511719,1179.599365" Width="60.0">
+        <Note ID="32" FontSize="28.0" Position="1116.0,1180.0" Width="60.0">
             <Appearance>
                 <TextColor>1.0 1.0 1.0</TextColor>
                 <Border Style="Jagged"></Border>
                 <Fill>0.318823 0.0 0.934535</Fill>
             </Appearance>
             <String>Vio</String>
-            <ConnectedNoteIDs>33</ConnectedNoteIDs>
+            <ConnectedNoteIDs>33, 39</ConnectedNoteIDs>
             <PointsToNoteIDs>33</PointsToNoteIDs>
             <Formatting>
                 <FormatRange Bold="Yes">0,3</FormatRange>
             </Formatting>
         </Note>
-        <Note ID="33" FontSize="12.0" Position="1254.321899,1235.046265" Width="200.0">
+        <Note ID="33" FontSize="12.0" Position="1254.0,1235.0" Width="200.0">
             <Appearance>
                 <Alignment>Left</Alignment>
                 <Fill>0.990121 0.815203 0.999729</Fill>
@@ -270,7 +270,7 @@ Finds evidence that suggest the murder is after her family</String>
             <ConnectedNoteIDs>7, 32, 34</ConnectedNoteIDs>
             <PointsToNoteIDs>34</PointsToNoteIDs>
         </Note>
-        <Note ID="34" FontSize="12.0" Position="1490.327148,1193.288818" Width="200.0">
+        <Note ID="34" FontSize="12.0" Position="1490.0,1193.0" Width="200.0">
             <Appearance>
                 <Alignment>Left</Alignment>
                 <Fill>0.990121 0.815203 0.999729</Fill>
@@ -279,7 +279,7 @@ Finds evidence that suggest the murder is after her family</String>
             <ConnectedNoteIDs>25, 33, 35</ConnectedNoteIDs>
             <PointsToNoteIDs>25, 35</PointsToNoteIDs>
         </Note>
-        <Note ID="35" FontSize="12.0" Position="1744.644531,1217.661987" Width="81.0">
+        <Note ID="35" FontSize="12.0" Position="1745.0,1218.0" Width="81.0">
             <Appearance>
                 <Alignment>Left</Alignment>
             </Appearance>
@@ -287,7 +287,7 @@ Finds evidence that suggest the murder is after her family</String>
             <ConnectedNoteIDs>34, 37</ConnectedNoteIDs>
             <PointsToNoteIDs>37</PointsToNoteIDs>
         </Note>
-        <Note ID="37" FontSize="12.0" Position="2711.740479,1232.261108" Width="177.0">
+        <Note ID="37" FontSize="12.0" Position="2712.0,1232.0" Width="177.0">
             <Appearance>
                 <Alignment>Left</Alignment>
             </Appearance>
@@ -295,13 +295,23 @@ Finds evidence that suggest the murder is after her family</String>
             <ConnectedNoteIDs>18, 35</ConnectedNoteIDs>
             <PointsToNoteIDs>18</PointsToNoteIDs>
         </Note>
-        <Note ID="38" FontSize="12.0" Position="3072.493652,1217.800049" Width="224.0">
+        <Note ID="38" FontSize="12.0" Position="3072.0,1218.0" Width="224.0">
             <Appearance>
                 <Alignment>Left</Alignment>
                 <Fill>0.989117 0.814091 0.999474</Fill>
             </Appearance>
             <String>Sicili urge her to remember who she is, and why she needs to forgive.</String>
             <ConnectedNoteIDs>18</ConnectedNoteIDs>
+        </Note>
+        <Note ID="39" FontSize="12.0" Position="1248.295898,1034.929077" Width="200.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <TextColor>0.0 0.0 0.0</TextColor>
+                <Border Weight="1" Style="Cloud">0.05951 0.50193 0.998455</Border>
+                <Fill>0.999999 0.999974 0.999991</Fill>
+            </Appearance>
+            <String>Moving from sophomore year to senior year.</String>
+            <ConnectedNoteIDs>32</ConnectedNoteIDs>
         </Note>
     </Notes>
     <BackgroundShapes>
