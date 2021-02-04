@@ -14,6 +14,9 @@ Friends:
 
 While very similar to Ace, she is the much more social one. If this was a school drama, she would be a Blair Waldorf. 
 
+
+First time we meet here, she is in a closet getting it on wiht Yihan when Alan calls out "where are you?"
+
 ------
 
 ## Backstory
