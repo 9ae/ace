@@ -8,6 +8,8 @@ Place of Origin:
 
 Job: (what do they do and how did they get started)
 
+Introduction ideas:
+
 Catch Phrase
 - What determins something you would say a lot?
 - Could be a nervous habit? When do they say it?
