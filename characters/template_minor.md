@@ -6,6 +6,8 @@ Birthday:
 
 Place of Origin:
 
+Introduction ideas:
+
 Catch Phrase
 > 
 
