@@ -254,7 +254,7 @@ And they are too ready to put themselves to the path of forgiveness even when th
                 <Fill>0.318823 0.0 0.934535</Fill>
             </Appearance>
             <String>Vio</String>
-            <ConnectedNoteIDs>33, 39</ConnectedNoteIDs>
+            <ConnectedNoteIDs>33, 39, 41</ConnectedNoteIDs>
             <PointsToNoteIDs>33</PointsToNoteIDs>
             <Formatting>
                 <FormatRange Bold="Yes">0,3</FormatRange>
@@ -303,7 +303,7 @@ Finds evidence that suggest the murder is after her family</String>
             <String>Sicili urge her to remember who she is, and why she needs to forgive.</String>
             <ConnectedNoteIDs>18</ConnectedNoteIDs>
         </Note>
-        <Note ID="39" FontSize="12.0" Position="1248.295898,1034.929077" Width="200.0">
+        <Note ID="39" FontSize="12.0" Position="1248.0,1035.0" Width="200.0">
             <Appearance>
                 <Alignment>Left</Alignment>
                 <TextColor>0.0 0.0 0.0</TextColor>
@@ -313,6 +313,213 @@ Finds evidence that suggest the murder is after her family</String>
             <String>Moving from sophomore year to senior year.</String>
             <ConnectedNoteIDs>32</ConnectedNoteIDs>
         </Note>
+        <Note ID="41" FontSize="12.0" Position="1120.034058,410.677734" Width="106.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>Act 1: Sophmore</String>
+            <ConnectedNoteIDs>32, 42, 44, 48</ConnectedNoteIDs>
+        </Note>
+        <Note ID="42" FontSize="12.0" Position="1862.615723,418.762024" Width="83.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>Act 2: Junior</String>
+            <ConnectedNoteIDs>41, 43, 46-47, 56</ConnectedNoteIDs>
+        </Note>
+        <Note ID="43" FontSize="12.0" Position="2459.522217,411.841431" Width="85.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>Act 3: Senior</String>
+            <ConnectedNoteIDs>42, 50</ConnectedNoteIDs>
+        </Note>
+        <Note ID="44" FontSize="12.0" Position="854.319885,370.958923" Width="200.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>should show potential for what she can be at the end. Started off real good in chemistry</String>
+            <ConnectedNoteIDs>41</ConnectedNoteIDs>
+        </Note>
+        <Note ID="45" FontSize="12.0" Position="1145.890503,245.618515" Width="88.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>overwhelmed</String>
+            <ConnectedNoteIDs>48-49</ConnectedNoteIDs>
+        </Note>
+        <Note ID="46" FontSize="12.0" Position="1881.384399,245.911926" Width="45.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>guilty</String>
+            <ConnectedNoteIDs>42, 55</ConnectedNoteIDs>
+        </Note>
+        <Note ID="47" FontSize="12.0" Position="1735.599121,341.013092" Width="122.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>Training montagues</String>
+            <ConnectedNoteIDs>42</ConnectedNoteIDs>
+        </Note>
+        <Note ID="48" FontSize="12.0" Position="1078.49646,325.589996" Width="200.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>call to action pushed outside comfort zone</String>
+            <ConnectedNoteIDs>41, 45</ConnectedNoteIDs>
+        </Note>
+        <Note ID="49" FontSize="12.0" Position="1291.167358,262.981873" Width="65.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>insomnia</String>
+            <ConnectedNoteIDs>45, 70</ConnectedNoteIDs>
+        </Note>
+        <Note ID="50" FontSize="12.0" Position="2430.0,346.0" Width="133.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>lost penultimate battle</String>
+            <ConnectedNoteIDs>43, 51</ConnectedNoteIDs>
+        </Note>
+        <Note ID="51" FontSize="12.0" Position="2453.791748,283.550293" Width="83.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>darkest hour</String>
+            <ConnectedNoteIDs>50, 52, 54</ConnectedNoteIDs>
+        </Note>
+        <Note ID="52" FontSize="12.0" Position="2407.487549,221.74527" Width="167.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>dusting off for the final battle</String>
+            <ConnectedNoteIDs>51, 53</ConnectedNoteIDs>
+        </Note>
+        <Note ID="53" FontSize="12.0" Position="2307.563721,224.277573" Width="87.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>ap calc exam</String>
+            <ConnectedNoteIDs>52, 54</ConnectedNoteIDs>
+        </Note>
+        <Note ID="54" FontSize="12.0" Position="2300.225342,280.797333" Width="104.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>feels like a fraud</String>
+            <ConnectedNoteIDs>51, 53</ConnectedNoteIDs>
+        </Note>
+        <Note ID="55" FontSize="12.0" Position="1718.94043,246.5728" Width="125.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>after varin massacre</String>
+            <ConnectedNoteIDs>46</ConnectedNoteIDs>
+        </Note>
+        <Note ID="56" FontSize="12.0" Position="1941.514282,282.058228" Width="200.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>how does Fidel change the game?</String>
+            <ConnectedNoteIDs>42, 57, 66-67</ConnectedNoteIDs>
+        </Note>
+        <Note ID="57" FontSize="12.0" Position="2002.0,322.0" Width="200.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>Who that character? Someone she briefly starts dating who notices she’s still into Zaki.</String>
+            <ConnectedNoteIDs>56, 59, 65</ConnectedNoteIDs>
+        </Note>
+        <Note ID="59" FontSize="12.0" Position="2048.0,388.0" Width="109.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>An Oz presence?</String>
+            <ConnectedNoteIDs>57, 60</ConnectedNoteIDs>
+        </Note>
+        <Note ID="60" FontSize="12.0" Position="1974.423096,441.468842" Width="200.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>Becomes insecure about their relationship and breaks up with her.</String>
+            <ConnectedNoteIDs>59, 61</ConnectedNoteIDs>
+        </Note>
+        <Note ID="61" FontSize="12.0" Position="1973.858643,516.123596" Width="164.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>Yup. That sounds like Yihan</String>
+            <ConnectedNoteIDs>60, 62, 64</ConnectedNoteIDs>
+        </Note>
+        <Note ID="62" FontSize="12.0" Position="1974.0,583.0" Width="200.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>But how did Yihan end up not with Ada?</String>
+            <ConnectedNoteIDs>61, 63</ConnectedNoteIDs>
+        </Note>
+        <Note ID="63" FontSize="12.0" Position="1536.069824,581.770447" Width="200.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <TextColor>0.985948 0.0 0.026951</TextColor>
+            </Appearance>
+            <String>Made her choose between him and Alan, during the Alan chapter.</String>
+            <ConnectedNoteIDs>62</ConnectedNoteIDs>
+        </Note>
+        <Note ID="64" FontSize="12.0" Position="2173.0,516.0" Width="193.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>Gets back with Ada, on her terms</String>
+            <ConnectedNoteIDs>61</ConnectedNoteIDs>
+        </Note>
+        <Note ID="65" FontSize="12.0" Position="2237.0,322.0" Width="193.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>Or someone who is non romance</String>
+            <ConnectedNoteIDs>57, 69</ConnectedNoteIDs>
+        </Note>
+        <Note ID="66" FontSize="12.0" Position="1903.85083,161.837601" Width="200.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>challenged her to accomplish something she hasn’t before</String>
+            <ConnectedNoteIDs>56</ConnectedNoteIDs>
+        </Note>
+        <Note ID="67" FontSize="12.0" Position="2065.626221,117.830101" Width="200.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>gave her a taste of what she had been shunning all along?</String>
+            <ConnectedNoteIDs>56, 68</ConnectedNoteIDs>
+        </Note>
+        <Note ID="68" FontSize="12.0" Position="2151.172119,181.52298" Width="67.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>revenge?</String>
+            <ConnectedNoteIDs>67</ConnectedNoteIDs>
+        </Note>
+        <Note ID="69" FontSize="12.0" Position="2166.098389,264.107086" Width="114.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>Madame Juliette!</String>
+            <ConnectedNoteIDs>65</ConnectedNoteIDs>
+            <Formatting>
+                <FormatRange Bold="Yes">0,16</FormatRange>
+            </Formatting>
+        </Note>
+        <Note ID="70" FontSize="12.0" Position="1206.289062,174.55455" Width="200.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>body does things that’s surprising. didn’t know what anxiety is.</String>
+            <ConnectedNoteIDs>49</ConnectedNoteIDs>
+        </Note>
     </Notes>
     <BackgroundShapes>
         <Shape ID="29" Sticky="No" Position="204.0,158.0" Width="508.757599" Height="372.0">
@@ -321,7 +528,7 @@ Finds evidence that suggest the murder is after her family</String>
             </Appearance>
         </Shape>
     </BackgroundShapes>
-    <AutoFit>0, 4, 7-8, 15, 17, 30, 32, 35, 37</AutoFit>
+    <AutoFit>0, 4, 7-8, 15, 17, 30, 32, 35, 37, 41-43, 45-47, 49-56, 59, 61, 64-65, 68-69</AutoFit>
     <NoteStyles>
         <Style Name="Brainstorm" ID="D5622E4C-6A60-4D52-BC63-15D03A3E3745" AffectFontStyle="Yes" AffectAlignment="Yes" AffectTextColor="Yes" AffectNoteBody="Yes" AffectSize="No" AffectFade="No" AffectSticky="Yes">
             <FontSize>12.0</FontSize>

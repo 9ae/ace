@@ -90,16 +90,16 @@ Answer:
 ---
 # Soundtrack
 
+## I am
+
+
 ## I want
 
 
-
-## Preparation
-
+## Face fears
 
 
 ## Battle
-
 
 
 ## Reprise

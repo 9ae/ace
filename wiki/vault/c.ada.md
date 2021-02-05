@@ -2,7 +2,7 @@
 id: 0a36ea8c-058b-483c-98ce-523bf7ee22d4
 title: Ada
 desc: ''
-updated: 1612430232669
+updated: 1612506488434
 created: 1612430229580
 ---
 # At Glance
@@ -54,32 +54,31 @@ Place of Origin:
 
 ---
 # Soundtrack
+[playlist](https://open.spotify.com/playlist/2NB6ZRXbauk2uMT1NnYCVj)
 
-I want:
-
-
-
-Preparation:
+## I am
 
 
+## I want
+[Better than this - Paloma Faith](https://open.spotify.com/track/6I4Qhjl6JFMrg9IUfGikLY)
 
-Battle:
+# Battle
 
 
+# Reprise
 
-Reprise:
 
 ---
 
 # Reasons
 
-*Motivations*
+Motivations*
 
 
-*Fears*
+Fears*
 
 
-*What do they value in life?*
+What do they value in life?*
 
 
 *What makes them happy?*

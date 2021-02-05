@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ScappleDocument Version="1.2" ID="60F6B042-782A-4CBD-AA2A-5E351AE674D8">
     <Notes>
-        <Note ID="0" FontSize="28.0" Position="806.722656,450.106812" Width="60.0">
+        <Note ID="0" FontSize="28.0" Position="807.0,450.0" Width="60.0">
             <Appearance></Appearance>
             <String>Vio</String>
             <ConnectedNoteIDs>1-4, 6</ConnectedNoteIDs>
@@ -9,35 +9,35 @@
                 <FormatRange Bold="Yes">0,3</FormatRange>
             </Formatting>
         </Note>
-        <Note ID="1" FontSize="12.0" Position="739.918457,391.697357" Width="71.0">
+        <Note ID="1" FontSize="12.0" Position="740.0,392.0" Width="71.0">
             <Appearance>
                 <Alignment>Left</Alignment>
             </Appearance>
             <String>motivation</String>
             <ConnectedNoteIDs>0</ConnectedNoteIDs>
         </Note>
-        <Note ID="2" FontSize="12.0" Position="884.721802,436.567474" Width="43.0">
+        <Note ID="2" FontSize="12.0" Position="885.0,437.0" Width="43.0">
             <Appearance>
                 <Alignment>Left</Alignment>
             </Appearance>
             <String>hope</String>
             <ConnectedNoteIDs>0, 12, 19, 22-24, 26</ConnectedNoteIDs>
         </Note>
-        <Note ID="3" FontSize="12.0" Position="785.241577,542.239563" Width="41.0">
+        <Note ID="3" FontSize="12.0" Position="785.0,542.0" Width="41.0">
             <Appearance>
                 <Alignment>Left</Alignment>
             </Appearance>
             <String>alive</String>
             <ConnectedNoteIDs>0, 10-11</ConnectedNoteIDs>
         </Note>
-        <Note ID="4" FontSize="12.0" Position="853.001709,532.795837" Width="49.0">
+        <Note ID="4" FontSize="12.0" Position="853.0,533.0" Width="49.0">
             <Appearance>
                 <Alignment>Left</Alignment>
             </Appearance>
             <String>happy</String>
             <ConnectedNoteIDs>0, 5</ConnectedNoteIDs>
         </Note>
-        <Note ID="5" FontSize="12.0" Position="862.554626,624.722229" Width="159.0">
+        <Note ID="5" FontSize="12.0" Position="863.0,625.0" Width="159.0">
             <Appearance>
                 <Alignment>Left</Alignment>
                 <Border Weight="1">0.894548 0.707752 0.715898</Border>
@@ -46,7 +46,7 @@
             <String>when people believe in her</String>
             <ConnectedNoteIDs>4</ConnectedNoteIDs>
         </Note>
-        <Note ID="6" FontSize="12.0" Position="734.108765,471.855469" Width="37.0">
+        <Note ID="6" FontSize="12.0" Position="734.0,472.0" Width="37.0">
             <Appearance>
                 <Alignment>Left</Alignment>
             </Appearance>
@@ -71,7 +71,7 @@
             <String>self</String>
             <ConnectedNoteIDs>6</ConnectedNoteIDs>
         </Note>
-        <Note ID="9" FontSize="12.0" Position="451.920715,680.100098" Width="110.0">
+        <Note ID="9" FontSize="12.0" Position="452.0,680.0" Width="110.0">
             <Appearance>
                 <Alignment>Left</Alignment>
                 <Border Weight="1">0.894548 0.707752 0.715898</Border>
@@ -80,7 +80,7 @@
             <String>lost of loved ones</String>
             <ConnectedNoteIDs>6</ConnectedNoteIDs>
         </Note>
-        <Note ID="10" FontSize="28.0" Position="707.601807,1037.852417" Width="96.0">
+        <Note ID="10" FontSize="28.0" Position="746.893494,1365.788208" Width="96.0">
             <Appearance></Appearance>
             <String>Lessa</String>
             <ConnectedNoteIDs>3</ConnectedNoteIDs>
@@ -88,7 +88,7 @@
                 <FormatRange Bold="Yes">0,5</FormatRange>
             </Formatting>
         </Note>
-        <Note ID="11" FontSize="28.0" Position="1168.615723,1148.685547" Width="73.0">
+        <Note ID="11" FontSize="28.0" Position="1853.218018,1571.058838" Width="73.0">
             <Appearance></Appearance>
             <String>Zaki</String>
             <ConnectedNoteIDs>3</ConnectedNoteIDs>
@@ -96,14 +96,14 @@
                 <FormatRange Bold="Yes">0,4</FormatRange>
             </Formatting>
         </Note>
-        <Note ID="12" FontSize="12.0" Position="1224.740845,180.116608" Width="200.0">
+        <Note ID="12" FontSize="12.0" Position="1225.0,180.0" Width="200.0">
             <Appearance>
                 <Alignment>Left</Alignment>
             </Appearance>
             <String>Is what inspires you to face your fears, despite cards are against you.</String>
             <ConnectedNoteIDs>2, 13</ConnectedNoteIDs>
         </Note>
-        <Note ID="13" FontSize="12.0" Position="1441.015869,142.112183" Width="216.0">
+        <Note ID="13" FontSize="12.0" Position="1441.0,142.0" Width="216.0">
             <Appearance>
                 <Alignment>Left</Alignment>
                 <Border Weight="1">0.668968 0.810267 0.895084</Border>
@@ -112,7 +112,7 @@
             <String>when are the odds not in her favor?</String>
             <ConnectedNoteIDs>12</ConnectedNoteIDs>
         </Note>
-        <Note ID="14" FontSize="12.0" Position="40.235992,29.601858" Width="176.0">
+        <Note ID="14" FontSize="12.0" Position="40.0,30.0" Width="176.0">
             <Appearance>
                 <Alignment>Left</Alignment>
                 <Border Weight="1">0.894548 0.707752 0.715898</Border>
@@ -137,7 +137,7 @@
 - plot bunnies, tropes,
 - can we move readers?</String>
         </Note>
-        <Note ID="16" FontSize="12.0" Position="470.961456,34.120808" Width="179.0">
+        <Note ID="16" FontSize="12.0" Position="471.0,34.0" Width="179.0">
             <Appearance>
                 <Alignment>Left</Alignment>
                 <Border Weight="1">0.87775 0.828268 0.562122</Border>
@@ -148,7 +148,7 @@
 - Contractions
 - problematic representations?</String>
         </Note>
-        <Note ID="19" FontSize="12.0" Position="770.4328,308.398712" Width="200.0">
+        <Note ID="19" FontSize="12.0" Position="770.0,308.0" Width="200.0">
             <Appearance>
                 <Alignment>Left</Alignment>
                 <Border Weight="1">0.894548 0.707752 0.715898</Border>
@@ -160,7 +160,7 @@
 - will find love</String>
             <ConnectedNoteIDs>2, 42-43, 46</ConnectedNoteIDs>
         </Note>
-        <Note ID="22" FontSize="12.0" Position="1000.0,501.526428" Width="248.0">
+        <Note ID="22" FontSize="12.0" Position="1000.0,502.0" Width="248.0">
             <Appearance>
                 <Alignment>Left</Alignment>
                 <Border Weight="1">0.894548 0.707752 0.715898</Border>
@@ -174,7 +174,7 @@
                 <FormatRange Bold="Yes">0,28</FormatRange>
             </Formatting>
         </Note>
-        <Note ID="23" FontSize="12.0" Position="1029.1427,345.0" Width="166.0">
+        <Note ID="23" FontSize="12.0" Position="1029.0,345.0" Width="166.0">
             <Appearance>
                 <Alignment>Left</Alignment>
                 <Border Weight="1">0.894548 0.707752 0.715898</Border>
@@ -188,7 +188,7 @@
                 <FormatRange Bold="Yes">81,30</FormatRange>
             </Formatting>
         </Note>
-        <Note ID="24" FontSize="12.0" Position="1421.243408,228.398392" Width="200.0">
+        <Note ID="24" FontSize="12.0" Position="1421.0,228.0" Width="200.0">
             <Appearance>
                 <Alignment>Left</Alignment>
                 <Border Weight="1">0.87775 0.828268 0.562122</Border>
@@ -197,7 +197,7 @@
             <String>Is her hope just her being in denial of the new reality of the world?</String>
             <ConnectedNoteIDs>2</ConnectedNoteIDs>
         </Note>
-        <Note ID="26" FontSize="12.0" Position="975.972412,218.187042" Width="200.0">
+        <Note ID="26" FontSize="12.0" Position="976.0,218.0" Width="200.0">
             <Appearance>
                 <Alignment>Left</Alignment>
                 <Border Weight="1">0.894548 0.707752 0.715898</Border>
@@ -215,7 +215,7 @@
             <String>Zaki promising to be her anchor</String>
             <ConnectedNoteIDs>26, 45</ConnectedNoteIDs>
         </Note>
-        <Note ID="29" FontSize="12.0" Position="1253.197754,371.437469" Width="73.0">
+        <Note ID="29" FontSize="12.0" Position="1253.0,371.0" Width="73.0">
             <Appearance>
                 <Alignment>Left</Alignment>
                 <Border Weight="1">0.668968 0.810267 0.895084</Border>
@@ -224,7 +224,7 @@
             <String>flashbacks</String>
             <ConnectedNoteIDs>23, 32-34, 54</ConnectedNoteIDs>
         </Note>
-        <Note ID="30" FontSize="12.0" Position="1547.464111,516.359558" Width="109.0">
+        <Note ID="30" FontSize="12.0" Position="1547.0,516.0" Width="109.0">
             <Appearance>
                 <Alignment>Left</Alignment>
                 <Border Weight="1">0.668968 0.810267 0.895084</Border>
@@ -242,7 +242,7 @@
             <String>dialog with Erik</String>
             <ConnectedNoteIDs>23, 35, 52</ConnectedNoteIDs>
         </Note>
-        <Note ID="32" FontSize="12.0" Position="1423.492676,327.604584" Width="148.0">
+        <Note ID="32" FontSize="12.0" Position="1423.0,328.0" Width="148.0">
             <Appearance>
                 <Alignment>Left</Alignment>
                 <Border Weight="1">0.668968 0.810267 0.895084</Border>
@@ -260,7 +260,7 @@
             <String>training with Yule, Erik</String>
             <ConnectedNoteIDs>29</ConnectedNoteIDs>
         </Note>
-        <Note ID="34" FontSize="12.0" Position="1393.175415,402.266571" Width="200.0">
+        <Note ID="34" FontSize="12.0" Position="1393.0,402.0" Width="200.0">
             <Appearance>
                 <Alignment>Left</Alignment>
                 <Border Weight="1">0.668968 0.810267 0.895084</Border>
@@ -269,7 +269,7 @@
             <String>Her doing something wrong and the Falcon tribe explains it it detail. Contrast this with her time in Atonia where they just laugh at her and expect her to know what she did wrong.</String>
             <ConnectedNoteIDs>29, 51</ConnectedNoteIDs>
         </Note>
-        <Note ID="35" FontSize="12.0" Position="1277.706909,517.242371" Width="200.0">
+        <Note ID="35" FontSize="12.0" Position="1278.0,517.0" Width="200.0">
             <Appearance>
                 <Alignment>Left</Alignment>
                 <Border Weight="1">0.668968 0.810267 0.895084</Border>
@@ -278,7 +278,7 @@
             <String>How open she is with him about her feelings and confusion about the world.</String>
             <ConnectedNoteIDs>31</ConnectedNoteIDs>
         </Note>
-        <Note ID="36" FontSize="12.0" Position="1625.086792,546.299622" Width="200.0">
+        <Note ID="36" FontSize="12.0" Position="1625.0,546.0" Width="200.0">
             <Appearance>
                 <Alignment>Left</Alignment>
                 <Border Weight="1">0.668968 0.810267 0.895084</Border>
@@ -287,7 +287,7 @@
             <String>Sees that as a commander he’s brought tribe virtues to his troops.</String>
             <ConnectedNoteIDs>30</ConnectedNoteIDs>
         </Note>
-        <Note ID="37" FontSize="12.0" Position="1036.0,612.87561" Width="200.0">
+        <Note ID="37" FontSize="12.0" Position="1036.0,613.0" Width="200.0">
             <Appearance>
                 <Alignment>Left</Alignment>
                 <Border Weight="1">0.668968 0.810267 0.895084</Border>
@@ -296,7 +296,7 @@
             <String>Reminds her with that people of the church are still helping the vulnerable.</String>
             <ConnectedNoteIDs>22</ConnectedNoteIDs>
         </Note>
-        <Note ID="38" FontSize="12.0" Position="1261.729004,608.857971" Width="200.0">
+        <Note ID="38" FontSize="12.0" Position="1262.0,609.0" Width="200.0">
             <Appearance>
                 <Alignment>Left</Alignment>
                 <Border Weight="1">0.668968 0.810267 0.895084</Border>
@@ -305,7 +305,7 @@
             <String>Vio is constantly willing to give all character who have wronged her the benefit of the doubt.</String>
             <ConnectedNoteIDs>22, 39-41</ConnectedNoteIDs>
         </Note>
-        <Note ID="39" FontSize="12.0" Position="1506.152832,622.845642" Width="93.0">
+        <Note ID="39" FontSize="12.0" Position="1506.0,623.0" Width="93.0">
             <Appearance>
                 <Alignment>Left</Alignment>
                 <Border Weight="1">0.668968 0.810267 0.895084</Border>
@@ -314,7 +314,7 @@
             <String>Rescuing Zaki</String>
             <ConnectedNoteIDs>38</ConnectedNoteIDs>
         </Note>
-        <Note ID="40" FontSize="12.0" Position="1471.730835,684.936584" Width="200.0">
+        <Note ID="40" FontSize="12.0" Position="1472.0,685.0" Width="200.0">
             <Appearance>
                 <Alignment>Left</Alignment>
                 <Border Weight="1">0.668968 0.810267 0.895084</Border>
@@ -332,7 +332,7 @@
             <String>Yule for joining with The Order</String>
             <ConnectedNoteIDs>38</ConnectedNoteIDs>
         </Note>
-        <Note ID="42" FontSize="12.0" Position="759.248596,237.668564" Width="200.0">
+        <Note ID="42" FontSize="12.0" Position="759.0,238.0" Width="200.0">
             <Appearance>
                 <Alignment>Left</Alignment>
                 <Border Weight="1">0.668968 0.810267 0.895084</Border>
@@ -341,7 +341,7 @@
             <String>Her fear of losing Sicili helps her overcome of her insecurities with her unnamed autism.</String>
             <ConnectedNoteIDs>19, 47</ConnectedNoteIDs>
         </Note>
-        <Note ID="43" FontSize="12.0" Position="536.998779,308.714935" Width="200.0">
+        <Note ID="43" FontSize="12.0" Position="537.0,309.0" Width="200.0">
             <Appearance>
                 <Alignment>Left</Alignment>
                 <Border Weight="1">0.668968 0.810267 0.895084</Border>
@@ -352,7 +352,7 @@
 We see how she has to mentally prepare for all the things she is nervous about. Bring examples of the embarrasing amount of prep work one puts into the simplest interactions.</String>
             <ConnectedNoteIDs>19, 44, 48</ConnectedNoteIDs>
         </Note>
-        <Note ID="44" FontSize="12.0" Position="537.494751,205.118118" Width="200.0">
+        <Note ID="44" FontSize="12.0" Position="537.0,205.0" Width="200.0">
             <Appearance>
                 <Alignment>Left</Alignment>
                 <Border Weight="1">0.668968 0.810267 0.895084</Border>
@@ -361,7 +361,7 @@ We see how she has to mentally prepare for all the things she is nervous about. 
             <String>She is surprised whenever she discovers she can do something she had thought was impossible for her.</String>
             <ConnectedNoteIDs>43</ConnectedNoteIDs>
         </Note>
-        <Note ID="45" FontSize="12.0" Position="996.708923,114.213242" Width="227.0">
+        <Note ID="45" FontSize="12.0" Position="997.0,114.0" Width="227.0">
             <Appearance>
                 <Alignment>Left</Alignment>
                 <Border Weight="1">0.668968 0.810267 0.895084</Border>
@@ -370,7 +370,7 @@ We see how she has to mentally prepare for all the things she is nervous about. 
             <String>So broken but they need each other.</String>
             <ConnectedNoteIDs>28</ConnectedNoteIDs>
         </Note>
-        <Note ID="46" FontSize="12.0" Position="695.547546,85.095673" Width="200.0">
+        <Note ID="46" FontSize="12.0" Position="696.0,85.0" Width="200.0">
             <Appearance>
                 <Alignment>Left</Alignment>
                 <Border Weight="1">0.668968 0.810267 0.895084</Border>
@@ -379,7 +379,7 @@ We see how she has to mentally prepare for all the things she is nervous about. 
             <String>Move readers: Show her martial arts obsession is just a cover up for how anxious and out of control she constantly feel. She is constantly talking to herself or Erik.</String>
             <ConnectedNoteIDs>19</ConnectedNoteIDs>
         </Note>
-        <Note ID="47" FontSize="12.0" Position="854.43457,32.818199" Width="200.0">
+        <Note ID="47" FontSize="12.0" Position="854.0,33.0" Width="200.0">
             <Appearance>
                 <Alignment>Left</Alignment>
                 <Border Weight="1">0.668968 0.810267 0.895084</Border>
@@ -388,7 +388,7 @@ We see how she has to mentally prepare for all the things she is nervous about. 
             <String>Show how much shame she feels, over each infraction. And yet she gets up and try again anyway.</String>
             <ConnectedNoteIDs>42</ConnectedNoteIDs>
         </Note>
-        <Note ID="48" FontSize="12.0" Position="283.409576,340.293213" Width="200.0">
+        <Note ID="48" FontSize="12.0" Position="283.0,340.0" Width="200.0">
             <Appearance>
                 <Alignment>Left</Alignment>
                 <Border Weight="1">0.87775 0.828268 0.562122</Border>
@@ -397,7 +397,7 @@ We see how she has to mentally prepare for all the things she is nervous about. 
             <String>Since her autism traits are more subtle and we don’t have the word for it in this world, will they pick up on it? Especially since she’s not churning numbers?</String>
             <ConnectedNoteIDs>43</ConnectedNoteIDs>
         </Note>
-        <Note ID="49" FontSize="12.0" Position="1110.686768,22.288195" Width="200.0">
+        <Note ID="49" FontSize="12.0" Position="1111.0,22.0" Width="200.0">
             <Appearance>
                 <Alignment>Left</Alignment>
                 <Border Weight="1">0.87775 0.828268 0.562122</Border>
@@ -406,7 +406,7 @@ We see how she has to mentally prepare for all the things she is nervous about. 
             <String>What real life examples can we make this relationship with a supernatural phen relatable?</String>
             <ConnectedNoteIDs>26, 50</ConnectedNoteIDs>
         </Note>
-        <Note ID="50" FontSize="12.0" Position="1352.444702,14.622705" Width="200.0">
+        <Note ID="50" FontSize="12.0" Position="1352.0,15.0" Width="200.0">
             <Appearance>
                 <Alignment>Left</Alignment>
                 <Border Weight="1">0.668968 0.810267 0.895084</Border>
@@ -415,7 +415,7 @@ We see how she has to mentally prepare for all the things she is nervous about. 
             <String>Partner help you face your abusive parents. Ronan and Adam</String>
             <ConnectedNoteIDs>49</ConnectedNoteIDs>
         </Note>
-        <Note ID="51" FontSize="12.0" Position="1653.142944,357.46286" Width="200.0">
+        <Note ID="51" FontSize="12.0" Position="1653.0,357.0" Width="200.0">
             <Appearance>
                 <Alignment>Left</Alignment>
                 <Border Weight="1">0.87775 0.828268 0.562122</Border>
@@ -426,7 +426,7 @@ We see how she has to mentally prepare for all the things she is nervous about. 
 We need to show more scenes of how she didn’t like Atonia, to make her mountain tribe scenes stand out.</String>
             <ConnectedNoteIDs>34</ConnectedNoteIDs>
         </Note>
-        <Note ID="52" FontSize="12.0" Position="1450.430054,573.302795" Width="159.0">
+        <Note ID="52" FontSize="12.0" Position="1450.0,573.0" Width="159.0">
             <Appearance>
                 <Alignment>Left</Alignment>
                 <Border Weight="1">0.87775 0.828268 0.562122</Border>
@@ -435,7 +435,7 @@ We need to show more scenes of how she didn’t like Atonia, to make her mountai
             <String>Are they talking too much?</String>
             <ConnectedNoteIDs>31</ConnectedNoteIDs>
         </Note>
-        <Note ID="54" FontSize="12.0" Position="1195.880005,330.3927" Width="199.0">
+        <Note ID="54" FontSize="12.0" Position="1196.0,330.0" Width="199.0">
             <Appearance>
                 <Alignment>Left</Alignment>
                 <Border Weight="1">0.87775 0.828268 0.562122</Border>

@@ -48,40 +48,41 @@ Place of Origin:
 ---
 # Soundtrack
 
-I want:
+## I am
 
 
-
-Preparation:
-
+## I want
 
 
-Battle:
+## Face fears
 
 
+## Battle
 
-Reprise:
+
+## Reprise
+
 
 ---
 
 # Reasons
 
-*Motivations*
+## Motivations
 
 
-*Fears*
+## Fears
 
 
-*What do they value in life?*
+## Values
 
 
-*What makes them happy?*
+## Happy when
 
 
-*What gives them hope?*
+## Gives them hope
 
 
-*What makes them feel alive?*
+## Feels alive when
 
 
 ---
@@ -89,29 +90,28 @@ Reprise:
 # Perspective
 
 
-*What do they feel about the gov?*
+## What do they feel about the gov?
 
 
-*What do they feel about the church?*
+## What do they feel about the church?
 
 
-*How do they see the world?*
+## How do they see the world?
 
 
 ---
 # Battle strategy
 
-*How do they deal with conflict?*
+## How do they deal with conflict?
 
 
-*How do they deal with loss?*
+## How do they deal with lost?
 
 
-*How do they deal with change?*
+## How do they deal with change?
 
 
-*What is their method of manipulation?*
-
+## What is their method of manipulation?
 
 ---
 

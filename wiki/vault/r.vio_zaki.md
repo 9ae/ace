@@ -2,7 +2,7 @@
 id: 1fb8030f-9601-47e3-af22-1c5347c7a171
 title: Vio & Zaki
 desc: ''
-updated: 1612499190006
+updated: 1612504361226
 created: 1612430722317
 ---
 
@@ -22,3 +22,22 @@ Examples: early seasons Willow.
 *Where do they diverge?* Vio wants to forget, where Zaki wants retribution.
 
 Well she seems to have develop a crush on him. How did that happen? Since she's unaware it has to with her need more than her want. She needs to fight for what she believes in and accept her powers. Zaki does exactly that, he fights for what he believes in (even if she disagrees with his motivtes). He owns up to his abilities, though his isn't as deadly as hers. We have to show a scene where Zaki is willing to give up control for a greater good.
+
+# Dynamic
+
+# History
+
+## How did they meet?
+
+## Formutive experience they gone through together
+
+
+# Perspectives
+
+## How does Vio see Zaki?
+
+## How does Zaki see Vio?
+
+## How does their opinions of eachother change over time?
+
+# End

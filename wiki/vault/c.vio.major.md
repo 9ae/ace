@@ -2,7 +2,7 @@
 id: f486e48c-5133-4471-b663-924f9b1f2c8d
 title: Vivara Alighieri
 desc: ''
-updated: 1612499596465
+updated: 1612511459582
 created: 1612430269321
 ---
 # At Glance
@@ -82,6 +82,15 @@ She doesn't know what she will do when she finds them. What if it wasn't a targe
 ---
 # Arc
 
+Allegory to discovering my own abilities througout highschool.
+We skipped freshmen year (when Vio came to Ixan).
+Act 1: Sophmore year ~ Chaos! call to action
+Act 2: Junior year ~ Training montagues
+Act 3: Senior year ~ lost penultimate battle, darkest hour, dusting off to fight final battle
+
+*How does the Lessa plot challenge her to grown?*
+She is confronted with her own hypocracy.
+
 *What do they believe in?*
 Forgiveness
 > Not forgiving is turning your back on a friend. Now your enemy may stab you at anytime.
@@ -141,7 +150,7 @@ Answer:
 Vio who never wanted to be the leader was groomed for leadership like Lessa, their family plain for Sici was to marry her off to form a political alliance. Vio while not wanting to deal with the politcs of leadership, never envisioned a life outside her family's business. She would have been happy to help Lessa lead, behind the scenes as a strategist.
 
 ### Sicili
-She actually was very jealous of Sicili who was able to easily make friends. Her parents also seem to be prouder of Sicili because she matched the role they had laid out for her, whereas Vio constantly failed in the obligations they laid out for her. But she was told jealous was inappropriate. So she hid it (reaction formation). The source of all her hidden power is her repressed emotions. And not because she is evil. 
+![[r.sici_vio]]
 
 ### Lessa
 On nights when she finishes early, she goes to visit Lessa who is probably still up. Lessa takes her out and tries to pull Vio out of her comfort zone.
@@ -168,15 +177,7 @@ He looks at Galeian politics with a simple mind, the mountain tribes had always 
 archetypes: cool imaginary best friend. He is her wonder.
 
 ### Yule
-She had always looked up to him. He was the first person who said they believed in her abilities. At first she had a crush on him too. But he eventually got a girlfriend, and she gave up on him. She considers him as more of an older brother now. He has always saw her as a little sister, he had hoped that she'll be a good match for Erik because she kept him in check.
-
-archetypes: Yule is the hero, while Vio is the anti-hero. He tries to make the world a better place, while she just wants to keep her family safe. 
-
-the change arc is how his spirit for trying your hardest influenced her to step into the spotlight and take charge and help out.
-
-She helped him let go of the guilt for abandoning his tribe. Or did Sicli do that? It would matter more if she did it because she is the one he needs forgiveness from (well also his family, but they aren't here). 
-Vio is also the only one he knew as Jyri, he gets to be his old self with her.
-
+![[r.vio_yule]]
 
 ### Zaki
 ![[r.vio_zaki]]
@@ -223,17 +224,29 @@ That her powers are evil. She believe now as long as she has the upperhand, her 
 
 ---
 # Soundtrack
+[playlist](https://open.spotify.com/playlist/7rtJLR5ssexdkX8uMwIfsU)
+
+## I am
+[I'm not that girl](https://open.spotify.com/track/5HZCMnScUwekum55mcRdjK) how she sees herself
+
+> I am a provider and I'm so fucking tired
+> I am overgrown, I am so alone
+> A barren supplier And I am
+> A hearse of a lover
+> Selfless limerence
+[Hearse](https://open.spotify.com/track/1dO8bADiTxgeX5AAPgRbFq)
+
 
 ## I want
+> A world where I belong
+- original
 
+[Go the distance - Hercules](https://open.spotify.com/track/0D1OY0M5A0qD5HGBvFmFid)
 
-
-## Preparation
-
+## Face fears
 
 
 ## Battle
-
 
 
 ## Reprise
