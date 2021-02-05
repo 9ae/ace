@@ -22,7 +22,10 @@ Catch Phrase
 ![floor plan](media/Zaki_studio-floor-plan.png)
 ![inside studio](media/Zaki_flat-inside.jpg)
 
-#### Anti Hero
+---
+## Theme
+
+### Anti Hero
 
 What is the ah-ha moment the anti-hero has more of a conscience than they thought? *Yule had that moment when he refused to use the people in Varin's church as bait in order to escape wit the painting.*
 
@@ -33,9 +36,6 @@ Not just setup to make bad decision. This is a character who has been making lot
 You make your reader look really hard for something good in this character.
 
 Let them be their own worse enemy. 
-
----
-## Theme
 
 ### Revenge
 

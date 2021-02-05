@@ -11,7 +11,7 @@ Job: (what do they do and how did they get started)
 ## Introduction ideas
 
 ## Catch Phrase
-- What determins something you would say a lot?
+- What determines something you would say a lot?
 - Could be a nervous habit? When do they say it?
 - What is an feeling they would express alot? "Cool beans" means 'whatever', so that's apathy.
 > 
@@ -90,77 +90,77 @@ Answer:
 ---
 # Soundtrack
 
-I want:
+## I want
 
 
 
-Preparation:
+## Preparation
 
 
 
-Battle:
+## Battle
 
 
 
-Reprise:
+## Reprise
 
 ---
 
 # Reasons
 
-*Motivations*
+## Motivations
 
 
-*Fears*
+## Fears
 
 
-*What do they value in life?*
+## Values
 
 
-*What makes them happy?*
+## Happy when
 
 
-*What gives them hope?*
+## Gives them hope
 
 
-*What makes them feel alive?*
+## Feels alive when
 
 
 ---
 
 # Perspective
 
-*How do they see themselves?*
+## How do they see themselves?
 
 
-*How do they see others?*
+## How do they see others?
 
 
-*How do others see them?*
+## How do others see them?
 
 
-*What do they feel about the gov?*
+## What do they feel about the gov?
 
 
-*What do they feel about the church?*
+## What do they feel about the church?
 
 
-*How do they see the world?*
+## How do they see the world?
 
 
 ---
 # Battle strategy
 
-*How do they deal with conflict?*
+## How do they deal with conflict?
 
 
-*How do they deal with loss?*
+## How do they deal with lost?
 
 
-*How do they deal with change?*
+## How do they deal with change?
 
 
-*What is their method of manipulation?*
+## What is their method of manipulation?
 
 
 ---
