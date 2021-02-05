@@ -1,0 +1,7 @@
+version: 1
+schemas:
+- id: r
+  title: Relationship
+  desc: "Dynamic between two characters"
+  namespace: true
+  parent: root

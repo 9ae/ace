@@ -1,8 +1,15 @@
+---
+id: f486e48c-5133-4471-b663-924f9b1f2c8d
+title: Vio
+desc: ''
+updated: 1612431178361
+created: 1612430269321
+---
 # At Glance
 
 Other names:
 
-Birthday:
+Birthday: [[Atonia|p.atonia]]
 
 Place of Origin:
 
@@ -65,6 +72,9 @@ Answer:
 
 ## Friends
 
+### [[Zaki|c.zaki.major]]
+
+![[r.vio_zaki]]
 
 ## Colleagues
 
@@ -175,13 +185,8 @@ Ennegram:
 
 ---
 
-# Tropes
-
-
-
----
-
 # Inspirations
 
+## Tropes
 
 --

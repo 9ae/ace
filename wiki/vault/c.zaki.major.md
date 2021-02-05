@@ -1,3 +1,10 @@
+---
+id: 78d5c392-534e-45b4-8448-be3314551201
+title: Zaki
+desc: ''
+updated: 1612431248085
+created: 1612430294609
+---
 # At Glance
 
 Other names:
@@ -175,13 +182,8 @@ Ennegram:
 
 ---
 
-# Tropes
-
-
-
----
-
 # Inspirations
 
+## Tropes
 
 --

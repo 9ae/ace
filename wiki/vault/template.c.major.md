@@ -175,13 +175,8 @@ Ennegram:
 
 ---
 
-# Tropes
-
-
-
----
-
 # Inspirations
 
+## Tropes
 
 --

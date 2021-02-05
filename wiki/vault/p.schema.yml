@@ -1,0 +1,7 @@
+version: 1
+schemas:
+- id: p
+  title: Place
+  desc: "Area, Country, Colihition"
+  parent: root
+  namespace: true

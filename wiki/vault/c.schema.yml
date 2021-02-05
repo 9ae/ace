@@ -1,0 +1,19 @@
+version: 1
+schemas:
+- id: c
+  title: Character
+  desc: ""
+  parent: root
+  namespace: true
+  children:
+    - major
+  template:
+    id: template.c.minor
+    type: note
+- id: major
+  title: Major character
+  desc: Major character
+  namespace: false
+  template:
+    id: template.c.major
+    type: note
