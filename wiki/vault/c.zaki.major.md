@@ -2,7 +2,7 @@
 id: 78d5c392-534e-45b4-8448-be3314551201
 title: Zaki Attar
 desc: 'the butterfly collector'
-updated: 1612498789887
+updated: 1612514133444
 created: 1612430294609
 ---
 # At Glance
@@ -357,6 +357,8 @@ He is pretty adaptive, after all he learned to live on the streets and get taken
 *What is their method of manipulation?*
 Acts of kindness, or helping out. After meeting Sicili, he is always willing to offer help to Vio. To get close to Edgar, he takes on more government secret jobs.
 He has learned this through his relationship with the poison master.
+
+## What is the cost of their power?
 
 ---
 

@@ -2,7 +2,7 @@
 id: 48855c8e-2bce-4f62-b06c-9795eaaea7f0
 title: Yule
 desc: ''
-updated: 1612431241319
+updated: 1612514146067
 created: 1612430302874
 ---
 # At Glance
@@ -169,6 +169,7 @@ Reprise:
 
 *What is their method of manipulation?*
 
+## What is the cost of their power?
 
 ---
 

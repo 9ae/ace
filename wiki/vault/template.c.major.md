@@ -163,6 +163,8 @@ Answer:
 ## What is their method of manipulation?
 
 
+## What is the cost of their power?
+
 ---
 
 # Astrology
