@@ -5,15 +5,22 @@ schemas:
   desc: ""
   parent: root
   namespace: true
-  children:
-    - major
+  # children:
+  #   - major
+  #   - minor
   template:
-    id: template.c.minor
+    id: template.c
     type: note
-- id: major
-  title: Major character
-  desc: Major character
-  namespace: false
-  template:
-    id: template.c.major
-    type: note
+# - id: major
+#   title: Major character
+#   desc: Major character
+#   namespace: false
+#   template:
+#     id: template.c.major
+#     type: note
+# - id: minor
+#   title: Minor character
+#   namespace: false
+#   template:
+#     id: template.c.minor
+#     type: note

@@ -1,8 +1,8 @@
 ---
 id: 0a36ea8c-058b-483c-98ce-523bf7ee22d4
-title: Ada
+title: Ada Hart
 desc: ''
-updated: 1612506488434
+updated: 1612577673467
 created: 1612430229580
 ---
 # At Glance
@@ -16,8 +16,7 @@ Place of Origin:
 ## Introduction ideas
 
 ## Catch Phrase
-> 
-
+>
 
 ---
 # Impact
