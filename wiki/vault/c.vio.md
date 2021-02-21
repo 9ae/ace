@@ -2,7 +2,7 @@
 id: f486e48c-5133-4471-b663-924f9b1f2c8d
 title: Vivara Alighieri
 desc: ''
-updated: 1612511459582
+updated: 1613886210067
 created: 1612430269321
 ---
 # At Glance
@@ -119,6 +119,8 @@ Ada: Non-judgemental, is someone who will always use what she has to get what sh
 
 
 *Journey (how they learn about it)?*
+
+**Turning point** when she finds Zaki likes Sicili. She processes her emotions by throwing herself deeper into work. And promises to help him get to her her sister better. The butterfly exhibit can be a moment when she steps outs to give them a chance to hangout, while she helps Alan.
 
 
 ---
@@ -257,7 +259,19 @@ That her powers are evil. She believe now as long as she has the upperhand, her 
 
 ## Motivations
 The desire to protect Sicili, it is almost an obsession. It hides away the fact that she is very jealous of Sici - reaction formation.
+She also wants acceptence, and even Sicili is the only one who does.
 
+What's a story we can tell from her voice that makes her motivated? How did she end up in Ixan? 
+
+Oh we can make someone her rival, and she becomes motivated to succeed.
+
+```
+I can't say that it didn't bother me. He can be with whoever he wants, after all what are we even really. Two strangers thrown in violence circumstances together. And Sicili, of course it's always sweet Sicili everyone falls for. She's kind; I'm a killer.
+
+I kill to protect her.
+
+The punching bag lets out a spray of stand, after my feet lands on it. We all have a purpose.
+```
 
 ## Fears
 *How does her losts inform her fears?*

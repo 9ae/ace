@@ -15,8 +15,8 @@
         "editor.suggest.snippetsPreventQuickSuggestions": false,
         "editor.suggest.showSnippets": true,
         "editor.tabCompletion": "on",
-        "workbench.colorTheme": "Solarized Light",
-        "editor.fontFamily": "'Comic Shanns', 'Courier New', monospace"
+        "workbench.colorTheme": "Panda Syntax",
+        "editor.fontFamily": "'Comic Mono', 'Comic Shanns', 'Courier New', monospace"
     },
     "extensions": {
         "recommendations": [
