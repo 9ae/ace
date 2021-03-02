@@ -2,7 +2,7 @@
 id: f486e48c-5133-4471-b663-924f9b1f2c8d
 title: Vivara Alighieri
 desc: ''
-updated: 1613886210067
+updated: 1614669764603
 created: 1612430269321
 ---
 # At Glance
@@ -48,6 +48,14 @@ She talks to imaginary Lessa and Erik.
 
 ---
 # Goals
+
+> To bring down The Order. It's the only goal that makes sense for all that it's done to her.
+> We end with her deciding that it is Roderick she needs to stop.
+
+Vio is with org who thinks the Order is up to no good.
+Gov (and Zaki under their hire) is chill with the Order until they try taking over Galei.
+The org temporarily aligns with the gov??
+**How does Yule and Vio reconceal?**
 
 
 *How are they dissastisfied with their life?*
@@ -347,28 +355,36 @@ It's like your partner going with you to move out of your abusive parent's place
 # Perspective
 
 ## How do they see themselves?
+Vio sees herself as someone who is constantly misunderstood. She fears that she may never be worthy of love and acceptence. That is why she clings on to Sicili's safety so much, because right now Sicili is the only person Vio thinks will love her.
 
+Her journey is to show she can become a great introverted leaders. She discovers that other's believe in her, if only she can belief in herself. 
 
 ## How do they see others?
-Her journey is to show she can become a great introverted leaders. She discovers that other's believe in her, if only she can belief in herself.
+She finds people strange. The unpredictability of their behaviors make her feel like she can't truly trust anyone. She was torn by Yule joining the Order. Because of early childhood bullying, she is terrified of people. Even though she desperately longs for connection with others.
+She has pretend conversations in her head with some of the people in her life. At first it started because she had to rehearse for social interactions, she she ran what she wanted to say in her head many times. Then it became a habit, she'll have pretend coversations with people even though she never intended to actually have in real life. In her head these conversations are predicatble under control.
 
 ## How do others see them?
-
+They too find her strange. Sicili accepts that this is just her sister. She is occasionally afraid to be seen with her.
+Others who don't know her isn't aware of her hidden violence. They just think she is a laconic girl. Because no one perceives her as a threat they are comfortable with giving her more and more power.
 
 ## What do they feel about the gov?
-
+She isn't aware of the level of corruption it has. She's only been here for a year or so. At the start of the story it is still the Ixan that she had dreamed of visiting and training in as a child.
 
 ## What do they feel about the church?
-
+Hates them for displacing her family, and destroying the only place she's felt like home.
 
 ## How do they see the world?
-
+She like Zaki sees the world as an unfair place. Instead of lashing out, she lashes in. She beats herself up for not belong in this world. There is a part of her that wants revenge on the cosmic powers that had consistently dealt her a bad hand. She won't admit that.
 
 ---
 # Battle strategy
 
 ## How do they deal with conflict?
-
+By trying to remove themselves from the situation. She struggles with interpersonal conflicts the most. For those she seem unneceesary so she throws herself into work. In may instances she hides and tries to stay out of it. 
+How does she deal with external conflict, she tries to tackle them head on. But fails a lot.
+One because she is afraid to user her powers.
+And another because she lacks the executive functiong to make a plan.
+Having constantly failing, she feels pretty worthless. Like everything she does goes to shit.
 
 ## How do they deal with lost?
 AKA coping & defense mechanisms.
@@ -392,7 +408,9 @@ L: And Roderick is just one man, when he started.
 
 
 ## How do they deal with change?
-
+Change by this point in her life has been the only constant in her life. Therefore she embraces it like a safety blanket. At first she doesn't like it when it happens, but quickly adapts to it like it's a new opportunity to erase the past and the thing she thinks she had failed at.
+- Protecting Sicili during the raid
+- Fighting off the Order when they came to the mountain tribe
 
 ## What are her powers?
 Her fugue state, summons the sorceress Aradia. 
