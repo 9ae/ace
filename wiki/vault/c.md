@@ -1,3 +1,10 @@
+---
+id: d12851e1-2a97-4d35-b076-592f23734295
+title: Characters README
+desc: 'Character development guide'
+updated: 1614670536760
+created: 1614670498250
+---
 # Templates
 
 [Major character profile](template_major.md)
@@ -86,18 +93,19 @@ After embrace their anti-theme, they realize it does not bring them happiness.
 ![illusion points](media/disillusion.jpg)
 Discovers the truth but it is tragic to them. Is truth tragic? Makes them a pessimist.
 @Ada
+@Yule
 
 ### Corruption
 
 ![corruption points](media/corrupt.jpg)
 They must be conflicted, doubting their own truth.
-@Yule
+@Vio 
 
 ### Fall
 
 ![fall points](media/fall.jpg)
 Downward spiral, reject theme at very turn, and cling to anti-theme which leads them to their tragic end. 
-
+@Zaki
 
 ### Examples
 
