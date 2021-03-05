@@ -2,7 +2,7 @@
 id: f486e48c-5133-4471-b663-924f9b1f2c8d
 title: Vivara Alighieri
 desc: ''
-updated: 1614669764603
+updated: 1614911824529
 created: 1612430269321
 ---
 # At Glance
@@ -20,7 +20,12 @@ Vio is a hired assassin.
 - *When did she arrive to Ixan?* What happened? Sicili and her got cornered while walking home one night by a street gang. She killed all of them in one go. Jacques was hired to arrest them, and saw the scene. He hired her into his private security company.
 
 
+
 ## Introduction ideas
+
+## Reader catch
+Asa I reader, I relate to Vio through because she is deeply weird.
+She's self defeating, angsty.
 
 ## Catch Phrase
 
@@ -353,6 +358,8 @@ It's like your partner going with you to move out of your abusive parent's place
 ---
 
 # Perspective
+
+Believes in forgivess in a personal level, and exhiling criminals.
 
 ## How do they see themselves?
 Vio sees herself as someone who is constantly misunderstood. She fears that she may never be worthy of love and acceptence. That is why she clings on to Sicili's safety so much, because right now Sicili is the only person Vio thinks will love her.

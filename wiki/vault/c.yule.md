@@ -2,7 +2,7 @@
 id: 48855c8e-2bce-4f62-b06c-9795eaaea7f0
 title: Yule
 desc: ''
-updated: 1614910801402
+updated: 1614911792224
 created: 1612430302874
 ---
 # At Glance
@@ -17,6 +17,9 @@ Job: (what do they do and how did they get started)
 Chief commander in the Order
 
 ## Introduction ideas
+
+## Reader catch
+As a reader, I want Yule to see open his eyes to the corrupton of the Order. I can relate to him through his morally comprosing complexity.
 
 ## Catch Phrase
 - What determins something you would say a lot?
@@ -172,6 +175,8 @@ He hopes to find his brother Erik one day. And he hopes that his sacrifice by wo
 ---
 
 # Perspective
+
+Belives in stocism to personal hurt, and punative justice on a society level.
 
 *How do they see themselves?*
 

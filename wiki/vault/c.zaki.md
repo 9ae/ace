@@ -2,7 +2,7 @@
 id: 78d5c392-534e-45b4-8448-be3314551201
 title: Zaki Attar
 desc: 'the butterfly collector'
-updated: 1612514133444
+updated: 1614911858460
 created: 1612430294609
 ---
 # At Glance
@@ -24,6 +24,9 @@ Job: (what do they do and how did they get started)
 ![inside studio](assets/images/Zaki_flat-inside.jpg)
 
 ## Introduction ideas
+
+## Reader catch
+As a reader, I relate to Zaki in the way he idealizes his love interest
 
 ## Catch Phrase
 - What determins something you would say a lot?
@@ -316,6 +319,8 @@ Their pattern is rush, rush, peace. Where for two chapters they have exciting ad
 ---
 
 # Perspective
+
+Believes in revenge, and restorative justice as a system for marginalized people.
 
 What are the precautions of homeschoolig kids? Is that similar to a cancer survivor?
 
