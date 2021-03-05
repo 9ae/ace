@@ -2,7 +2,7 @@
 id: 48855c8e-2bce-4f62-b06c-9795eaaea7f0
 title: Yule
 desc: ''
-updated: 1614911792224
+updated: 1614916718773
 created: 1612430302874
 ---
 # At Glance
@@ -17,43 +17,53 @@ Job: (what do they do and how did they get started)
 Chief commander in the Order
 
 ## Introduction ideas
+1. square off with Vio, this is the first time we see her losing a fight
+2. Catches Vio talking to a imaginary Erik
+3. 
 
 ## Reader catch
 As a reader, I want Yule to see open his eyes to the corrupton of the Order. I can relate to him through his morally comprosing complexity.
 
 ## Catch Phrase
-- What determins something you would say a lot?
+- What determines something you would say a lot?
 - Could be a nervous habit? When do they say it?
 - What is an feeling they would express alot? "Cool beans" means 'whatever', so that's apathy.
 
 The mountain people speak in short direct sentences (kinda like Yoda if he just said the first half of his sentences). But he changed his speech pattern after time with the Order, although he sometimes still slips back in mountain speak, when he is angry or loses patience.
 
-> 
+What is a mountain tribe idiom he still says a lot. Something to do with the animals that live there.
+What are the animals that live there? Wolves, falcons, bears.
+> A bear my stand his ground when a wolf stalks, but he too will turn in the presences of a pack.
+
+> No matter how the wind howls, the mountain will not bow to it.
 
 ---
 # Goals
 
 *How are they dissastisfied with their life?*
-
+He is deeply scared by losing his loved ones to tribal warfare.
+After years fighting for the Order and having raised through the ranks, he started to realize that they have brought more destruction than peace. He starts off this story by trying to convince himself that is not true. After all the Order has stopped the warlords of Atonia.
 
 *What do they think will bring the true happiness?*
-
+He thinks that with Galei under the Order, the rest of the world will fall under the Order because even with lower production most of the known world's weapons come from Galei. That they can fire up the old factories if any other countries does not join the Order's united nations peacefully.
 
 *What definitive step could they take to turn their dream into a reality?*
-
+Help The Order conquer Galei.
 
 *How has their fear keep them from taking action already?*
-
+N/A
 
 *How do they feel they can accomplish their goal while steering clear of the thing they are most afraid of?*
-
+The thinks that if he can really bring peace then his nagging conscience will shut up.
+This **internal conflict** is that he knows what the Order has been doing a bastardization of the faith. But he tells himself that it is necessary.
 
 ---
 # Arc
 
 Means matter on the journey towards an end
 
-Unlike Zaki who approaches things with rage, Yule is careful planning. What does Yule want? To end all tribal warfare by unification. Because of the Church's success in Atonia and Nuna, he really does believes that people across different cultures can united under one faith. He truly belief that it will be the unifying thread to allow people to have empathy for one another.
+Unlike Zaki who approaches things with rage, **Yule is careful planning.** What does Yule want? To end all tribal warfare by unification. Because of the Church's success in Atonia and Nuna, he really does believes that people across different cultures can united under one faith. He truly belief that it will be the unifying thread to allow people to have empathy for one another.
+Think about the sociology of religion, that **having a common faith means the same moral code**, and people can more easily **trust eachother**.
 
 *What do they believe in?*
 
@@ -90,9 +100,10 @@ Answer:
 ---
 # Backstory
 
-Yule tells Ace about how they threaten his family’s village and forced them to convert.
+~~Yule tells Ace about how they threaten his family’s village and forced them to convert.
 He was the chief’s son, and was kept as hostage to make sure that their clan allied with the church.
-The church took him and a few other children, who’s parents were burnt as heretics. Erik was one of them.
+The church took him and a few other children, who’s parents were burnt as heretics. Erik was one of them.~~
+
 
 Since the org and the church are initally working together, what if Ace and Yule actually don't know eachother, and this first series is when they develop a bound. The people who found Ace were Erik's tribe, they took her in and trained her how to kill properly. They were her family for a few years, until the Church raided them, and forced them to convert. Erik and Yule were brothers, Yule converted and Erik and Ace refused and they look them away to be tortured until they convert. They look Ace away to be raped by a bishop, but of course she killed him. When she returns to their cell to rescue he was gone. She couldn't find him anywhere, and she finally escaped.
 
@@ -100,16 +111,14 @@ Ace's history is one of perpetual displacement and seperation from the people sh
 
 Yule is a noble heroic character subverted. While he wants to live by a good moral code, he betrays his tribe because he believes that unity will be for the greater good. Unlike most hero-types he is not single sighted and blind, the complexity of his character lies in him being able to make compromises.
 
-
-
 His adoptive mother Benedetta, named Erik after her lost son.
 
 
 *What is the best thing that happend in their life?*
-
+Joining the order and serving a greater purpose.
 
 *What is the worst thing that happend in their life?*
-
+Betraying his tribe to join the Order.
 
 ## Learned their lie
 
@@ -121,21 +130,29 @@ His adoptive mother Benedetta, named Erik after her lost son.
 
 
 ---
-# Soundtrack
+# [Soundtrack](https://open.spotify.com/playlist/32351vKHmdFFqYqgadCRtO?si=c1dca09e9e36466e)
 
-I want:
+## I am
+> We live in hope of deliverance from the darkness that surrounds us
+[Hope of Deliverance - Paul McCarthy](https://open.spotify.com/track/3gcAVW0ZYaajy5PK9dAhut?si=c2c755da935d4a00)
+
+## I want
+>I hope the sacrifice is worth it
+Leave my heart inside another person
+Always knew that I would find my purpose
+Living in the service, of another soul 
+[Zen - Jacob Lee](https://open.spotify.com/track/48ILYLmNo3oxfXLpfnaWNy?si=46839bf10980458a)
+
+
+## Preparation
 
 
 
-Preparation:
+## Battle
 
 
 
-Battle:
-
-
-
-Reprise:
+## Reprise
 
 ---
 
