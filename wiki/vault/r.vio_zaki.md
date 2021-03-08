@@ -2,7 +2,7 @@
 id: 1fb8030f-9601-47e3-af22-1c5347c7a171
 title: Vio & Zaki
 desc: ''
-updated: 1612504361226
+updated: 1615183499290
 created: 1612430722317
 ---
 
@@ -43,3 +43,18 @@ Well she seems to have develop a crush on him. How did that happen? Since she's 
 ## How does their opinions of eachother change over time?
 
 # End
+
+---
+
+# Their Story
+
+- Vio saves him after being on opposite sides of a conflict
+- Zaki meets Sicili, and falls for her
+- Zaki keeps trying to meet Vio
+- Vio thinks he might like her, and even though she doesn't like him. It's the first time anyone has liked her so she becomes excited.
+- Zaki drops the job to kill the sisters. Make this whole condition be the only obvious way to get his revenge. The Councilman promised to tell Edgar's weakness, which is he wants to fully take over. He was hoping that with Edgar's secret exposed and since he was the only one of the councilmen who didn't initally sign on. If their secret is revealed, he is safe and can make a bid for PM since he's been doing the job all this time.
+- Zaki wants asks to talk him up with Sicili. Vio disappointed but agrees.
+- Zaki gets a date with Sicili, it falls flat. She does all these silly things, but he doesn't see any of it.
+    - Sicili leaves early claiming it's her shift to volunteer. She goes to find Yule.
+- Zaki thinks it went well. Vio smiles... later on that chapter she fugues and lashes out in tears.
+- 
