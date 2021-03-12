@@ -2,7 +2,7 @@
 id: 1fb8030f-9601-47e3-af22-1c5347c7a171
 title: Vio & Zaki
 desc: ''
-updated: 1615183499290
+updated: 1615183520365
 created: 1612430722317
 ---
 
@@ -46,15 +46,35 @@ Well she seems to have develop a crush on him. How did that happen? Since she's 
 
 ---
 
+What if Zaki killed Lessa because he thought she was the girlfriend of one of the guys on his list.
+Yihan who ended up being a detective on this case exposed him.
+
 # Their Story
 
-- Vio saves him after being on opposite sides of a conflict
-- Zaki meets Sicili, and falls for her
-- Zaki keeps trying to meet Vio
-- Vio thinks he might like her, and even though she doesn't like him. It's the first time anyone has liked her so she becomes excited.
-- Zaki drops the job to kill the sisters. Make this whole condition be the only obvious way to get his revenge. The Councilman promised to tell Edgar's weakness, which is he wants to fully take over. He was hoping that with Edgar's secret exposed and since he was the only one of the councilmen who didn't initally sign on. If their secret is revealed, he is safe and can make a bid for PM since he's been doing the job all this time.
-- Zaki wants asks to talk him up with Sicili. Vio disappointed but agrees.
-- Zaki gets a date with Sicili, it falls flat. She does all these silly things, but he doesn't see any of it.
-    - Sicili leaves early claiming it's her shift to volunteer. She goes to find Yule.
-- Zaki thinks it went well. Vio smiles... later on that chapter she fugues and lashes out in tears.
-- 
+| event | Vio feels | Zaki feels |
+| --- | --- | --- |
+| Vio saves him after being on opposite sides of a conflict | ? | grateful
+| Zaki meets Sicili, and falls for her | ? | in awe |
+| Zaki keeps trying to meet Vio to get closer to Sici | weirded out | eager |
+| Vio thinks he might like her, and even though she doesn't like him. It's the first time anyone has liked her | hopeful | ? |
+| Zaki drops the job to kill the sisters. Make this whole condition be the only obvious way to get his revenge. The Councilman promised to tell Edgar's weakness, which is he wants to fully take over. He was hoping that with Edgar's secret exposed and since he was the only one of the councilmen who didn't initally sign on. If their secret is revealed, he is safe and can make a bid for PM since he's been doing the job all this time. | ? | resolute |
+| Zaki wants asks to talk him up with Sicili. Vio disappointed but agrees. | disappointed | eager |
+| Zaki gets a date with Sicili, it falls flat. She does all these silly things, but he doesn't see any of it. | angry | happy |
+| Sicili leaves early claiming it's her shift to volunteer. She goes to find Yule. | ? | happy |
+| Zaki says it went well. Vio smiles | shattered | cheerful |
+| later on that chapter Vio fugues and lashes out in tears, Zaki sees for the first time | tormented | shocked |
+| Zaki talks to her about the fugue state | ashamed | curious |
+| Bond over their perchance for violence | connected | understood |
+| They kiss while hiding | rewarded miracle | surprised he is enjoying it |
+| Zaki ask Vio to not mention anything to Sicili about the kiss | used | nervous |
+| They find out something bad happened to Sicili | scared | angry |
+| Work together to rescue Sicili | intense | intense |
+| Zaki vows to get revenge on ? Vio and Sicili votes no | worried | venegeful. purposeful |
+| ~*~ stuff happens inbetween ~*~ |
+| Vio becomes convinced to help Zaki with his retribution | ashamed she betrayed her own values | hopeful |
+| They kill ? | horrified | proud |
+| Sicili rejects him, after finding out what he's done. | vindicated |  dissappointed, he's done it. but it didn't matter |
+| They say good bye | guilty for leaving him | fate is cruel |
+
+Vio raised and goes back to Ixan, saying to Sicili. "I don't think I can forgive him."
+
