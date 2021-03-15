@@ -2,7 +2,7 @@
 id: 48855c8e-2bce-4f62-b06c-9795eaaea7f0
 title: Yule
 desc: ''
-updated: 1614916718773
+updated: 1615785990997
 created: 1612430302874
 ---
 # At Glance
@@ -66,12 +66,28 @@ Unlike Zaki who approaches things with rage, **Yule is careful planning.** What 
 Think about the sociology of religion, that **having a common faith means the same moral code**, and people can more easily **trust eachother**.
 
 *What do they believe in?*
-
+That the Order is bringing peace to all lands united under one faith.
 
 *What do the learn in the end?*
-
+The Order is a power hungry sect of the church, who does not even live by their own morals at all. Roderick is really just in it to mass more power, and find his sister.
 
 *Journey (how they learn about it)?*
+- Faithful to Roderick
+- ch3 we go through all the messed up stuff The Order has been doing. And how many people of the church are majorly against it, but are afraid to speak up because they get most of their funding from the Order and they have been usings this money to house and feed the poor.
+- Yule is upset that Roderick will cut funding from any church who doesn't send him support in the form of soldiers.
+- Yule meets Sicili, who tells him more about he faith, when she is surprised after all these years he knows so little about Lady Lygeia.
+  - Yule: The soldiers leave as soon as the missionary arrive
+  - Sicili givees him a book, but Yule rejects because he can't read.
+  - Yule promises Sicili that next time he will act in accordance to the faith.
+- Yule disobey's Roderick's orders in order to save people in Varin
+- Yule comes back to Ixan, get's demoted by Roderick
+- Sicili and Yule tries to get Yule's position back, by doing something that is a big win for the Order.
+- Sicili gets kidnapped by the gov in their attempt
+- Yule ask Roderick for help in getting Sicili back, Roderik refused.
+- Yule realized Roderick only cares about power.
+- Yule ask Vio and co to help with Sicili
+- Yule returns to the Order only to hand in his sword and shield
+- Yule tells Vio that it's time they look for their tribe.
 
 
 ---
@@ -90,11 +106,15 @@ Answer:
 
 ## Family
 
+### Erik
+His younger brother, who's Vio's age. 
 
 ## Friends
 
 
 ## Colleagues
+
+### Roderick
 
 
 ---

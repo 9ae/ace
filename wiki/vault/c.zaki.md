@@ -2,7 +2,7 @@
 id: 78d5c392-534e-45b4-8448-be3314551201
 title: Zaki Attar
 desc: 'the butterfly collector'
-updated: 1614911858460
+updated: 1615783818201
 created: 1612430294609
 ---
 # At Glance
@@ -125,6 +125,15 @@ Story: Zaki wants to get close to Edgar to kill him and the rest of the council.
 
 
 ## Fall Arc
+
+The problem with Zaki's arc is the narrative thread doesn't peace together well.
+It's hard to see how he went from seeking revenge for his parents murder to giving it up for love.
+To then seeking revenge for his love, then being rejected by his love because he did something she told him not to, as a story of how revenge made a man fall. His fall at the end, did not came from his actions but from rejection.
+Somehow the action of killing ? has to result in tragedy from the very act itself. Ok, let's go back to the classics:
+- Orpheus lost his love because he didn't have faith
+- Othello's jealous lead him to kill his wife.
+
+Sicili wasn't into him anyway... that's the problem. We need to change it so Sicili was really entertaining the idea that he's a romantic prospect up until the point he killed for her. She decides that if he can kill someone and justify it's for her, what his he captiable of doing for her sake? She does not want to be with a partner who assumes his will is what she wants or what is best for her. She is not a prize to be won at the end of some heroism.
 
 `TODO 9-pt plot is much more exciting than Abbie's... but we may no have enough pre-planned plot points for Zaki. Can we squeeze more in or just have a few more things happen after he kill Edgar.` Does he get caught, does the step forward? How will the country handle him?
 

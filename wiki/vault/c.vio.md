@@ -2,7 +2,7 @@
 id: f486e48c-5133-4471-b663-924f9b1f2c8d
 title: Vivara Alighieri
 desc: ''
-updated: 1614911824529
+updated: 1615784462248
 created: 1612430269321
 ---
 # At Glance
@@ -94,6 +94,18 @@ She doesn't know what she will do when she finds them. What if it wasn't a targe
 
 ---
 # Arc
+
+Threads:
+- Lessa's murder investigation
+- Protecting Sicili
+
+- Stopping the Order from gaining more control over Galei
+- Being enticed into revenge as she becomes a more active person.
+
+- Dealing with her powers
+- Struggling with autism
+
+
 
 Allegory to discovering my own abilities througout highschool.
 We skipped freshmen year (when Vio came to Ixan).

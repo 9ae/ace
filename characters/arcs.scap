@@ -78,7 +78,7 @@
                 <Fill>0.990121 0.815203 0.999729</Fill>
             </Appearance>
             <String>He kills Lesbia</String>
-            <ConnectedNoteIDs>6, 25, 33</ConnectedNoteIDs>
+            <ConnectedNoteIDs>6, 25, 33, 89</ConnectedNoteIDs>
             <PointsToNoteIDs>25, 33</PointsToNoteIDs>
         </Note>
         <Note ID="8" FontSize="12.0" Position="1704.0,1537.0" Width="148.0">
@@ -313,63 +313,63 @@ Finds evidence that suggest the murder is after her family</String>
             <String>Moving from sophomore year to senior year.</String>
             <ConnectedNoteIDs>32</ConnectedNoteIDs>
         </Note>
-        <Note ID="41" FontSize="12.0" Position="1120.034058,410.677734" Width="106.0">
+        <Note ID="41" FontSize="12.0" Position="1120.0,411.0" Width="106.0">
             <Appearance>
                 <Alignment>Left</Alignment>
             </Appearance>
             <String>Act 1: Sophmore</String>
             <ConnectedNoteIDs>32, 42, 44, 48</ConnectedNoteIDs>
         </Note>
-        <Note ID="42" FontSize="12.0" Position="1862.615723,418.762024" Width="83.0">
+        <Note ID="42" FontSize="12.0" Position="1863.0,419.0" Width="83.0">
             <Appearance>
                 <Alignment>Left</Alignment>
             </Appearance>
             <String>Act 2: Junior</String>
             <ConnectedNoteIDs>41, 43, 46-47, 56</ConnectedNoteIDs>
         </Note>
-        <Note ID="43" FontSize="12.0" Position="2459.522217,411.841431" Width="85.0">
+        <Note ID="43" FontSize="12.0" Position="2460.0,412.0" Width="85.0">
             <Appearance>
                 <Alignment>Left</Alignment>
             </Appearance>
             <String>Act 3: Senior</String>
             <ConnectedNoteIDs>42, 50</ConnectedNoteIDs>
         </Note>
-        <Note ID="44" FontSize="12.0" Position="854.319885,370.958923" Width="200.0">
+        <Note ID="44" FontSize="12.0" Position="854.0,371.0" Width="200.0">
             <Appearance>
                 <Alignment>Left</Alignment>
             </Appearance>
             <String>should show potential for what she can be at the end. Started off real good in chemistry</String>
             <ConnectedNoteIDs>41</ConnectedNoteIDs>
         </Note>
-        <Note ID="45" FontSize="12.0" Position="1145.890503,245.618515" Width="88.0">
+        <Note ID="45" FontSize="12.0" Position="1146.0,246.0" Width="88.0">
             <Appearance>
                 <Alignment>Left</Alignment>
             </Appearance>
             <String>overwhelmed</String>
             <ConnectedNoteIDs>48-49</ConnectedNoteIDs>
         </Note>
-        <Note ID="46" FontSize="12.0" Position="1881.384399,245.911926" Width="45.0">
+        <Note ID="46" FontSize="12.0" Position="1881.0,246.0" Width="45.0">
             <Appearance>
                 <Alignment>Left</Alignment>
             </Appearance>
             <String>guilty</String>
             <ConnectedNoteIDs>42, 55</ConnectedNoteIDs>
         </Note>
-        <Note ID="47" FontSize="12.0" Position="1735.599121,341.013092" Width="122.0">
+        <Note ID="47" FontSize="12.0" Position="1736.0,341.0" Width="122.0">
             <Appearance>
                 <Alignment>Left</Alignment>
             </Appearance>
             <String>Training montagues</String>
             <ConnectedNoteIDs>42</ConnectedNoteIDs>
         </Note>
-        <Note ID="48" FontSize="12.0" Position="1078.49646,325.589996" Width="200.0">
+        <Note ID="48" FontSize="12.0" Position="1078.0,326.0" Width="200.0">
             <Appearance>
                 <Alignment>Left</Alignment>
             </Appearance>
             <String>call to action pushed outside comfort zone</String>
             <ConnectedNoteIDs>41, 45</ConnectedNoteIDs>
         </Note>
-        <Note ID="49" FontSize="12.0" Position="1291.167358,262.981873" Width="65.0">
+        <Note ID="49" FontSize="12.0" Position="1291.0,263.0" Width="65.0">
             <Appearance>
                 <Alignment>Left</Alignment>
             </Appearance>
@@ -383,42 +383,42 @@ Finds evidence that suggest the murder is after her family</String>
             <String>lost penultimate battle</String>
             <ConnectedNoteIDs>43, 51</ConnectedNoteIDs>
         </Note>
-        <Note ID="51" FontSize="12.0" Position="2453.791748,283.550293" Width="83.0">
+        <Note ID="51" FontSize="12.0" Position="2454.0,284.0" Width="83.0">
             <Appearance>
                 <Alignment>Left</Alignment>
             </Appearance>
             <String>darkest hour</String>
             <ConnectedNoteIDs>50, 52, 54</ConnectedNoteIDs>
         </Note>
-        <Note ID="52" FontSize="12.0" Position="2407.487549,221.74527" Width="167.0">
+        <Note ID="52" FontSize="12.0" Position="2407.0,222.0" Width="167.0">
             <Appearance>
                 <Alignment>Left</Alignment>
             </Appearance>
             <String>dusting off for the final battle</String>
             <ConnectedNoteIDs>51, 53</ConnectedNoteIDs>
         </Note>
-        <Note ID="53" FontSize="12.0" Position="2307.563721,224.277573" Width="87.0">
+        <Note ID="53" FontSize="12.0" Position="2308.0,224.0" Width="87.0">
             <Appearance>
                 <Alignment>Left</Alignment>
             </Appearance>
             <String>ap calc exam</String>
             <ConnectedNoteIDs>52, 54</ConnectedNoteIDs>
         </Note>
-        <Note ID="54" FontSize="12.0" Position="2300.225342,280.797333" Width="104.0">
+        <Note ID="54" FontSize="12.0" Position="2300.0,281.0" Width="104.0">
             <Appearance>
                 <Alignment>Left</Alignment>
             </Appearance>
             <String>feels like a fraud</String>
             <ConnectedNoteIDs>51, 53</ConnectedNoteIDs>
         </Note>
-        <Note ID="55" FontSize="12.0" Position="1718.94043,246.5728" Width="125.0">
+        <Note ID="55" FontSize="12.0" Position="1719.0,247.0" Width="125.0">
             <Appearance>
                 <Alignment>Left</Alignment>
             </Appearance>
             <String>after varin massacre</String>
             <ConnectedNoteIDs>46</ConnectedNoteIDs>
         </Note>
-        <Note ID="56" FontSize="12.0" Position="1941.514282,282.058228" Width="200.0">
+        <Note ID="56" FontSize="12.0" Position="1942.0,282.0" Width="200.0">
             <Appearance>
                 <Alignment>Left</Alignment>
             </Appearance>
@@ -439,14 +439,14 @@ Finds evidence that suggest the murder is after her family</String>
             <String>An Oz presence?</String>
             <ConnectedNoteIDs>57, 60</ConnectedNoteIDs>
         </Note>
-        <Note ID="60" FontSize="12.0" Position="1974.423096,441.468842" Width="200.0">
+        <Note ID="60" FontSize="12.0" Position="1974.0,441.0" Width="200.0">
             <Appearance>
                 <Alignment>Left</Alignment>
             </Appearance>
             <String>Becomes insecure about their relationship and breaks up with her.</String>
             <ConnectedNoteIDs>59, 61</ConnectedNoteIDs>
         </Note>
-        <Note ID="61" FontSize="12.0" Position="1973.858643,516.123596" Width="164.0">
+        <Note ID="61" FontSize="12.0" Position="1974.0,516.0" Width="164.0">
             <Appearance>
                 <Alignment>Left</Alignment>
             </Appearance>
@@ -460,7 +460,7 @@ Finds evidence that suggest the murder is after her family</String>
             <String>But how did Yihan end up not with Ada?</String>
             <ConnectedNoteIDs>61, 63</ConnectedNoteIDs>
         </Note>
-        <Note ID="63" FontSize="12.0" Position="1536.069824,581.770447" Width="200.0">
+        <Note ID="63" FontSize="12.0" Position="1536.0,582.0" Width="200.0">
             <Appearance>
                 <Alignment>Left</Alignment>
                 <TextColor>0.985948 0.0 0.026951</TextColor>
@@ -482,28 +482,28 @@ Finds evidence that suggest the murder is after her family</String>
             <String>Or someone who is non romance</String>
             <ConnectedNoteIDs>57, 69</ConnectedNoteIDs>
         </Note>
-        <Note ID="66" FontSize="12.0" Position="1903.85083,161.837601" Width="200.0">
+        <Note ID="66" FontSize="12.0" Position="1904.0,162.0" Width="200.0">
             <Appearance>
                 <Alignment>Left</Alignment>
             </Appearance>
             <String>challenged her to accomplish something she hasn’t before</String>
             <ConnectedNoteIDs>56</ConnectedNoteIDs>
         </Note>
-        <Note ID="67" FontSize="12.0" Position="2065.626221,117.830101" Width="200.0">
+        <Note ID="67" FontSize="12.0" Position="2066.0,118.0" Width="200.0">
             <Appearance>
                 <Alignment>Left</Alignment>
             </Appearance>
             <String>gave her a taste of what she had been shunning all along?</String>
             <ConnectedNoteIDs>56, 68</ConnectedNoteIDs>
         </Note>
-        <Note ID="68" FontSize="12.0" Position="2151.172119,181.52298" Width="67.0">
+        <Note ID="68" FontSize="12.0" Position="2151.0,182.0" Width="67.0">
             <Appearance>
                 <Alignment>Left</Alignment>
             </Appearance>
             <String>revenge?</String>
             <ConnectedNoteIDs>67</ConnectedNoteIDs>
         </Note>
-        <Note ID="69" FontSize="12.0" Position="2166.098389,264.107086" Width="114.0">
+        <Note ID="69" FontSize="12.0" Position="2166.0,264.0" Width="114.0">
             <Appearance>
                 <Alignment>Left</Alignment>
             </Appearance>
@@ -513,12 +513,192 @@ Finds evidence that suggest the murder is after her family</String>
                 <FormatRange Bold="Yes">0,16</FormatRange>
             </Formatting>
         </Note>
-        <Note ID="70" FontSize="12.0" Position="1206.289062,174.55455" Width="200.0">
+        <Note ID="70" FontSize="12.0" Position="1206.0,175.0" Width="200.0">
             <Appearance>
                 <Alignment>Left</Alignment>
             </Appearance>
             <String>body does things that’s surprising. didn’t know what anxiety is.</String>
             <ConnectedNoteIDs>49</ConnectedNoteIDs>
+        </Note>
+        <Note ID="71" FontSize="12.0" Position="1955.0,2279.219238" Width="159.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <TextColor>0.985948 0.0 0.026951</TextColor>
+            </Appearance>
+            <String>Pivot: Sicili gets kidnapped</String>
+            <ConnectedNoteIDs>73, 75-77</ConnectedNoteIDs>
+        </Note>
+        <Note ID="73" FontSize="12.0" Position="1717.736572,2288.719238" Width="177.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <TextColor>0.0 0.0 0.0</TextColor>
+                <Border Weight="1" Style="Cloud">0.05951 0.50193 0.998455</Border>
+                <Fill>0.999999 0.999974 0.999991</Fill>
+            </Appearance>
+            <String>Sicili helps restore his position</String>
+            <ConnectedNoteIDs>71, 74, 85</ConnectedNoteIDs>
+        </Note>
+        <Note ID="74" FontSize="12.0" Position="1428.762573,2296.686279" Width="200.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>Yule gets in trouble with Roderick for disobeying</String>
+            <ConnectedNoteIDs>73</ConnectedNoteIDs>
+        </Note>
+        <Note ID="75" FontSize="12.0" Position="1938.249146,2380.634277" Width="200.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <TextColor>0.0 0.0 0.0</TextColor>
+            </Appearance>
+            <String>When Roderick refuses to help, Yule realizes he is no Order leader but just a guy out for more power</String>
+            <ConnectedNoteIDs>71</ConnectedNoteIDs>
+        </Note>
+        <Note ID="76" FontSize="12.0" Position="2167.736572,2284.719238" Width="151.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>Vio and Zaki gets notified</String>
+            <ConnectedNoteIDs>71, 78</ConnectedNoteIDs>
+        </Note>
+        <Note ID="77" FontSize="12.0" Position="1937.0,2200.505371" Width="200.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>Why? is this related to Lessa murder?</String>
+            <ConnectedNoteIDs>71</ConnectedNoteIDs>
+        </Note>
+        <Note ID="78" FontSize="12.0" Position="2354.0,2285.0" Width="138.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>Mission to resuce Sicili</String>
+            <ConnectedNoteIDs>76, 79-81</ConnectedNoteIDs>
+        </Note>
+        <Note ID="79" FontSize="12.0" Position="2514.535889,2164.703369" Width="121.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>Zaki wants revenge</String>
+            <ConnectedNoteIDs>78, 84</ConnectedNoteIDs>
+        </Note>
+        <Note ID="80" FontSize="12.0" Position="2539.912842,2277.124268" Width="200.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>Vio seeking revenge will just endanger them more</String>
+            <ConnectedNoteIDs>78, 82</ConnectedNoteIDs>
+        </Note>
+        <Note ID="81" FontSize="12.0" Position="2497.976807,2404.164551" Width="200.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>Yule &amp; Sicili just want to forget this ever happened</String>
+            <ConnectedNoteIDs>78</ConnectedNoteIDs>
+        </Note>
+        <Note ID="82" FontSize="12.0" Position="2782.010986,2269.270752" Width="200.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <TextColor>0.0 0.0 0.0</TextColor>
+                <Border Weight="1" Style="Cloud">0.05951 0.50193 0.998455</Border>
+                <Fill>0.999999 0.999974 0.999991</Fill>
+            </Appearance>
+            <String>Something happens where not doing anything is worse than the risk of killing ?</String>
+            <ConnectedNoteIDs>80, 83</ConnectedNoteIDs>
+        </Note>
+        <Note ID="83" FontSize="12.0" Position="3004.575928,2257.824219" Width="166.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>Vio agrees to help Zaki kill ?</String>
+            <ConnectedNoteIDs>82, 84</ConnectedNoteIDs>
+        </Note>
+        <Note ID="84" FontSize="12.0" Position="3136.648193,2158.365479" Width="90.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>Mission: Kill ?</String>
+            <ConnectedNoteIDs>79, 83</ConnectedNoteIDs>
+        </Note>
+        <Note ID="85" FontSize="12.0" Position="1752.690918,2492.054199" Width="112.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <TextColor>0.0 0.0 0.0</TextColor>
+                <Border Weight="1" Style="Cloud">0.05951 0.50193 0.998455</Border>
+                <Fill>0.999999 0.999974 0.999991</Fill>
+            </Appearance>
+            <String>What’s their plan?</String>
+            <ConnectedNoteIDs>73, 86</ConnectedNoteIDs>
+        </Note>
+        <Note ID="86" FontSize="12.0" Position="1753.0,2591.099854" Width="117.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <TextColor>0.0 0.0 0.0</TextColor>
+                <Border Weight="1" Style="Cloud">0.05951 0.50193 0.998455</Border>
+                <Fill>0.999999 0.999974 0.999991</Fill>
+            </Appearance>
+            <String>What goes wrong?</String>
+            <ConnectedNoteIDs>85, 87</ConnectedNoteIDs>
+        </Note>
+        <Note ID="87" FontSize="12.0" Position="1718.682495,2686.768066" Width="183.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <TextColor>0.0 0.0 0.0</TextColor>
+                <Border Weight="1" Style="Cloud">0.05951 0.50193 0.998455</Border>
+                <Fill>0.999999 0.999974 0.999991</Fill>
+            </Appearance>
+            <String>How does Sicili get kidnapped?</String>
+            <ConnectedNoteIDs>86, 88</ConnectedNoteIDs>
+        </Note>
+        <Note ID="88" FontSize="12.0" Position="1714.587646,2788.288818" Width="189.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <TextColor>0.0 0.0 0.0</TextColor>
+                <Border Weight="1" Style="Cloud">0.05951 0.50193 0.998455</Border>
+                <Fill>0.999999 0.999974 0.999991</Fill>
+            </Appearance>
+            <String>Why does she get kidnapped? What are her kidnappers motivations? How does it tie into any MC arcs?</String>
+            <ConnectedNoteIDs>87</ConnectedNoteIDs>
+        </Note>
+        <Note ID="89" FontSize="12.0" Position="1255.323975,1879.0" Width="200.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <TextColor>0.0 0.0 0.0</TextColor>
+                <Border Weight="1" Style="Cloud">0.05951 0.50193 0.998455</Border>
+                <Fill>0.999999 0.999974 0.999991</Fill>
+            </Appearance>
+            <String>What is the purpose of Lessa’s murder?</String>
+            <ConnectedNoteIDs>7, 90, 92-94</ConnectedNoteIDs>
+        </Note>
+        <Note ID="90" FontSize="12.0" Position="1173.439819,1967.505005" Width="182.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>Give Vio a push towards action</String>
+            <ConnectedNoteIDs>89</ConnectedNoteIDs>
+        </Note>
+        <Note ID="92" FontSize="12.0" Position="1854.036255,1867.321167" Width="200.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>Challenge Vio’s beliefs at the end. Will they apply when the offender has done something so personal?</String>
+            <ConnectedNoteIDs>89</ConnectedNoteIDs>
+        </Note>
+        <Note ID="93" FontSize="12.0" Position="1533.376953,1947.816284" Width="200.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>Starts the path on Zaki’s wavering faith on revenge</String>
+            <ConnectedNoteIDs>89</ConnectedNoteIDs>
+        </Note>
+        <Note ID="94" FontSize="12.0" Position="1010.155701,1818.224609" Width="200.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <TextColor>0.0 0.0 0.0</TextColor>
+                <Border Weight="1" Style="Cloud">0.05951 0.50193 0.998455</Border>
+                <Fill>0.999999 0.999974 0.999991</Fill>
+            </Appearance>
+            <String>Are we fridging Lessa? Is there another way forward?</String>
+            <ConnectedNoteIDs>89</ConnectedNoteIDs>
         </Note>
     </Notes>
     <BackgroundShapes>
@@ -528,7 +708,7 @@ Finds evidence that suggest the murder is after her family</String>
             </Appearance>
         </Shape>
     </BackgroundShapes>
-    <AutoFit>0, 4, 7-8, 15, 17, 30, 32, 35, 37, 41-43, 45-47, 49-56, 59, 61, 64-65, 68-69</AutoFit>
+    <AutoFit>0, 4, 7-8, 15, 17, 30, 32, 35, 37, 41-43, 45-47, 49-56, 59, 61, 64-65, 68-69, 71, 73, 76, 78-79, 83-87, 90</AutoFit>
     <NoteStyles>
         <Style Name="Brainstorm" ID="D5622E4C-6A60-4D52-BC63-15D03A3E3745" AffectFontStyle="Yes" AffectAlignment="Yes" AffectTextColor="Yes" AffectNoteBody="Yes" AffectSize="No" AffectFade="No" AffectSticky="Yes">
             <FontSize>12.0</FontSize>
