@@ -2,7 +2,7 @@
 id: f486e48c-5133-4471-b663-924f9b1f2c8d
 title: Vivara Alighieri
 desc: ''
-updated: 1615784462248
+updated: 1616477560269
 created: 1612430269321
 ---
 # At Glance
@@ -323,6 +323,10 @@ Choose one to tackle each series.
   - Large crowds, public speaking (which is what makes her ascension to take leadership of the org so impressive)
   `TODO How does this play into her buddying relationship with Zaki?`
 
+Her autism lead her to have a history of rejection. Which gives her social anxiety, and resulted her sending more time in isolation.
+She longs for acceptance and connection, which is what she feels with Zaki. Because of how doesn't want to risk losing any connection, she forgives too quick even if in her heart she doesn't.
+Her relationship with Zaki is her coming to terms about how she might need to hold onto her anger for longer?
+
 
 ## Values
 **Forgiveness:** has an obsession with discipline, obsessed with learning to control instincts. She believes it will be the key to help her gain control over her fugue state. Extreme forgiveness is an act of self-control of holding back out baser instincts to hit back.
@@ -459,7 +463,7 @@ The second time it manifest was during a battle with her tribe, and she was tryi
 Vanessa Ives - believes in her own evil
 Willow - watching someone you like go after your friend
 [Seema Parihar](https://en.wikipedia.org/wiki/Seema_Parihar)
-
+Starts off like Leon Lai's character in Fallen Angels. Very few worlds, making few conscious decisions.
 
 ## Tropes
 
