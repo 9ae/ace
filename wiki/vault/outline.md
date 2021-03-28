@@ -45,6 +45,9 @@ What do we need to prep up?
 - Vio's desired to find love
 - Vio & Zaki bounding. And disagree on theme.
 - Alan meets Adolf
+- Onboarding expands lens to see more of the world, and introduces anti-theme
+- Illustrate Zaki as a morally ambiguous character
+- Vio convinces Zaki that retribution is wrong
 
 TBD:
 - Who hired Zaki to kill Lessa?
@@ -67,6 +70,9 @@ What do we need to prep up?
 - Vio falling for Zaki
 - Alan and Adolf are dating
 - Ada & Yihan are still hooking up, and she doesn't want Alan to know.
+- Focuses scope by introducing the Order as a villian.
+- The faith & Order world building
+
 
 TBD:
 - What happens that makes Zaki decide to stop his personal revenge?
