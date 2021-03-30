@@ -1,3 +1,5 @@
+[Rollercoaster explanation](https://docs.google.com/document/d/1IKUWhBwf1jQ9_Yw5Px4DDqM96F-uN7avXGbPoNkh3-g/edit#heading=h.cjjmaeu5mo4a)
+
 # Describe your set-up.
 > In one or two paragraphs, describe a few scenes that will happen at the beginning of your book to introduce your characters, setting, and main conflicts of your story. Think about showing your protagonist in their ordinary life, before everything changes. 
 
