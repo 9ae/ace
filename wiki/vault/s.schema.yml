@@ -1,0 +1,10 @@
+version: 1
+schemas:
+- id: s
+  title: Scene
+  desc: "Scene card"
+  namespace: true
+  parent: root
+  template:
+    id: template.s
+    type: note

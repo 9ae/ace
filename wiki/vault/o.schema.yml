@@ -1,0 +1,10 @@
+version: 1
+schemas:
+- id: o
+  title: Outline
+  desc: "Chapter outline"
+  namespace: true
+  parent: root
+  template:
+    id: template.o
+    type: note
