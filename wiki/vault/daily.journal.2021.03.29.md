@@ -2,7 +2,7 @@
 id: 15f60b34-cd4c-4179-99d8-42f05b6396a6
 title: '2021-03-29'
 desc: 'Ch1 TBD'
-updated: 1617071677041
+updated: 1617339324989
 created: 1617070392889
 ---
 
@@ -19,6 +19,7 @@ created: 1617070392889
   - There can be pre-existing tension between the Order & gov, where the gov thinks they are taking too much control.
   - Knows groups may try to kidnap them for ransome.
 
+*Will things be cleaner if we made them members of the org to start off?*
 
 > What does Zaki's side want?
 - Atonian ex-pat, 
