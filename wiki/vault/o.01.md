@@ -2,7 +2,7 @@
 id: ab2a268a-ad26-4871-9890-924ff68437ee
 title: 'Ch 01'
 desc: ''
-updated: 1617427312888
+updated: 1617448448784
 created: 1617073073792
 ---
 # Describe your set-up.
@@ -19,7 +19,6 @@ created: 1617073073792
 ![[s.05]]
 
 # List events in your rising action.
-> Write a list of five (or more) events that build up to the climax of your novel. These are the steps that take your protagonist farther and farther away from their ordinary life, on the journey to get what they want. Keep increasing the conflict little by little. Throw obstacles in their way! Give them some hard choices to make! Add supporting characters to help! 
 
 *How do we bring Zaki into the mix?*
 
@@ -29,15 +28,31 @@ If we want a good forgiveness story, what goes wrong? Who needs to forgive who? 
 - Alan & Yihan - already a tense relationship. And it's not obvious they need to be together.
 - Helga & Ada - they already started off on the wrong foot, so it's a huge leap of faith for them to trust in eachother.
 
+*What is the type of story I wan to tell in this chapter?*
+*What needs to happen for this to be an engaging pilot?*
+- We need to show the very relatable sides of Vio.
+- We want to see her fight again. We also want to show Helga fight.
+- Show an touching example of forgiveness being used
 
-
-![[s.]]
+![[s.1_06]]
+![[s.1_07]]
+![[s.1_08]]
+![[s.1_09]]
+![[s.1_10]]
+![[s.1_11]]
+![[s.1_12]]
+![[s.1_13]]
+  
+*What is a touching forgiveness narrative?*
+When the wronged has every reason to seek revenge or cut someone out, but choses to reach out and understand instead.
+**Motivation for forgiving, to understand** One of the Harts. Ada for Helga. At first Ada is furious, because as the older sister she feels the saftey of Alan & Yihan are her responsibility.
 
 
 # Describe your climax.
 > In one paragraph, describe what will happen in the climax of your novel. This is the "Oh my gosh, what will happen next?!" moment.
 
-![[s.]]
+
+![[s.1_14]]
 
 
 # Describe your falling action.

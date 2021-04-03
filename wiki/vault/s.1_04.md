@@ -2,7 +2,7 @@
 id: a976bf7f-e3ad-45e7-b149-1282735904e6
 title: 'Mssion debrief'
 desc: ''
-updated: 1617339714940
+updated: 1617448689911
 created: 1617339165605
 ---
 Emotion/Colors
@@ -15,6 +15,10 @@ The Harts are joining the org, and he suspects that every organization in Ixan w
 
 Jacques through some connections have managed to come join the org. How?
 - He helped arrange their escape for Chundu.
+
+*How do we show they are isolated at the org?*
+- At the cafe, Vio and Helga sit alone. Everyone at the org makes fun of them.
+Vio reassures Helga that it's okay, they are just jealous of how talented they are.
 
 ##  Why it matters
 The Harts are famed for their ability, Jacques wants them working for him.
