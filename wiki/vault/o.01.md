@@ -2,7 +2,7 @@
 id: ab2a268a-ad26-4871-9890-924ff68437ee
 title: 'Ch 01'
 desc: ''
-updated: 1617448448784
+updated: 1617450136459
 created: 1617073073792
 ---
 # Describe your set-up.
@@ -45,12 +45,8 @@ If we want a good forgiveness story, what goes wrong? Who needs to forgive who? 
   
 *What is a touching forgiveness narrative?*
 When the wronged has every reason to seek revenge or cut someone out, but choses to reach out and understand instead.
-**Motivation for forgiving, to understand** One of the Harts. Ada for Helga. At first Ada is furious, because as the older sister she feels the saftey of Alan & Yihan are her responsibility.
-
 
 # Describe your climax.
-> In one paragraph, describe what will happen in the climax of your novel. This is the "Oh my gosh, what will happen next?!" moment.
-
 
 ![[s.1_14]]
 
@@ -65,3 +61,19 @@ When the wronged has every reason to seek revenge or cut someone out, but choses
 > In one to two paragraphs, describe the scenes that happen at the very end of your novel. Try to show off how your character and their world have changed. What is normal life like for them now? 
 
 ![[s.]]
+
+
+---
+
+*What are things from Zaki's side?*
+After extracting the info he needs from the Hart's butler, he kills him.
+
+*Why do they want the Harts?*
+
+*What situations lead them to be desperate?*
+Them failing this chapter will incite the conflict in the next chapter.
+
+*What is a reason that will touch the audience?*
+- They are trying to raise money to house the homeless
+- They are trying to raise money to get the wrongfull convicted out of prison
+- They need the Hart's skills....

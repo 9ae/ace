@@ -2,7 +2,7 @@
 id: e62af0e1-87d9-4128-ad1a-ce3bd969ba5d
 title: 'Meet the Harts'
 desc: ''
-updated: 1617426383815
+updated: 1617450023518
 created: 1617339741482
 ---
 Emotion/Colors
@@ -26,14 +26,16 @@ Helga - Ada: Ada makes a sly remark about Helg'a size. She eyes Helga up and dow
 
 Helga - Yihan: Yihan gives her smirk smile, and Helga blushes. *at what point during the convo does this happen?*
 
-*What conflict arise at the end of this scene?* **raising the stakes**
-- got a death threat
-
 ##  Why it matters
 Readers see how these characters react off eachother will inform a lot about their personalities.
 
 # Effect (consequence) 
+*What conflict arise at the end of this scene?* **raising the stakes**
+- got a death threat
+- their butler was suppose to meet them last night, but he never showed.
 
 ## The realization
+People have already set their sights to make a move on the Harts.
 
 ## and so?
+They must investigate which group are after them.
