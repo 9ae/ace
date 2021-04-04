@@ -2,7 +2,7 @@
 id: c16002bc-b408-4092-97c8-328bcf5a3458
 title: 'Vio greets Sicili'
 desc: ''
-updated: 1617339449383
+updated: 1617559721594
 created: 1617330832244
 ---
 Emotion/Colors
@@ -21,6 +21,8 @@ V: Poisons are for ladies...
 Clarifies what Vio did.
 Shows Sicili is Vio's closest connection.
 We know the sisters wry of being found out
+
+**Establishes Vio as the primary bread winner of the family.** This is why it was such a huge deal for Ada to not get Vio in trouble with Jacques.
 
 # Effect (consequence)
 Vio will be responsible to watching over the Harts

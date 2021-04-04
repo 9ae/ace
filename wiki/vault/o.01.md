@@ -2,7 +2,7 @@
 id: ab2a268a-ad26-4871-9890-924ff68437ee
 title: 'Ch 01'
 desc: ''
-updated: 1617450136459
+updated: 1617558870090
 created: 1617073073792
 ---
 # Describe your set-up.
@@ -15,8 +15,8 @@ created: 1617073073792
 # Describe your inciting incident.
 > In one paragraph, describe the event that causes your protagonist to begin their adventure. Think: "The moment everything changed was when..."
 
-![[s.04]]
-![[s.05]]
+![[s.1_04]]
+![[s.1_05]]
 
 # List events in your rising action.
 

@@ -1,13 +1,13 @@
 Emotion/Colors
 >
 
-# CAUSE (what happens)
+# What happens
 
 
 ##  Why it matters
 
 
-# Effect (consequence) 
+# Consequence
 
 ## The realization
 
