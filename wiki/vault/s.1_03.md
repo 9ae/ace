@@ -2,11 +2,13 @@
 id: 64df6f5d-a3cf-48d6-a5f1-d74d7f9510bf
 title: 'Zaki poisons the Harts butler'
 desc: ''
-updated: 1617450368955
+updated: 1617586172318
 created: 1617332084243
 ---
 Emotion/Colors
 > green, suspenseful
+
+This scene should contrast with Vio's teaser scene.
 
 # CAUSE (what happens)
 Someone dies in a room full of butterflies. While they are dying Zaki explains "The venom of a _ butterfly shows down your _. Suffocating _. It will be over soon. It's a quick but not necessarily painless death."
