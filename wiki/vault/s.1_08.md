@@ -2,7 +2,7 @@
 id: 797d869e-daf3-47cc-ad8c-fb3760f4c599
 title: 'Vio tails Zaki'
 desc: ''
-updated: 1617589927319
+updated: 1617595096925
 created: 1617448134826
 ---
 Emotion/Colors
@@ -14,6 +14,8 @@ Vio and Helga camps outside the science garden to find Zaki dropping off somethi
 Helga stay behind to talk to the museums receptionist, because Vio is not good talking to strangers.
 
 She follows [Zaki through the city](https://github.com/9ae/ace/blob/master/chapters/01.md#tails-zaki) ending up in an art suppy store.
+
+While in the park, we see her hide in a bush with the label of Ceilian lilac, "rare flower".
 
 ##  Why it matters
 Vio is excited they got a lead so soon, and happy to find it worked out.
