@@ -2,7 +2,7 @@
 id: d7ce143f-e1f8-4441-91fb-93c07ee8533e
 title: 'They move the Harts'
 desc: ''
-updated: 1617682150042
+updated: 1617686365502
 created: 1617448212609
 ---
 Emotion/Colors
@@ -45,6 +45,7 @@ Ada: Thank you, for saving me there.
 Alan: Are we ever going to tell Yihan about his brother?
 Ada: How do I... when I don't even know how it happened. `pauses`
 Alan: You didn't mean to let things get out of control. Just like our agent didn't mean to. You can tell, she's not rather awkward with people.
-Ada: We'll then she should be doing something else.
-Alan: What else can she do, a girl like her. Who can barely speak. Helga said she's one hell of a fighter.
-
+Ada: I thought that disorder only happend to boys. Like ...
+Alan: Christopher? It's ok you can say his name. He's very much alive you know?
+Ada: I'm sorry you two were close, and if I hadn't made us leave.
+Alan: It wouldn't have mattered. He doesn't want me like that.
