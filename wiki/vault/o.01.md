@@ -2,7 +2,7 @@
 id: ab2a268a-ad26-4871-9890-924ff68437ee
 title: 'Ch 01'
 desc: ''
-updated: 1617558870090
+updated: 1617683931184
 created: 1617073073792
 ---
 # Describe your set-up.
@@ -34,13 +34,17 @@ If we want a good forgiveness story, what goes wrong? Who needs to forgive who? 
 - We want to see her fight again. We also want to show Helga fight.
 - Show an touching example of forgiveness being used
 
+- [] What is Zaki's plan to:
+1. Lure information about the Harts out of Vio
+2. Make her think the danger is X
+3. But set up to push the Harts towards Y, where he'll be waiting.
+
 ![[s.1_06]]
 ![[s.1_07]]
 ![[s.1_08]]
 ![[s.1_09]]
 ![[s.1_10]]
 ![[s.1_11]]
-![[s.1_12]]
 ![[s.1_13]]
   
 *What is a touching forgiveness narrative?*
@@ -55,6 +59,8 @@ When the wronged has every reason to seek revenge or cut someone out, but choses
 > In one to two paragraphs, describe a few scenes that happen after the climax. Does your protagonist get what they want? Does the antagonist get defeated? How?
 
 ![[s.]]
+![[s.1_15]]
+![[s.1_12]]
 
 
 # Describe your resolution.
