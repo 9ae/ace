@@ -2,7 +2,7 @@
 id: ab2a268a-ad26-4871-9890-924ff68437ee
 title: 'Ch 01'
 desc: ''
-updated: 1617683931184
+updated: 1617769985789
 created: 1617073073792
 ---
 # Describe your set-up.
@@ -38,6 +38,9 @@ If we want a good forgiveness story, what goes wrong? Who needs to forgive who? 
 1. Lure information about the Harts out of Vio
 2. Make her think the danger is X
 3. But set up to push the Harts towards Y, where he'll be waiting.
+4. How did Zaki get them ensnared?
+   1. they go back to the Lennon's hotel room, where Zaki is waiting.
+
 
 ![[s.1_06]]
 ![[s.1_07]]
@@ -53,6 +56,10 @@ When the wronged has every reason to seek revenge or cut someone out, but choses
 # Describe your climax.
 
 ![[s.1_14]]
+
+How does Vio safe them? What challenges does she overcome to do so?
+What does Zaki do to convince Vio to go back and save him?
+How did the bomb/fire get started? **Ada**
 
 
 # Describe your falling action.

@@ -2,7 +2,7 @@
 id: 78d5c392-534e-45b4-8448-be3314551201
 title: Zaki Attar
 desc: 'the butterfly collector'
-updated: 1615783818201
+updated: 1617724627016
 created: 1612430294609
 ---
 # At Glance
@@ -36,6 +36,8 @@ As a reader, I relate to Zaki in the way he idealizes his love interest
 
 ---
 # Theme
+
+**What is his tragic flaw?**
 
 ## Revenge
 

@@ -2,7 +2,7 @@
 id: d7ce143f-e1f8-4441-91fb-93c07ee8533e
 title: 'They move the Harts'
 desc: ''
-updated: 1617686365502
+updated: 1617765160931
 created: 1617448212609
 ---
 Emotion/Colors
@@ -39,6 +39,8 @@ Vio realizes this may cause her job
 Ada realizes she too have endangered her family.
 
 ## and so?
+
+**show them be tender with eachother**
 
 At Helga's balcony.
 Ada: Thank you, for saving me there.
