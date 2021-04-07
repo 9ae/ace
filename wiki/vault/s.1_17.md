@@ -6,21 +6,24 @@ updated: 1617771396787
 created: 1617770755857
 ---
 Emotion/Colors
->
+> 
 
 # What happens
+Vio enters ready to kill Zaki. "So delicious, when you are a free target. No one will be looking for you since you are presumed dead." He surprisingly is very good at dodging her blows.
 
 Vio tells Zaki what it means to be an older sister. Ada reflects on how they relate.
 
 Helga wakes up and breaks free, while Vio and Zaki are at it. She frees her charges.
 
 ##  Why it matters
-
+Vio is proud she found the right place, and is determined to rescue her charges and coworkers and make up for her mistake. She enters the scene angry with Zaki.
+Zaki is excited because this is his initiation task into the citizens group.
 
 # Consequence
 Zaki says/does something that make Vio forgive him
 
 ## The realization
+Vio realizes that Zaki is just doing his job, and maybe he doesn't deserve to die.
 
 ## and so?
 Ada causes a fire and it gives them a chance to escape

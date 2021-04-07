@@ -62,6 +62,7 @@ Maybe they just get placed in tigher security. And during Helga's watchm she rea
 ![[s.1_09]]
 ![[s.1_10]]
 ![[s.1_11]]
+![[s.1_12]]
 ![[s.1_13]]
   
 *What is a touching forgiveness narrative?*
@@ -71,19 +72,19 @@ When the wronged has every reason to seek revenge or cut someone out, but choses
 
 ![[s.1_14]]
 ![[s.1_16]]
+(Cuts back to the hostage situation and something bad is about to happen. Vio enters)
 ![[s.1_17]]
 ![[s.1_18]]
+
 How does Vio safe them? What challenges does she overcome to do so?
 She has to talk to strangers.
 
 What does Zaki do to convince Vio to go back and save him?
 How did the bomb/fire get started? **Ada**
 
-![[s.1_15]]
-![[s.1_12]]
-
 # Falling action
 
+![[s.1_15]]
 ![[s.1_19]]
 ![[s.1_20]]
 

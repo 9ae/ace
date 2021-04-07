@@ -9,13 +9,21 @@ Emotion/Colors
 > Scarlet, intense, carthadic
 
 # What happens
-
+They use the fire Ada set as distraction for Zaki while they make the change to escape.
+Helga helps an injured Alan
+Ada and Yihan follow Vio as she guides them out
 
 ##  Why it matters
-
+Ada is shocked
+Zaki is knocked out
+Vio is rushed
+Helga is determined
 
 # Consequence
+They all make it out of the burning house
 
 ## The realization
+Ada realizes that Vio is struggling to help them
 
 ## and so?
+Ada decides to apologize to Vio
