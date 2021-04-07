@@ -2,7 +2,7 @@
 id: ab2a268a-ad26-4871-9890-924ff68437ee
 title: 'Ch 01'
 desc: ''
-updated: 1617769985789
+updated: 1617771548780
 created: 1617073073792
 ---
 # Describe your set-up.
@@ -56,24 +56,22 @@ When the wronged has every reason to seek revenge or cut someone out, but choses
 # Describe your climax.
 
 ![[s.1_14]]
-
+![[s.1_16]]
+![[s.1_17]]
+![[s.1_18]]
 How does Vio safe them? What challenges does she overcome to do so?
+She has to talk to strangers.
+
 What does Zaki do to convince Vio to go back and save him?
 How did the bomb/fire get started? **Ada**
 
-
-# Describe your falling action.
-> In one to two paragraphs, describe a few scenes that happen after the climax. Does your protagonist get what they want? Does the antagonist get defeated? How?
-
-![[s.]]
 ![[s.1_15]]
 ![[s.1_12]]
 
+# Falling action
 
-# Describe your resolution.
-> In one to two paragraphs, describe the scenes that happen at the very end of your novel. Try to show off how your character and their world have changed. What is normal life like for them now? 
-
-![[s.]]
+![[s.1_19]]
+![[s.1_20]]
 
 
 ---
