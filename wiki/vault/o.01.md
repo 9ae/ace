@@ -41,6 +41,20 @@ If we want a good forgiveness story, what goes wrong? Who needs to forgive who? 
 4. How did Zaki get them ensnared?
    1. they go back to the Lennon's hotel room, where Zaki is waiting.
 
+```
+Z: Really? The fortress, I heard they are in the pockets of x.
+V: Oh no.
+Z: Try _, much more secure
+V: Oh why thank you.
+```
+Can be about the place or a type of lock.
+
+*What is the point of this?*
+To show how easily Vio is deceived. Maybe instead of her Zaki using her twice. She first takes his advice. But **Ada will still need to get mad at her** and threaten to tell.
+Then **it is when she goes over her convo with Erik does she realize the Harts may be in danger**
+
+*What is it that will make Ada particularily upset?*
+Maybe they just get placed in tigher security. And during Helga's watchm she realized she had exposed them more to Zaki.
 
 ![[s.1_06]]
 ![[s.1_07]]
