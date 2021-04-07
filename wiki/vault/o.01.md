@@ -84,6 +84,7 @@ When the wronged has every reason to seek revenge or cut someone out, but choses
 
 ![[s.1_14]]
 ![[s.1_16]]
+[[s.1_22]]
 (Cuts back to the hostage situation and something bad is about to happen. Vio enters)
 ![[s.1_17]]
 ![[s.1_18]]
