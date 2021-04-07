@@ -49,6 +49,14 @@ V: Oh why thank you.
 ```
 Can be about the place or a type of lock.
 
+*What does Vio do that will expose her charges to danger?*
+- Tell Zaki their whereabouts
+- They get attacked, and she protects Ada instead of Alan. And he gets hurt.
+  - How is that reflected as a character flaw?
+    - ~~She assumes Ada will be in more danger because she is a girl~~
+    - She miscalculates other intentions
+    - 
+
 *What is the point of this?*
 To show how easily Vio is deceived. Maybe instead of her Zaki using her twice. She first takes his advice. But **Ada will still need to get mad at her** and threaten to tell.
 Then **it is when she goes over her convo with Erik does she realize the Harts may be in danger**
@@ -60,8 +68,12 @@ Maybe they just get placed in tigher security. And during Helga's watchm she rea
 ![[s.1_07]]
 ![[s.1_08]]
 ![[s.1_09]]
+
+- [ ] Rewrite this sequence
 ![[s.1_10]]
+![[s.1_21]]
 ![[s.1_11]]
+
 ![[s.1_12]]
 ![[s.1_13]]
   

@@ -1,6 +1,6 @@
 ---
 id: c176ae58-2ec9-4fd9-a6f2-4648c177f3bc
-title: 'Vio realizes and comes forwards, Ada lashes out'
+title: 'Vio gives Alan the finger prints'
 desc: ''
 updated: 1617683746355
 created: 1617448191487
@@ -9,6 +9,8 @@ Emotion/Colors
 > blue/purple & white yellow
 
 # CAUSE (what happens)
+- [ ] Replace Helga with Alan
+
 Vio recounts to Helga how she got his finger print. And she realizes that she gave important information from the Harts.
 
 `Vio lifts tape from a finger print on the clay and gives it to Helga.`
@@ -38,4 +40,6 @@ Vio feels guilty and pathetic for falling for Zaki's lead. She spirals in self l
 Helga re-assures her that is why they work together, and it's good they caught this in time. There's no time to wallow in pity.
 
 ## and so?
+- [ ] Their attacker comes.
+
 They rush to get the Harts out of their current flat.
