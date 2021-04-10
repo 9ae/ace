@@ -2,7 +2,7 @@
 id: 0edfe69e-087c-4651-a422-50098b0fdb91
 title: 'Ch 02'
 desc: ''
-updated: 1618075141871
+updated: 1618075436119
 created: 1617830510853
 ---
 [Summary](https://github.com/9ae/ace/issues/268)
@@ -48,7 +48,7 @@ Vio believes in forgiveness because she is afraid to lose any connection. She al
 > (start with lack) Show your main character (MC) and their normal life, including friends, family, job/school. What flaws do they have? What’s missing from their life? What do they want more than anything in the world? 
 
 ![[s.2_00]]
-(do we do a flashback? How will it provide context?)
+![[s.2_20]]
 ![[s.2_01]]
 ![[s.2_04]]
  
