@@ -1,8 +1,8 @@
 ---
 id: ff7fc2e7-7b81-475c-8a45-36217821adce
-title: 'Zaki's mentor gets shot'
+title: 'Zaki mentor gets shot'
 desc: ''
-updated: 1618073071599
+updated: 1618075224841
 created: 1618073026379
 ---
 Emotion/Colors
