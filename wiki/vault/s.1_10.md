@@ -2,44 +2,41 @@
 id: c176ae58-2ec9-4fd9-a6f2-4648c177f3bc
 title: 'Vio gives Alan the finger prints'
 desc: ''
-updated: 1617683746355
+updated: 1618018452374
 created: 1617448191487
 ---
 Emotion/Colors
 > blue/purple & white yellow
 
 # CAUSE (what happens)
+Vio gives the print to Alan. Ada & Yihan is also there.
+
 - [ ] Replace Helga with Alan
 
-Vio recounts to Helga how she got his finger print. And she realizes that she gave important information from the Harts.
+Vio recounts to Alan how she got Zaki's finger print.
 
-`Vio lifts tape from a finger print on the clay and gives it to Helga.`
-V: And then he asked if I get to meet interesting people at my job.
-H: `typing into a machine`
-V: I didn't tell him what we really do of course. But sometimes we get to meet interesting people visiting.
-H: I think we have a match... `narrows her eyebrows`
-~~V: And then he recommended a few places, for people coming into town to check out. I've lived here with Sicili for nearly a year, but I barely go anywhere outside of work and training. But he's been here all this life? Can you believe it? Ixan is such a transplant city, you rarely meet people who has been here all their lives.~~
-H: `looks up worried` Did you tell him where the Harts live?
-V: `silence with her mouth slightly opened` Oh. No
-H: I think he was trying to talk you up to collect information. 
-V: He... was just so nice. I forgot...
-H: He likely is a murderer...`turns the screen to show Vio Zaki's file`
+`Vio lifts tape from a finger print on the clay and gives it to Alan.`
+V: Tada!
+A: Wow thanks. And you are sure it's him? 
+V: Unless wearing glasses in the nighttime is a new trend. Then again, I'm vastly unaware of trends.
+Ada: It's not. I think he's our guy.
+A: `typing into a machine` I think we have a match...
+According to records, he's dead...`turns the screen to show Vio Zaki's file`
 (Assumed dead; wanted for potential murder of his parents.)
 
-##  Why it matters
-Vio is proud and excited going into this scene. She had an okay time talking to a stranger, and even got his finger print. He made talking so easy. Something about that interaction made her heart beat quicken, but wasn't exactly sure why.
+Then someone attacks them.
 
-Helga is happy Vio got the finger prints, but immediately becomes worried once she looks up Zaki's file and Vio is talking about their conversation.
+##  Why it matters
+Vio is proud and excited going into this scene. She had an okay time talking to a stranger, and even got his finger print. Something about that interaction made her heart beat quicken, but wasn't exactly sure why.
 
 # Effect (consequence)
-They realize the Harts are endanger.
+They find Zaki is supposed dead, or has forged his own death. They become more suspicious of who he is now.
 
 ## The realization
-Vio feels guilty and pathetic for falling for Zaki's lead. She spirals in self loathing... thinking this always happens. She can't do anything right. Her inability to detect people's intentions put other people at risk.
-
-Helga re-assures her that is why they work together, and it's good they caught this in time. There's no time to wallow in pity.
+The mystery of who killed Lennon and why has explained. They have many more questions:
+1. Who is this suspect that is supposed to be a dead man?
+2. What did he want with their butler?
 
 ## and so?
-- [ ] Their attacker comes.
 
-They rush to get the Harts out of their current flat.
+Then someone attacks them.

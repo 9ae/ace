@@ -2,7 +2,7 @@
 id: d7ce143f-e1f8-4441-91fb-93c07ee8533e
 title: 'Ada lashes out at Vio'
 desc: ''
-updated: 1617765160931
+updated: 1618018703087
 created: 1617448212609
 ---
 Emotion/Colors
@@ -10,14 +10,15 @@ Emotion/Colors
 > Red - anger
 
 # CAUSE (what happens)
-Helga and Vio goes to the Harts in the middle of the night, and insight they must move. They can stay with Helga for the night while alternative living arrangements are made for them.
+Ada threatens to get Vio removed from this mission.
+
 
 ##  Why it matters
 Vio feels guilty and responsible. Her social deficiencies has endangered them once again.
 
 Ada is furious! She can't believe how stupid Vio has been to put them in danger. 
-Alan is upset because he started setting up his monster truck studio.
-Yihan is the only one who seems chill about. He saids it's an honest mistake.
+
+Alan even though injured seems seems chill. He saids it's an honest mistake.
 
 # Effect (consequence) 
 

@@ -2,7 +2,7 @@
 id: ab2a268a-ad26-4871-9890-924ff68437ee
 title: 'Ch 01'
 desc: ''
-updated: 1617771548780
+updated: 1618018714472
 created: 1617073073792
 ---
 # Describe your set-up.
@@ -69,7 +69,6 @@ Maybe they just get placed in tigher security. And during Helga's watchm she rea
 ![[s.1_08]]
 ![[s.1_09]]
 
-- [ ] Rewrite this sequence
 ![[s.1_10]]
 ![[s.1_21]]
 ![[s.1_11]]
