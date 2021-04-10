@@ -2,7 +2,7 @@
 id: 0edfe69e-087c-4651-a422-50098b0fdb91
 title: 'Ch 02'
 desc: ''
-updated: 1618075436119
+updated: 1618076905459
 created: 1617830510853
 ---
 [Summary](https://github.com/9ae/ace/issues/268)
@@ -39,10 +39,12 @@ What are convincing revenge stories, where the audience is on the side of the av
   - revenge against a whole order is more justifyable than individuals
 
 *What are the active characters in this chapter?*
-Zaki tries to do right by the org. They are actually responsible for the bombing so they tell him to lay low and not par-take in the execution protest. In which he was planning to rescue his mentor. Zaki's internal conflict is should he let his mentor die for a greater purpose? He ends up choosing to save his mentor. But fail.
+Zaki tries to do right by the org. They are actually responsible for the bombing so they tell him to lay low and not par-take in the execution protest. In which he was planning to rescue his Halim. Zaki's internal conflict is should he let his Halim die for a greater purpose? He ends up choosing to save his Halim. But fail.
 
 Sicili believes in forgiveness for religious purposes.
 Vio believes in forgiveness because she is afraid to lose any connection. She always believes it is what separate them from beast, to hold restraint and not act on instinct. She believes it all a larger part of *discipline*.
+
+**Only Vio is illegal, Sicili is a registered resident**
 
 # Ordinary World
 > (start with lack) Show your main character (MC) and their normal life, including friends, family, job/school. What flaws do they have? What’s missing from their life? What do they want more than anything in the world? 
@@ -55,8 +57,8 @@ Vio believes in forgiveness because she is afraid to lose any connection. She al
 # Inciting Incident 
 > Boom! Something big changes. Maybe a stranger moves to town, or a family member dies, or there’s an earthquake. Whatever it is, it kicks your story into action. What happens? How does your MC react? Do they accept this call to adventure right away, or try to ignore/deny what’s happening so everything can just go back to normal?
 
-![[s.2_02]]
 ![[s.2_03]]
+![[s.2_02]]
 
 # First Plot Point
 > (point of no return) – Your MC may have tried to avoid the call, but now things are getting weirder/more intense, and they’re forced to make a choice to join the action. Everything changes - there’s no going back now! How does the situation escalate? What forces your MC to choose? How do they feel about it all?
