@@ -2,7 +2,7 @@
 id: 0edfe69e-087c-4651-a422-50098b0fdb91
 title: 'Ch 02'
 desc: ''
-updated: 1618160188296
+updated: 1618161621863
 created: 1617830510853
 ---
 [Summary](https://github.com/9ae/ace/issues/268)
@@ -46,6 +46,8 @@ Vio believes in forgiveness because she is afraid to lose any connection. She al
 
 **Only Vio is illegal, Sicili is a registered resident**
 
+- [ ] Weave the Order's presence into this chapter, so next chapter won't be as jarring.
+
 # Ordinary World
 
 ![[s.2_00]]
@@ -87,8 +89,12 @@ Vio believes in forgiveness because she is afraid to lose any connection. She al
 ![[s.2_09]]
 
 # Final Battle
-> (triumph-knowledge) – With their new knowledge, and maybe a pep talk from a close friend, your MC goes to battle with their biggest, baddest enemy (whatever that means in your story). Make it dramatic! There’s a back and forth, things seem dark, your MC is going to lose, oh no! And then, victory. What will that final conflict be? What will be the most exciting, tense, drama-filled part of your story? 
 
 ![[s.2_12]]
 ![[s.2_10]]
 ![[s.2_18]]
+
+
+
+
+
