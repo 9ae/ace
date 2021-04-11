@@ -2,7 +2,7 @@
 id: 0edfe69e-087c-4651-a422-50098b0fdb91
 title: 'Ch 02'
 desc: ''
-updated: 1618127699741
+updated: 1618160188296
 created: 1617830510853
 ---
 [Summary](https://github.com/9ae/ace/issues/268)
@@ -82,7 +82,6 @@ Vio believes in forgiveness because she is afraid to lose any connection. She al
 ![[s.2_17]]
 
 # Second Plot Point
-> (dark night of the soul) – At this point, everything the MC feared could happen, has happened. They’ve lost the battle (usually because of their flaw or lack of knowledge) and there have been serious consequences. They feel terrible and give up all hope… until something forces them to change their mind, to have a revelation about themselves and their battle. With this new knowledge, they rise up from the ashes. What terrible things have happened? What does your MC do? What revelation do they have, and what new plans do they make? 
 
 ![[s.2_08]]
 ![[s.2_09]]
