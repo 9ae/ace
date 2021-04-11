@@ -2,11 +2,11 @@
 id: 5227c196-fec3-47d5-bca0-d64a6eeef741
 title: 'Alan passes by Adolf playing the violin on his way home'
 desc: ''
-updated: 1618073589358
+updated: 1618125618805
 created: 1618073391194
 ---
 Emotion/Colors
->
+> sky blue. intriguing. infactuation. lust. hope
 
 # What happens
 He drops a money with hsi address on it in Adolf's violin case
