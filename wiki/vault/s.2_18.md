@@ -2,7 +2,7 @@
 id: c575243b-dd4a-4ad0-86e8-d7305e4d2e29
 title: 'Yule shows up'
 desc: ''
-updated: 1618162208700
+updated: 1618203268174
 created: 1618074844287
 ---
 Emotion/Colors
@@ -17,7 +17,7 @@ He announces they are in The Order's property and must go. She returns back to n
 Reader see another case of that they saw in the flashback in the very last scene. They realize it's not a one off thing. And ties into what the darkness Halim saw in her was about.
 
 # Consequence
-She turns to face him. "Yule..."
+She turns to face him. "Jyri..."
 
 ## The realization
 Vio realizes someone who has betrayed her and his own family that she held a grudge for is suddenly in front of her.

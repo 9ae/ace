@@ -1,8 +1,8 @@
 ---
 id: 0edfe69e-087c-4651-a422-50098b0fdb91
 title: 'Ch 02'
-desc: ''
-updated: 1618161621863
+desc: 'punatice justice'
+updated: 1618209443420
 created: 1617830510853
 ---
 [Summary](https://github.com/9ae/ace/issues/268)
@@ -47,6 +47,8 @@ Vio believes in forgiveness because she is afraid to lose any connection. She al
 **Only Vio is illegal, Sicili is a registered resident**
 
 - [ ] Weave the Order's presence into this chapter, so next chapter won't be as jarring.
+- [ ] Why is Erik not in this at all?
+- [ ] teaser scene with Zaki feels weird to be reflecting on a girl since his mentor just died
 
 # Ordinary World
 
