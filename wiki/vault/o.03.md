@@ -2,7 +2,7 @@
 id: d684d675-4b69-4b05-b3bc-241d0168abce
 title: 'Chapter 3'
 desc: 'revenge. wc template 80'
-updated: 1618209267692
+updated: 1618297310105
 created: 1618194861906
 ---
 Summary
@@ -30,6 +30,8 @@ Does he blame Vio?
   - Vio is outraged, b/c she hates the Order
 - Zaki and Sicili sneak out of the riot
   - They have a moment
+- How Zaki avenge?
+  - How do they meet up?
 
 **What is the major conflict?**
 Both prev ch have been reactive. We need to make a more active plot.
@@ -38,10 +40,6 @@ A: Zaki wants revenge, Vio tries to deter him.
 B: Vio tries to convince people the Order is bad news
 C: Zaki <3 Sicili / Vio <3 Zaki / Alan <3 Adolf
 
-- How Zaki avenge?
-  - How do they meet up?
-
-For plot A, what is the II? What transforms Zaki grief into action?
 
 ---
 
@@ -52,11 +50,13 @@ For plot A, what is the II? What transforms Zaki grief into action?
 ![[s.3_02]]
 ![[s.3_03]]
 ![[s.3_04]]
+![[s.3_05]]
+![[s.3_06]]
  
 # Inciting Incident (change)
-![[s.3_05]]
 
-![[s.]]
+![[s.3_07]]
+![[s.3_08]]
 
 # First Plot Point (point of no return) 
 

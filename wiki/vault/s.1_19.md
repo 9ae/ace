@@ -2,7 +2,7 @@
 id: 7977211e-b16a-4e8e-a097-ee98736ec11c
 title: 'Vio goes back to save Zaki'
 desc: ''
-updated: 1617771515989
+updated: 1618287538435
 created: 1617771507836
 ---
 Emotion/Colors
@@ -11,6 +11,9 @@ Emotion/Colors
 # What happens
 Zaki wakes up and find the entire place in flames, he tries to escape gets dizzy. In a smokey haze Vio comes through the flames.
 Use [org scene](https://github.com/9ae/ace/blob/master/chapters/01.md#vio-saves-zaki) in Zaki's POv.
+
+Z: What?
+V: I only kill necessary. You shouldn't have to die, not here, not now.
 
 ##  Why it matters
 Vio is confused, not fully sure why she feels compelled to do this. But also determined.

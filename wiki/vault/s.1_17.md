@@ -2,14 +2,14 @@
 id: badd8006-d488-4512-94fc-2fd8444c1ee1
 title: 'Vio face off with Zaki'
 desc: ''
-updated: 1617771396787
+updated: 1618298682591
 created: 1617770755857
 ---
 Emotion/Colors
-> 
+> green & red. Green background, red for blood and highlight points. (what do you wwant to draw the audience's attention to)?
 
 # What happens
-Vio enters ready to kill Zaki. "So delicious, when you are a free target. No one will be looking for you since you are presumed dead." He surprisingly is very good at dodging her blows.
+Vio enters ready to kill Zaki. "So delicious, when you are a free target. No one will be looking for you since you are presumed dead." He surprisingly is very good at dodging her blows. Their fight scenes where Vio is charging. Zaki dodges and manipulates his environment to use as his offense. Zaki may not be the strongest fighter, but he is cunning and learned a thing or two surviving on the streets. This way it will make their fight more believable given we know Vio can easily face off a group of men who do know how to fight.
 
 Vio tells Zaki what it means to be an older sister. Ada reflects on how they relate.
 

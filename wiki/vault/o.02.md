@@ -2,7 +2,7 @@
 id: 0edfe69e-087c-4651-a422-50098b0fdb91
 title: 'Ch 02'
 desc: 'punatice justice'
-updated: 1618209443420
+updated: 1618290049479
 created: 1617830510853
 ---
 [Summary](https://github.com/9ae/ace/issues/268)
@@ -48,7 +48,9 @@ Vio believes in forgiveness because she is afraid to lose any connection. She al
 
 - [ ] Weave the Order's presence into this chapter, so next chapter won't be as jarring.
 - [ ] Why is Erik not in this at all?
-- [ ] teaser scene with Zaki feels weird to be reflecting on a girl since his mentor just died
+- [ ] teaser scene with Zaki feels weird to be reflecting on a girl since his mentor just died.
+  - What if we move the supposed teaser seen to be the night after he meet Sicili, but before the execution.
+    - We'll have to find a chance to give him a cut on the cheek before the execution.
 
 # Ordinary World
 
