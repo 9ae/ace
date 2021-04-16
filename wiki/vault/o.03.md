@@ -2,12 +2,14 @@
 id: d684d675-4b69-4b05-b3bc-241d0168abce
 title: 'Chapter 3'
 desc: 'revenge. wc template 80'
-updated: 1618297310105
+updated: 1618545150011
 created: 1618194861906
 ---
 Summary
 
-# Plot A: Vio & Yule working our their differences
+# Plot A: Zaki seeks revenge
+
+Vio & Yule working our their differences
 Now that we undersand what the world is like. How does the Order coming in change our view?
 We can initially present them as a savior, and Vio is one trying to convince people they aren'ts as good they seem.
 **theme: Not being believed**
@@ -46,9 +48,11 @@ C: Zaki <3 Sicili / Vio <3 Zaki / Alan <3 Adolf
 # Ordinary World (start with lack)
 
 ![[s.3_00]]
-![[s.3_01]]
 ![[s.3_02]]
+
+![[s.3_01]]
 ![[s.3_03]]
+
 ![[s.3_04]]
 ![[s.3_05]]
 ![[s.3_06]]
@@ -57,6 +61,7 @@ C: Zaki <3 Sicili / Vio <3 Zaki / Alan <3 Adolf
 
 ![[s.3_07]]
 ![[s.3_08]]
+![[s.3_09]]
 
 # First Plot Point (point of no return) 
 

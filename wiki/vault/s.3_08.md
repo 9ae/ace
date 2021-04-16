@@ -2,11 +2,11 @@
 id: dbb4804c-4121-4f4a-83e3-3bf6109ae3c3
 title: 'Zaki visits'
 desc: ''
-updated: 1618299015382
+updated: 1618330671640
 created: 1618297310049
 ---
 Emotion/Colors
->
+> black, white, and grey. Intense argument between the two.
 
 # What happens
 Vio tells Zaki what happened. She feels profusely guilty for it.
@@ -30,13 +30,18 @@ Vio realizes it. And pushs back.
 V:  I agreed to help you save someone, not kill someone.
 Zaki: Why not? You kill people for a living?
 Vio: This is different. Edgar didn't personally kill those people. He was just executing the law.
-
-Zaki makes a plan to kill Edgar:
-He will sneak into Edgar's office, while Vio takes out any security guards.
+Without adherence to the law, what will we have? Chaos! Endless fighting! Needless death. Atonia fell to political schemes between all the various warlords. The warring mountain tribes got conquered one at at time by The Order. Galei only stands because it's territories stood united. We have a codified law, and we stick to it.
+Zaki: Galei is falling apart! Can't you see that?! Yes, it once used to be steady and safe, like the shields it manufactured. But look at it now! Even in our capitial city, so many are made homeless.
+Vio: That doesn't mean we should go off an assassinate leaders. Two wrongs don't make a right. I grew up in a place were we had to enforce our own justice. And violent means only leads to violent ends.
+Zaki: And violent delights *smirks* I see it in your eyes when you hold a knife. *reaches out to stroke her hair*  Your heart quickens when you bring it down. 
+Vio *holds her breath* what I feel..
+Zaki *moves closer, and whispers in her ear* and what do you feel?
+Vio *pushes him off* has nothing to do with how I choose to act.
+Zaki *is a little taken by her discipline*.
 
 ## The realization
 They both disagree on whether or not revenge is appropriate.
 Zaki realizes that he may have to do this alone.
 
 ## and so?
-Vio tries to stop him, and thinks the only way to do so it to pretend to go along with his plan.
+Zaki: Fine, I'll do this on my own.

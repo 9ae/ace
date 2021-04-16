@@ -2,7 +2,7 @@
 id: c9684134-34ce-4c81-9950-9ea898d93de6
 title: 'Anger'
 desc: ''
-updated: 1618296948889
+updated: 1618330104838
 created: 1618290799374
 ---
 Emotion/Colors
@@ -22,4 +22,4 @@ Breaks something out of anger.
 Unable to proccess that anger turned inward, Zaki redirects it out. Blaming it all on the PM for not pardoning them for their political action.
 
 ## and so?
-Decides to kill Edgar
+Decides to kill Edgar. Plan: He will sneak into Edgar's office, while Vio takes out any security guards.
