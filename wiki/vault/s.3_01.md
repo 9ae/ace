@@ -1,18 +1,18 @@
 ---
 id: 0909f7d8-4e1d-4b63-8e89-7f0c1313ebcc
-title: '3_01'
+title: 'Sicili stops the fight between Vio and Yule'
 desc: ''
-updated: 1618206339003
+updated: 1618545597585
 created: 1618206290242
 ---
 Emotion/Colors
 >
 
 # What happens
-- Jacques comes into the court yard and stops the fight.
-  - To announce the order is their new client.
-  - Vio is outraged, b/c she hates the Order
+"Vio!" Sicili calls out.
 
+- Sicili and Yule sees eachother for the first time, they didn't talk
+- Yule & Zaki's eyes meet and they are show with the diagonal antagonistic panelling.
 
 ##  Why it matters
 

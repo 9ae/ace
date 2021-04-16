@@ -1,8 +1,8 @@
 ---
 id: 1af2f791-05fd-414f-a1dd-ff55ef5c72f3
-title: '3_02'
+title: 'Sicili wants to find Vio'
 desc: ''
-updated: 1618206334768
+updated: 1618545346227
 created: 1618206290253
 ---
 Emotion/Colors
@@ -13,10 +13,13 @@ Emotion/Colors
   - They have a moment
 
 ##  Why it matters
-
+Sicili is worried about Vio, and is sure some bad happend.
 
 # Consequence
+They decide to retrace her steps and find what could have happend to Vio
 
 ## The realization
+They find an article of her clothing near the cathedral
 
 ## and so?
+So they go in looking for her, there's no security yet just construction barriers.

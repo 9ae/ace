@@ -1,15 +1,15 @@
 ---
 id: 0c258df7-1f89-44dc-91ef-c1cd85c9be7c
-title: 'Vio gets home'
+title: 'Vio showers'
 desc: ''
-updated: 1618328886062
+updated: 1618545420030
 created: 1618297260867
 ---
 Emotion/Colors
 >
 
 # What happens
-Vio comes home to worried Sicili.
+Vio & Sicili goes home to worried.
 
 ##  Why it matters
 Sicili is worried sick.

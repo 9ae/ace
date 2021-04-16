@@ -2,7 +2,7 @@
 id: dbb4804c-4121-4f4a-83e3-3bf6109ae3c3
 title: 'Zaki visits'
 desc: ''
-updated: 1618330671640
+updated: 1618545886792
 created: 1618297310049
 ---
 Emotion/Colors
@@ -33,11 +33,11 @@ Vio: This is different. Edgar didn't personally kill those people. He was just e
 Without adherence to the law, what will we have? Chaos! Endless fighting! Needless death. Atonia fell to political schemes between all the various warlords. The warring mountain tribes got conquered one at at time by The Order. Galei only stands because it's territories stood united. We have a codified law, and we stick to it.
 Zaki: Galei is falling apart! Can't you see that?! Yes, it once used to be steady and safe, like the shields it manufactured. But look at it now! Even in our capitial city, so many are made homeless.
 Vio: That doesn't mean we should go off an assassinate leaders. Two wrongs don't make a right. I grew up in a place were we had to enforce our own justice. And violent means only leads to violent ends.
-Zaki: And violent delights *smirks* I see it in your eyes when you hold a knife. *reaches out to stroke her hair*  Your heart quickens when you bring it down. 
-Vio *holds her breath* what I feel..
-Zaki *moves closer, and whispers in her ear* and what do you feel?
-Vio *pushes him off* has nothing to do with how I choose to act.
-Zaki *is a little taken by her discipline*.
+Zaki: And violent delights *smirks* I see it in your eyes when you held your knife against the crusader's throat. *reaches out to stroke her hair*  The hatred in your eyes, whatever he did to warrant it... it's personal... isn't it?
+Vio *holds her breath* It's none of your business!
+Zaki *moves closer, and whispers in her ear* 
+Vio *pushes him off* 
+Zaki *is a little taken by her actions*.
 
 ## The realization
 They both disagree on whether or not revenge is appropriate.

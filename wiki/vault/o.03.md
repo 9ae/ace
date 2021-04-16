@@ -2,7 +2,7 @@
 id: d684d675-4b69-4b05-b3bc-241d0168abce
 title: 'Chapter 3'
 desc: 'revenge. wc template 80'
-updated: 1618545150011
+updated: 1618545650696
 created: 1618194861906
 ---
 Summary
@@ -45,14 +45,13 @@ C: Zaki <3 Sicili / Vio <3 Zaki / Alan <3 Adolf
 
 ---
 
+![[s.3_03]]
+
 # Ordinary World (start with lack)
 
 ![[s.3_00]]
 ![[s.3_02]]
-
 ![[s.3_01]]
-![[s.3_03]]
-
 ![[s.3_04]]
 ![[s.3_05]]
 ![[s.3_06]]
