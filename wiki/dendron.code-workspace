@@ -15,8 +15,10 @@
         "editor.suggest.snippetsPreventQuickSuggestions": false,
         "editor.suggest.showSnippets": true,
         "editor.tabCompletion": "on",
-        "workbench.colorTheme": "Panda Syntax",
-        "editor.fontFamily": "'Comic Mono', 'Comic Shanns', 'Courier New', monospace"
+        "workbench.colorTheme": "Material Theme Palenight",
+        "editor.fontFamily": "'Comic Mono', 'Comic Shanns', 'Courier New', monospace",
+        "workbench.iconTheme": "eq-material-theme-icons-light",
+        "editor.fontSize": 14
     },
     "extensions": {
         "recommendations": [

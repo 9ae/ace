@@ -2,27 +2,59 @@
 id: d684d675-4b69-4b05-b3bc-241d0168abce
 title: 'Chapter 3'
 desc: 'revenge. wc template 80'
-updated: 1618545650696
+updated: 1618642099956
 created: 1618194861906
 ---
 Summary
-
-# Plot A: Zaki seeks revenge
 
 Vio & Yule working our their differences
 Now that we undersand what the world is like. How does the Order coming in change our view?
 We can initially present them as a savior, and Vio is one trying to convince people they aren'ts as good they seem.
 **theme: Not being believed**
 
-# Plot B: Zaki spending more time with the sisters
+# Plot A: Zaki seeks revenge
+Zaki's lie: revenge will bring him peace.
+1. What is the challenge they face where, Zaki using the lie and fails?
+   1. What is the first step they took seeking revenge? How has Zaki not found peace in that?
+   2. They kill the executioner. Zaki found out he was a single dad, and just orphaned his children. He had done to those kids what was done to him.
+2. Vio learns The Order is responsible for Atonia.It's took away every place she called home. Now they are here, she won't let that happen to Galei. They go to find Yule, to do what Zaki thought was to finish her fight with him. But instead she apologizes for attacking.
+3. What challenge teaches him the lesson? Seeing Vio choosing for forgive Yule, and asking her why.
+He learns, being with Sicili will bring him peace.
+
+# Plot B: Vio decides to work towards forgiving Yule
+- Vio discovers the order also made Atonia fall (responsible for her family's displacement)
+  - Vio is challenged in her belief of forgiveness
+- She wants The Order to go down
+  - Decides to forgive Yule, redirecting her rage towards Roderick
+- Reaches out to Yule and patch things up
+- Starts Vio spiral down towards self hatred for using Yule to bring down the Order.
 
 # Plot C: Alan & Adolf seeing eachother more frequently
+Zaki also spends more time with the sisters.
+Yihan pushes Ada to tell Alan about them. But Ada afraid Alan will react badly can't do it. In that respect she choose her brother over her lover.
 
-Seems like we can interview B & C's themes together.
+*How do we loop them into the main plot?*
+Help investigate for the Zaki>--Edgar plan.
+
+*How does Alan & Adolf gets closer?* Alan shows interest in his songs.
+Adolf stop charging him for his visits.
+Alan takes this as they might be boyfriends.
+
+*What are the advantages Vio has over Zaki that gives her the upper hand in their dynamtic?*
+- excellent deduction skills
+  - Not having tact. Say things as it is. Calls him out on his bs.
+- shocking acts of kindness
+- deep insights
+- willing to stand up for the oppressed. Sense of justice
+
+
+Seems like we can interview C's themes together.
 [Can't Help falling in love with you - A*Teens](https://open.spotify.com/track/1UhwEEZjWEimmK1GkJH1Z4?si=e6e6fab322e041bd)
 
 *How does Zaki deal with his mentor dying?*
 Does he blame Vio?
+
+
 
 ---
 
@@ -45,6 +77,8 @@ C: Zaki <3 Sicili / Vio <3 Zaki / Alan <3 Adolf
 
 ---
 
+# Teaser
+
 ![[s.3_03]]
 
 # Ordinary World (start with lack)
@@ -59,6 +93,7 @@ C: Zaki <3 Sicili / Vio <3 Zaki / Alan <3 Adolf
 # Inciting Incident (change)
 
 ![[s.3_07]]
+- [ ] Work out their convo here, they don't part ways but work together
 ![[s.3_08]]
 ![[s.3_09]]
 
@@ -79,11 +114,13 @@ C: Zaki <3 Sicili / Vio <3 Zaki / Alan <3 Adolf
 ![[s.]]
 
 # Second Plot Point (dark night of the soul)
+*How does Vio manage to convince him?*
+- *What does Zaki care about?* A chance with Sicili. She tells him about her faith, and how she will never approve of what they are doing?
 
 ![[s.]]
 
 # Final Battle (triumph-knowledge)
-
+Zaki decides to give up on his revenge quest at a chance to live a normal life with Sicili?
 ![[s.]]
 
 # Return to Ordinary World
