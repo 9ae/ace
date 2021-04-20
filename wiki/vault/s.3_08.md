@@ -2,7 +2,7 @@
 id: dbb4804c-4121-4f4a-83e3-3bf6109ae3c3
 title: 'Zaki visits'
 desc: ''
-updated: 1618641928022
+updated: 1618886253548
 created: 1618297310049
 ---
 Emotion/Colors
@@ -26,10 +26,10 @@ Zaki does say something similar to the pattern he used on her in chapter 1, and 
 
 # Consequence
 Vio realizes it. And pushs back.
-V:  I agreed to help you save someone, not kill someone.
+V:  I know you are trying to make meaning out of lost. Sometimes we lose things and people important to us and there's nothing we can do about it. Killing Edgar won't bring Halim back. I agreed to help you save someone, not kill someone.
 Zaki: Why not? You kill people for a living.
 Vio: That's different. Edgar didn't personally kill those people. He was just executing the law.
-Yihan: By executing them.
+Zaki: By executing them.
 Vio: True...Without adherence to the law, what will we have? Chaos! Endless fighting! Needless death. The warring mountain tribes got conquered one at at time by The Order. In Atonia where might was law, and it fell to schemes between all our warlords.
 
 **Vio finds out The Order is responsible for all her displacement** Is this too soon?
@@ -45,7 +45,8 @@ Zaki: And violent delights *smirks* I see it in your eyes when you held your kni
 Vio *holds her breath* It's none of your business!
 Zaki *moves closer, and whispers in her ear* 
 Vio *pushes him off* 
-Zaki *is a little taken by her actions*.
+Zaki *is a little taken by her actions*
+
 
 ## The realization
 They both disagree on whether or not revenge is appropriate.

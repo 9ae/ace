@@ -2,9 +2,23 @@
 id: d684d675-4b69-4b05-b3bc-241d0168abce
 title: 'Chapter 3'
 desc: 'revenge. wc template 80'
-updated: 1618778973521
+updated: 1618894699388
 created: 1618194861906
 ---
+# Goal
+Get readers to fall in love with the idea of Vio & Zaki. While showing Vio falling of Zaki in this chapter.
+
+- *What makes people fall in love?*
+  - *What made you fell for R hard and fast?*
+    - The assurance that you two alone can understand eachother's darkness. Accepting shame.
+      - finishing eachother's thoughts. Vio showing understanding towards Zaki's anger.
+      - Zaki bringing out Vio's denied desire to seek venegence.
+      - sharing eachother's dreams. They both had been displaced at a young age. They just want to be in a living situation where they don't have to hide. (Both work in the dark arts.)
+    - Sudden pursuit. Vio never had anyone like her. Zaki's intimacy makes her heart flutter, even if she didn't like him at first.
+      - Zaki too hadn't had much romantic action. They are both a little involve with the idea of having a partner.
+
+Through helping Zaki get venegence and Vio's Order stuff, they work together and the audience has chances to see them interact and buy into their dynamic.
+
 Summary
 
 Vio & Yule working our their differences
@@ -99,23 +113,24 @@ D: Zaki <3 Sicili / Vio <3 Zaki / Alan <3 Adolf
 
 # First Plot Point (point of no return)
 ![[s.3_10]]
-![[s.3_11]]
-Sicili ask Vio was Yule. they talk about The Order, and their relationship with their faith.
+![[s.3_12]]
+![[s.3_13]]
+![[s.3_14]]
  
 # First Pinch Point (win battle)
-Zaki feels empty
-![[s.]]
+They go to the cathedral to find Yule
 
 # Midpoint (shift from victim to warrior / game changer)
-Vio finds out what really happened in Atonia. [church & ICED scene](https://github.com/9ae/ace/blob/master/chapters/03.md#a-church-houses-the-homeless)
-She takes Zaki up on his offer, she'll help him kill Edgar if he can help her with the Order.
+Plan for getting information on the executioner.
+Touch base with the Harts, we see Zaki's drawing talent since he had commited his face to memory.
 ![[s.]]
 
 # Second Pinch Point (fail battle)
-They go to the cathedral to find Yule
+![[s.3_11]]
 ![[s.]]
 
 # Second Plot Point (dark night of the soul)
+~~Zaki feels empty~~
 *How does Vio manage to convince him?*
 - *What does Zaki care about?* A chance with Sicili. She tells him about her faith, and how she will never approve of what they are doing?
 V: The world is a violent place, find whatever bit of peace you have and perserve it at all cost.
