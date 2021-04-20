@@ -2,11 +2,11 @@
 id: 1af2f791-05fd-414f-a1dd-ff55ef5c72f3
 title: 'Sicili wants to find Vio'
 desc: ''
-updated: 1618545346227
+updated: 1618725982097
 created: 1618206290253
 ---
 Emotion/Colors
->
+> confusion, worry. dark grey, lots of mixed charcoal colors. picasso-esque abstract.
 
 # What happens
 - Zaki and Sicili sneak out of the riot

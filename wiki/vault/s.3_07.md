@@ -2,18 +2,17 @@
 id: 0c258df7-1f89-44dc-91ef-c1cd85c9be7c
 title: 'Vio showers'
 desc: ''
-updated: 1618545420030
+updated: 1618726400658
 created: 1618297260867
 ---
 Emotion/Colors
->
+> orange, pink. 
 
 # What happens
-Vio & Sicili goes home to worried.
+Vio & Sicili goes home, it is near sunset.
 
 ##  Why it matters
-Sicili is worried sick.
-Vio is completely tired.
+They are both tired is completely tired.
 
 # Consequence
 Vio goes to take a shower, she thinks about what happened with Yule showing up.

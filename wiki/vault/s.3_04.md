@@ -2,7 +2,7 @@
 id: 209e9062-b3a4-4a15-af8e-92ee9be953e5
 title: 'Zaki process what happened'
 desc: ''
-updated: 1618292526889
+updated: 1618726315409
 created: 1618208783091
 ---
 Emotion/Colors
@@ -17,7 +17,6 @@ Zaki is unable to comprehend what just happened.
 
 # Consequence
 *What do we show in Halim's apartment to retrigger the flashback?*
-
 
 ## The realization
 

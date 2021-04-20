@@ -2,7 +2,7 @@
 id: d684d675-4b69-4b05-b3bc-241d0168abce
 title: 'Chapter 3'
 desc: 'revenge. wc template 80'
-updated: 1618642099956
+updated: 1618778973521
 created: 1618194861906
 ---
 Summary
@@ -72,7 +72,8 @@ Both prev ch have been reactive. We need to make a more active plot.
 
 A: Zaki wants revenge, Vio tries to deter him.
 B: Vio tries to convince people the Order is bad news
-C: Zaki <3 Sicili / Vio <3 Zaki / Alan <3 Adolf
+C: The Order hurting Ixan citizens
+D: Zaki <3 Sicili / Vio <3 Zaki / Alan <3 Adolf
 
 
 ---
@@ -93,36 +94,37 @@ C: Zaki <3 Sicili / Vio <3 Zaki / Alan <3 Adolf
 # Inciting Incident (change)
 
 ![[s.3_07]]
-- [ ] Work out their convo here, they don't part ways but work together
 ![[s.3_08]]
 ![[s.3_09]]
 
-# First Plot Point (point of no return) 
-
-![[s.]]
+# First Plot Point (point of no return)
+![[s.3_10]]
+![[s.3_11]]
+Sicili ask Vio was Yule. they talk about The Order, and their relationship with their faith.
  
 # First Pinch Point (win battle)
-
+Zaki feels empty
 ![[s.]]
 
 # Midpoint (shift from victim to warrior / game changer)
-
+Vio finds out what really happened in Atonia. [church & ICED scene](https://github.com/9ae/ace/blob/master/chapters/03.md#a-church-houses-the-homeless)
+She takes Zaki up on his offer, she'll help him kill Edgar if he can help her with the Order.
 ![[s.]]
 
 # Second Pinch Point (fail battle)
-
+They go to the cathedral to find Yule
 ![[s.]]
 
 # Second Plot Point (dark night of the soul)
 *How does Vio manage to convince him?*
 - *What does Zaki care about?* A chance with Sicili. She tells him about her faith, and how she will never approve of what they are doing?
-
+V: The world is a violent place, find whatever bit of peace you have and perserve it at all cost.
 ![[s.]]
 
 # Final Battle (triumph-knowledge)
-Zaki decides to give up on his revenge quest at a chance to live a normal life with Sicili?
+Zaki decides to give up on his revenge quest at a chance to live a normal life with Sicili? Or push this to next chapter.
 ![[s.]]
 
 # Return to Ordinary World
-
+Ends with hint that Vio and Zaki might get together.
 ![[s.]]
