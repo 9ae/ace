@@ -2,7 +2,7 @@
 id: d684d675-4b69-4b05-b3bc-241d0168abce
 title: 'Chapter 3'
 desc: 'revenge. wc template 80'
-updated: 1618894699388
+updated: 1619045122875
 created: 1618194861906
 ---
 # Goal
@@ -118,12 +118,14 @@ D: Zaki <3 Sicili / Vio <3 Zaki / Alan <3 Adolf
 ![[s.3_14]]
  
 # First Pinch Point (win battle)
-They go to the cathedral to find Yule
+![[s.3_15]]
+![[s.3_16]]
+![[s.3_17]]
 
 # Midpoint (shift from victim to warrior / game changer)
 Plan for getting information on the executioner.
 Touch base with the Harts, we see Zaki's drawing talent since he had commited his face to memory.
-![[s.]]
+
 
 # Second Pinch Point (fail battle)
 ![[s.3_11]]
