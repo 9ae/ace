@@ -2,7 +2,7 @@
 id: d684d675-4b69-4b05-b3bc-241d0168abce
 title: 'Chapter 3'
 desc: 'revenge. wc template 80'
-updated: 1619045122875
+updated: 1619070088176
 created: 1618194861906
 ---
 # Goal
@@ -109,11 +109,13 @@ D: Zaki <3 Sicili / Vio <3 Zaki / Alan <3 Adolf
 
 ![[s.3_07]]
 ![[s.3_08]]
+![[s.3_18]]
 ![[s.3_09]]
 
 # First Plot Point (point of no return)
 ![[s.3_10]]
 ![[s.3_12]]
+![[s.3_19]]
 ![[s.3_13]]
 ![[s.3_14]]
  
@@ -123,9 +125,9 @@ D: Zaki <3 Sicili / Vio <3 Zaki / Alan <3 Adolf
 ![[s.3_17]]
 
 # Midpoint (shift from victim to warrior / game changer)
+![[s.3_20]]
 Plan for getting information on the executioner.
 Touch base with the Harts, we see Zaki's drawing talent since he had commited his face to memory.
-
 
 # Second Pinch Point (fail battle)
 ![[s.3_11]]
