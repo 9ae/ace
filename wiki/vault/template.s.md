@@ -1,14 +1,13 @@
-Emotion/Colors
->
+# Who
 
-# What happens
+# When
 
+# Where
 
-##  Why it matters
+# What
 
+# How
 
-# Consequence
+# Why
 
-## The realization
-
-## and so?
+# and so?

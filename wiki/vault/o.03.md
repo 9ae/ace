@@ -2,7 +2,7 @@
 id: d684d675-4b69-4b05-b3bc-241d0168abce
 title: 'Chapter 3'
 desc: 'revenge. wc template 80'
-updated: 1619070088176
+updated: 1619157440330
 created: 1618194861906
 ---
 # Goal
@@ -126,12 +126,10 @@ D: Zaki <3 Sicili / Vio <3 Zaki / Alan <3 Adolf
 
 # Midpoint (shift from victim to warrior / game changer)
 ![[s.3_20]]
-Plan for getting information on the executioner.
-Touch base with the Harts, we see Zaki's drawing talent since he had commited his face to memory.
+![[s.3_21]]
 
 # Second Pinch Point (fail battle)
 ![[s.3_11]]
-![[s.]]
 
 # Second Plot Point (dark night of the soul)
 ~~Zaki feels empty~~
