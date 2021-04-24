@@ -1,8 +1,8 @@
 ---
 id: 0edfe69e-087c-4651-a422-50098b0fdb91
-title: 'Ch 02'
+title: 'Rebirthing'
 desc: 'punatice justice'
-updated: 1618290049479
+updated: 1619306130601
 created: 1617830510853
 ---
 [Summary](https://github.com/9ae/ace/issues/268)

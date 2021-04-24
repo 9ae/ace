@@ -1,8 +1,8 @@
 ---
 id: d684d675-4b69-4b05-b3bc-241d0168abce
-title: 'Chapter 3'
+title: 'The end is where we begin'
 desc: 'revenge. wc template 80'
-updated: 1619281276786
+updated: 1619306269560
 created: 1618194861906
 ---
 # Goal

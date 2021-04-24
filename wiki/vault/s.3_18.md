@@ -2,7 +2,7 @@
 id: d5efe37c-e854-48da-9b56-4348aa588d40
 title: 'Alan as Adolf about his dreams'
 desc: ''
-updated: 1619072739876
+updated: 1619307128542
 created: 1619070004547
 ---
 Emotion/Colors
@@ -43,3 +43,10 @@ Their relationship transformed from business to potentially personal.
 ## and so?
 Adolf is touched that Alan is interested in him as a person.
 Alan is excited to find someone who likes him. He hasn't had the best luck in love. He is feeling so lucky to have found someone so fast.
+
+As Adolf is about to leave, Alan grabs his hand.
+Alan: Will you come back again? ... not for ... not necessarily.
+I just want to hear you play, (*motions violin case*) just for me
+Adolf: You're still asking for my time, my time I don't give freely. 
+Alan: I will play, how much would you charge?
+Adolf: Pay me in (*pulls Allan into a kiss*)
