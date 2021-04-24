@@ -2,7 +2,7 @@
 id: d684d675-4b69-4b05-b3bc-241d0168abce
 title: 'Chapter 3'
 desc: 'revenge. wc template 80'
-updated: 1619157440330
+updated: 1619281276786
 created: 1618194861906
 ---
 # Goal
@@ -132,16 +132,4 @@ D: Zaki <3 Sicili / Vio <3 Zaki / Alan <3 Adolf
 ![[s.3_11]]
 
 # Second Plot Point (dark night of the soul)
-~~Zaki feels empty~~
-*How does Vio manage to convince him?*
-- *What does Zaki care about?* A chance with Sicili. She tells him about her faith, and how she will never approve of what they are doing?
-V: The world is a violent place, find whatever bit of peace you have and perserve it at all cost.
-![[s.]]
-
-# Final Battle (triumph-knowledge)
-Zaki decides to give up on his revenge quest at a chance to live a normal life with Sicili? Or push this to next chapter.
-![[s.]]
-
-# Return to Ordinary World
-Ends with hint that Vio and Zaki might get together.
-![[s.]]
+![[s.3_22]]
