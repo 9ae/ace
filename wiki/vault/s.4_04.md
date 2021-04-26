@@ -1,19 +1,22 @@
 ---
 id: d30685ad-b0c0-4497-9458-5333eef59bdc
-title: 'Vio thinks Zaki is going to confess to liking her'
+title: 'Vio is trying to figure out how to bring down the Order'
 desc: ''
-updated: 1619307980090
+updated: 1619333214179
 created: 1619307810015
 ---
 
 # Who
+**Vio** disappointed from her talk with Zaki, tells herself there's more important things to focus on.
 
 # When
 
 # Where
 
 # What
-Zaki saids he has something to tell her, and wants to meet up
+Vio is faced with the decision of trying to bring down the Order, she is talking to Helga about it.
+Helga suggest that if she can get all the churches to break free of the Order, then it will lose it's power. Vio rejects that idea, because she does not think she has the power to convince anyone.
+
 
 # How
 
