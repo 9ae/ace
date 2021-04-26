@@ -2,7 +2,7 @@
 id: 10251d1c-1a7c-4c97-8367-58a79c12faac
 title: 'Dreaming the same dream'
 desc: ''
-updated: 1619333146675
+updated: 1619414134329
 created: 1619305943200
 ---
 Plot A: Alan tries to free Adolf from his contract
@@ -34,6 +34,7 @@ What if Vio was the one who ends up convincing Juliette to let void Adolf of his
  
 # First Pinch Point (win battle)
 ![[s.4_07]]
+(Should we do an mini-heist?)
 ![[s.4_04]]
 
 # Midpoint (shift from victim to warrior / game changer)
