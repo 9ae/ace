@@ -1,10 +1,13 @@
 ---
-id: 875b0b5c-54af-460a-aa60-6992d5cacb56
-title: Outline
+id: 23bf29c1-4467-4b1e-af04-24d02f2cf636
+title: Overall outline
 desc: ''
-updated: 1616904945887
-created: 1616902763695
+updated: 1619465747671
+created: 1619464298667
+stub: false
 ---
+
+> Oh! What if that was Roderick's plan all along, and he was pulling the strings to have the council executed. **In seeking revenge against Edgar for torturing Sicili, Vio ends up helping The Order gain more power.**
 
 1: Forgiveness, giving others the benefit of the doubt
 
