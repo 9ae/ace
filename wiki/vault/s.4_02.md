@@ -2,11 +2,9 @@
 id: c8797e15-7bad-4f77-b847-576fb95865b2
 title: 'Adolf meets Ada & Yihan'
 desc: ''
-updated: 1619336887863
+updated: 1619402837476
 created: 1619307514272
 ---
-
-- [ ] Show Alan & Ada's inter-dependence
 
 # Who
 **Alan** feels disappointed Adolf has to leave.
