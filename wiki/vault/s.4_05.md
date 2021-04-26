@@ -2,7 +2,7 @@
 id: 24bf6fa0-a6bf-45d1-b1e6-b9dda2e3df1e
 title: 'Vio & Zaki meet'
 desc: ''
-updated: 1619411280781
+updated: 1619414986602
 created: 1619307880690
 ---
 [issue](https://github.com/9ae/ace/issues/241)
@@ -29,7 +29,7 @@ Zaki is waiting at the bridge, when he first sees Vio comes, it's a pan up from 
 
 Vio: You wanted to talk to me about something?
 
-Zaki: Ah yes... `he too turns red` it's umm I don't know how to start.
+Zaki: Ah yes... `he too turns red` it's umm I feel weird for asking you this since you've helped me so much already.
 
 Vio: (something encouraging)
 
