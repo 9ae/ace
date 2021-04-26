@@ -2,9 +2,12 @@
 id: 10251d1c-1a7c-4c97-8367-58a79c12faac
 title: 'Dreaming the same dream'
 desc: ''
-updated: 1619414134329
+updated: 1619452218426
 created: 1619305943200
 ---
+
+Theme: Both Zaki and Alan project their assumptions and desires on another person
+
 Plot A: Alan tries to free Adolf from his contract
 Plot B: Vio/Zaki/Sicili drama
 Plot C: Yihan is upset Ada can't come forward to Alan
@@ -39,7 +42,8 @@ What if Vio was the one who ends up convincing Juliette to let void Adolf of his
 
 # Midpoint (shift from victim to warrior / game changer)
 
-![[s.4_20]]
+![[s.4_20]]  <-- cut since we did a similar scene before
+
 ![[s.4_08]]
 ![[s.4_09]]
 ![[s.4_10]]
