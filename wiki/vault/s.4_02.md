@@ -2,7 +2,7 @@
 id: c8797e15-7bad-4f77-b847-576fb95865b2
 title: 'Adolf meets Ada & Yihan'
 desc: ''
-updated: 1619402837476
+updated: 1619453254569
 created: 1619307514272
 ---
 
@@ -58,6 +58,8 @@ Alan goes to help Yihan clean up, and looks up "curry"?
 ```
 
 (back to go scene)
+
+Alan ask Yihan if he'll make good on his promise to take him and his first boyfriend to a gimmicky restuarnt.
 
 # Why
 

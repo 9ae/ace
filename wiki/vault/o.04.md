@@ -2,7 +2,7 @@
 id: 10251d1c-1a7c-4c97-8367-58a79c12faac
 title: 'Dreaming the same dream'
 desc: ''
-updated: 1619452218426
+updated: 1619454289630
 created: 1619305943200
 ---
 
@@ -21,6 +21,8 @@ How will Vio prepare for standing against The Order? What fear must she overcome
 Last chapter we learned about how she was trained to become a leader. And in the previous chapters we learned about her lack of social skills. She never thought that she could be a good leader for her family, something in this chapter challenges her in that.
 
 What if Vio was the one who ends up convincing Juliette to let void Adolf of his contract?
+
+- [ ] Get rid of the whole pimps are illegal thing.
 
 # Ordinary World (start with lack)
 
