@@ -2,7 +2,7 @@
 id: ef0c620c-7f0b-4e6d-bc7c-c43f9269b772
 title: 'Ada reports back to Alan'
 desc: ''
-updated: 1619454582900
+updated: 1619500318567
 created: 1619308250595
 ---
 
@@ -37,7 +37,7 @@ The garage in the org
 > Helga: "Well.." just then Ada and Yihan walk into the garage
 
 # How
-[Ada reports back with news](https://github.com/9ae/ace/blob/master/chapters/04.md#ada-comes-back-with-paper-work)
+[Ada reports back with news via a mirror comm.](https://github.com/9ae/ace/blob/master/chapters/04.md#ada-comes-back-with-paper-work)
 
 Instead of bond papers they, come back with a list of all Juliette's clients and who they see.
 

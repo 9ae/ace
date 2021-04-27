@@ -2,11 +2,12 @@
 id: 10251d1c-1a7c-4c97-8367-58a79c12faac
 title: 'Dreaming the same dream'
 desc: ''
-updated: 1619454289630
+updated: 1619501229458
 created: 1619305943200
 ---
 
 Theme: Both Zaki and Alan project their assumptions and desires on another person
+Alan and Vio are both in denial of their jealousy.
 
 Plot A: Alan tries to free Adolf from his contract
 Plot B: Vio/Zaki/Sicili drama
