@@ -2,7 +2,7 @@
 id: 0edfe69e-087c-4651-a422-50098b0fdb91
 title: 'Rebirthing'
 desc: 'punatice justice'
-updated: 1619306130601
+updated: 1619534263475
 created: 1617830510853
 ---
 [Summary](https://github.com/9ae/ace/issues/268)
@@ -51,6 +51,8 @@ Vio believes in forgiveness because she is afraid to lose any connection. She al
 - [ ] teaser scene with Zaki feels weird to be reflecting on a girl since his mentor just died.
   - What if we move the supposed teaser seen to be the night after he meet Sicili, but before the execution.
     - We'll have to find a chance to give him a cut on the cheek before the execution.
+- [ ] Kill Jacques withdrawing from gov scene. Keep them still under Edgar's payroll.
+- [ ] Remember to have the line where Zaki saids being Hastuit in Galei is like being a permnament guest in someone's house.
 
 # Ordinary World
 
