@@ -2,7 +2,7 @@
 id: 10251d1c-1a7c-4c97-8367-58a79c12faac
 title: 'Dreaming the same dream'
 desc: ''
-updated: 1619501229458
+updated: 1619508172733
 created: 1619305943200
 ---
 
@@ -45,8 +45,6 @@ What if Vio was the one who ends up convincing Juliette to let void Adolf of his
 
 # Midpoint (shift from victim to warrior / game changer)
 
-![[s.4_20]]  <-- cut since we did a similar scene before
-
 ![[s.4_08]]
 ![[s.4_09]]
 ![[s.4_10]]
@@ -69,5 +67,7 @@ What if Vio was the one who ends up convincing Juliette to let void Adolf of his
 
 # Return to Ordinary World
 
-![[s.4_19]]
 ![[s.4_21]]
+![[s.4_20]]
+![[s.4_19]]
+![[s.4_23]]
