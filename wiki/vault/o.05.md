@@ -2,7 +2,7 @@
 id: 1408995c-1947-4ac3-a937-6fbcb14d2f85
 title: '05'
 desc: ''
-updated: 1619536373818
+updated: 1619575990539
 created: 1619451389333
 ---
 
@@ -26,6 +26,7 @@ Why does Vio not want Sicili to be volunteering at the church?
   - Sicili explains that not all churches are supportive of The Order, and regardless of what the Order does the stuff she does in the name of faith is helping other people.
 
 - [ ] Build up through this chapter how Vio is suppressing her feelings
+- [ ] We need to build Yule's conflicts better in the previous chapters.
 
 # Ordinary World (start with lack)
 

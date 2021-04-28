@@ -2,7 +2,7 @@
 id: d684d675-4b69-4b05-b3bc-241d0168abce
 title: 'The end is where we begin'
 desc: 'revenge. wc template 80'
-updated: 1619534797540
+updated: 1619577400176
 created: 1618194861906
 ---
 # Goal
@@ -88,6 +88,7 @@ C: The Order hurting Ixan citizens
 D: Zaki <3 Sicili / Vio <3 Zaki / Alan <3 Adolf
 
 - [ ] After losing his place with the org, Zaki joins Vio's agency.
+- [ ] Ch5 repeats some of these flashbacks, so maybe cut these out.
 
 ---
 
