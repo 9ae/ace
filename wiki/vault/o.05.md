@@ -2,7 +2,7 @@
 id: 1408995c-1947-4ac3-a937-6fbcb14d2f85
 title: '05'
 desc: ''
-updated: 1619575990539
+updated: 1619740164490
 created: 1619451389333
 ---
 
@@ -35,13 +35,13 @@ Why does Vio not want Sicili to be volunteering at the church?
  
 # Inciting Incident (change)
 
-![[s.5_03]]
 ![[s.5_04]]
 ![[s.5_05]]
 
 # First Plot Point (point of no return) 
 
 ![[s.5_06]]
+![[s.5_03]]
  
 # First Pinch Point (win battle)
 

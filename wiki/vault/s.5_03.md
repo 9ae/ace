@@ -2,7 +2,7 @@
 id: 7efd6a68-03c4-46f3-9bb0-fec7c20915b6
 title: 'Debriefed on convicts sighted in Varin'
 desc: ''
-updated: 1619580406216
+updated: 1619740228257
 created: 1619535237234
 ---
 
@@ -17,11 +17,11 @@ Later in the same morning
 The agency
 
 # What
-Jacques saids there's a few convicts that went missing a few weeks ago after a bank heist. They were last spotted in the town of Varin/
+Jacques saids there's a few convicts that went missing a few weeks ago after a bank heist. They were last spotted in the town of Varin.
+Jacques sends Vio & Zaki to recover convicts.
 
 # How
-Jacques sends Vio & Zaki to recover convicts.
-Zaki gets a buzzer button that is suppose to alert gov agents.
+Jacques ask Zaki to stay after Vio leaves. He gives him a button, and says there is a chance Vio may not have the what it takes to get his job done. But he's gonna test Zaki if he will. Zaki gets a buzzer button that is suppose to alert gov agents.
 
 # Why
 Brings the characters to collide with Yule's mission.

@@ -2,7 +2,7 @@
 id: 49a730c6-8312-416b-b3d3-f3dd68209efb
 title: 'Vio changes her opinion on faith while walking home with Zaki'
 desc: ''
-updated: 1619581104311
+updated: 1619738745380
 created: 1619535757097
 ---
 [og scene](https://github.com/9ae/ace/blob/master/chapters/05.md#vio-promises-to-protect-sicili)
@@ -12,7 +12,7 @@ created: 1619535757097
 *Vio* feels drained from having to mask her emotions while standing there with Zaki
 
 # When
-In the afternoon, it's raining. Grey & red
+In the afternoon, it's raining. Grey & red.
 
 # Where
 Streets of Ixan
