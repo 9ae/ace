@@ -2,7 +2,7 @@
 id: 485c35d7-1ae6-4fbd-a8ed-7075e454ece8
 title: 'They bump into Yule at the train station'
 desc: ''
-updated: 1619740289301
+updated: 1619755927234
 created: 1619535965853
 ---
 # Who
@@ -22,6 +22,10 @@ While awaiting for their train Yule appears, and notices Vio. Zaki and Yule knoc
 
 # How
 Yule comments on how the train is no longer on time from [og scene](https://github.com/9ae/ace/blob/master/chapters/05.md#train-station). Zaki says it hasn't been on time for years.
+
+"What other entities are no longer under government control?" Yule ask.
+
+'*He's fishing looking for ways The Order can undermine Galei,*` Vio notes uncertain if she should redirect the conversation. While she is not fond of the current ruling bodies, she doesn't really want to see the only place she and her sister have been able to call home in _ years fall under The Order. Before she could say anything, the train finally churns up to the platform.
 
 # Why
 This is the first mission our 3 MCs are tackling together, even if each of them has different objectives.

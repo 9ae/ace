@@ -2,13 +2,15 @@
 id: 0909f7d8-4e1d-4b63-8e89-7f0c1313ebcc
 title: 'Sicili stops the fight between Vio and Yule'
 desc: ''
-updated: 1618726295173
+updated: 1619762860589
 created: 1618206290242
 ---
 Emotion/Colors
 > clarity. rivalry. connection. white, red, blue.
 
 # What happens
+Zaki throws a dagger at Yule while they fight. Vio turns to see Sicili and Zaki has arrived.
+
 "Vio!" Sicili calls out.
 
 - Sicili and Yule sees eachother for the first time, they didn't talk
