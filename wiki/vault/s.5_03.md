@@ -1,29 +1,34 @@
 ---
 id: 7efd6a68-03c4-46f3-9bb0-fec7c20915b6
-title: 'Debriefed on convicts sighted in Varin'
+title: 'Gov agent hires Zaki'
 desc: ''
-updated: 1619740228257
+updated: 1619849849806
 created: 1619535237234
 ---
 
 # Who
-*Vio* goes to work early in the morning angry.
 *Zaki* is excited for his first mission at the agency.
 
 # When
-Later in the same morning
+Next morning
 
 # Where
-The agency
+Zaki is at the train station before anyone arrives
 
 # What
-Jacques saids there's a few convicts that went missing a few weeks ago after a bank heist. They were last spotted in the town of Varin.
-Jacques sends Vio & Zaki to recover convicts.
+After buying tickets, an agent comes up to him.
+
+[Agent tells Zaki](https://github.com/9ae/ace/blob/master/chapters/05.md#gov-agent-visist-zaki) there's a few convicts that went missing a few weeks ago after a bank heist. They were last spotted in the town of Varin.
 
 # How
-Jacques ask Zaki to stay after Vio leaves. He gives him a button, and says there is a chance Vio may not have the what it takes to get his job done. But he's gonna test Zaki if he will. Zaki gets a buzzer button that is suppose to alert gov agents.
+He gives Zaki a button Zaki gets a buzzer button that is suppose to alert gov agents if they find the convicts.
 
 # Why
+
+*Why does Zaki agree?*
+- He knows that Zaki had been hunting down those who killed his parents, and can get him the last man.
+- **The agent knows who had set Halim up to take the fall.**
+
 Brings the characters to collide with Yule's mission.
 Time away gives us a chance to see our MC interact more directly with eachother and in a more collaborative setting.
 

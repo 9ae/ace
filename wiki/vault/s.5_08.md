@@ -2,7 +2,7 @@
 id: 485c35d7-1ae6-4fbd-a8ed-7075e454ece8
 title: 'They bump into Yule at the train station'
 desc: ''
-updated: 1619755927234
+updated: 1619849996272
 created: 1619535965853
 ---
 # Who
@@ -17,8 +17,9 @@ Early morning. The sun is super bright after all the cloulds had cleared way the
 The train station
 
 # What
-
 While awaiting for their train Yule appears, and notices Vio. Zaki and Yule knock eyes again.
+
+Yule ask what are they doing. Vio stumbles, and Zaki saids he's a painter, and heard Varin's church has the famous painting Prophet Rising.
 
 # How
 Yule comments on how the train is no longer on time from [og scene](https://github.com/9ae/ace/blob/master/chapters/05.md#train-station). Zaki says it hasn't been on time for years.

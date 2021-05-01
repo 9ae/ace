@@ -2,7 +2,7 @@
 id: d363b222-b65a-449e-83ec-77c679f38e14
 title: 'Sicili easedrops on the convo with Roderick'
 desc: ''
-updated: 1619579975184
+updated: 1619846503886
 created: 1619535071953
 ---
 [og scene](https://github.com/9ae/ace/blob/master/chapters/05.md#sicili-finds-out-all-churches-are-shut-down)
@@ -27,6 +27,8 @@ Then Roderick comes, Sicili hides to listen in. It seems Roderick is looking for
 
 # Why
 Hints at Roderick's obsession with his sister.
+
+She will tell Vio of what she heard.
 
 # and so?
 Sicili heads to the confession booth after hearing the confusing news about someone named Madelaine

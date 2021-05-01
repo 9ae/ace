@@ -2,7 +2,7 @@
 id: 1408995c-1947-4ac3-a937-6fbcb14d2f85
 title: '05'
 desc: ''
-updated: 1619740164490
+updated: 1619848037895
 created: 1619451389333
 ---
 
@@ -25,6 +25,10 @@ Why does Vio not want Sicili to be volunteering at the church?
 - Vio expanded her rage to all churches, because many still support the Order. And they killed her family.
   - Sicili explains that not all churches are supportive of The Order, and regardless of what the Order does the stuff she does in the name of faith is helping other people.
 
+---
+
+What if we instead of being assigned to retrieve convicts, Vio went to Varin because Sicili told Vio that Edgar is looking for something in Varin. She then summons Zaki's help. But Zaki alone gets assigned to investigate convicts. This will put Vio a little closer to bringing down the Order.
+
 - [ ] Build up through this chapter how Vio is suppressing her feelings
 - [ ] We need to build Yule's conflicts better in the previous chapters.
 
@@ -41,14 +45,15 @@ Why does Vio not want Sicili to be volunteering at the church?
 # First Plot Point (point of no return) 
 
 ![[s.5_06]]
-![[s.5_03]]
  
 # First Pinch Point (win battle)
 
 ![[s.5_07]]
+![[s.5_16]]
 
 # Midpoint (shift from victim to warrior / game changer)
 
+![[s.5_03]]
 ![[s.5_08]]
 ![[s.5_09]]
 
