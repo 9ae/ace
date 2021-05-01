@@ -2,7 +2,7 @@
 id: 1408995c-1947-4ac3-a937-6fbcb14d2f85
 title: '05'
 desc: ''
-updated: 1619848037895
+updated: 1619887126445
 created: 1619451389333
 ---
 
@@ -67,7 +67,8 @@ What if we instead of being assigned to retrieve convicts, Vio went to Varin bec
 ![[s.5_13]]
 
 # Final Battle (triumph-knowledge)
-
+![[s.5_17]]
+![[s.5_18]]
 ![[s.5_14]]
 
 # Return to Ordinary World
