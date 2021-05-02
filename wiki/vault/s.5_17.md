@@ -2,7 +2,7 @@
 id: 75d086e9-e60c-4af4-b24b-d7432f25d6b0
 title: 'Towns people vs sheriff'
 desc: ''
-updated: 1619888104950
+updated: 1619933107321
 created: 1619887106507
 ---
 
@@ -47,4 +47,4 @@ woman: Our town jail has twelve cells; see if you can contain us all. Officer my
 civil disobidience as moral obligation for unjust systems and alws
 
 # and so?
-The whole down raises up against the sheriff
+The whole town raises up against the sheriff
