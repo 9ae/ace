@@ -7,6 +7,8 @@ created: 1619464298667
 stub: false
 ---
 
+- [ ] What if we completely cut out the Harts?
+
 > Oh! What if that was Roderick's plan all along, and he was pulling the strings to have the council executed. **In seeking revenge against Edgar for torturing Sicili, Vio ends up helping The Order gain more power.**
 
 1: Forgiveness, giving others the benefit of the doubt

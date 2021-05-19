@@ -5,6 +5,34 @@ desc: ''
 updated: 1619305968589
 created: 1617073073792
 ---
+
+# Goals
+
+Think about this as a showcase, put your best foot forward.
+This should be a microsm of the entire first book.
+
+## Questions
+
+### Starting questions
+
+### Ending question
+
+## Themes
+Forgiveness and faith
+
+## Character
+1. Strong character intros
+2. Showcase Vio as an autistic girl
+   1. living without awareness of her problems
+   2. resources to help her survive
+3. Bring Zaki into the story
+
+## Scene
+- I am very good at setting cinematic scenes
+- dark & whimiscle tone
+
+---
+
 # Describe your set-up.
 
 ![[s.1_00]]
@@ -13,7 +41,6 @@ created: 1617073073792
 ![[s.1_03]]
 
 # Describe your inciting incident.
-> In one paragraph, describe the event that causes your protagonist to begin their adventure. Think: "The moment everything changed was when..."
 
 ![[s.1_04]]
 ![[s.1_05]]
