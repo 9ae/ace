@@ -8,14 +8,45 @@ created: 1617073073792
 
 # Goals
 
+**Treat this as a short story**
+- Inciting incident
+- Work through conflict
+- Learn from conflict
+- Apply learning
+- Hope (lead into the next chapter)
+
 Think about this as a showcase, put your best foot forward.
 This should be a microsm of the entire first book.
+
+Must have:
+- Vio & Zaki starting out in opposition to eachother
+- Finding common ground towards the end
+
+**Inciting incident for book 1 that gets psuedo resolved**
+
+What are Vio's CTAs?
+- To defend Sicili
+  - Lessa's murder
+- Risk of being uprooted again
+
+## Plotting
+Draw the link from the first scene (Vio murdering 12 people in cold blood) to last scene (Vio rescuing Zaki even though he did a horrible thing).
+- Zaki did something to trigger Vio's CTA.
+- Zaki's reason for doing X is related to his greater plot of wanting revenge for his parents death.. too much tragic back story?
+- Vio finds it is Zaki who did it
+- But decides to forgive him because _.
 
 ## Questions
 
 ### Starting questions
+- What does it mean to have faith in a time when your religious institutions are corrupt?
+- What does it mean to forgive and not forget?
+- What are the internal changes and external acceptences for forgivenss to be complete?
+- 
 
 ### Ending question
+- When is forgiveness the incorrect choice? Can you over-forgive? When is revenge justified?
+- Are you forgiving for imagine or genuine forgiveness?
 
 ## Themes
 Forgiveness and faith

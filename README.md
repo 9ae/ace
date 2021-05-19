@@ -8,6 +8,8 @@ The character cope with the gap between their beliefs and reality.
 - Ultraviole
 - Ultraviolet Viles
 - A study of limerence
+- The Dark Contract
+- Ultraviolet Delights
 
 Erik never moves
 

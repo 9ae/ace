@@ -11,6 +11,37 @@ stub: false
 
 > Oh! What if that was Roderick's plan all along, and he was pulling the strings to have the council executed. **In seeking revenge against Edgar for torturing Sicili, Vio ends up helping The Order gain more power.**
 
+Book 1 EP:
+- **Vio** takes leadership position
+- **Zaki** gets revenge, but rejected by Sicili
+- **Yule** recognizes that Roderick is corrupt
+
+What if we primarily focus on:
+1. Forgivenss v Revenge: Vio v Zaki
+2. Faith v Religion: Sicili v Yule
+
+Ending:
+1. Revenge only breeds more pain
+2. You can still have faith, even without religious institutions
+
+What if the midpoint plot twist is discovering Edgars a puppet corpse.
+After the reveal, The Order moves in to fill the power vaccum and incite a civil war.
+The council scrambles to get it's act together, Vio becomes leader of a terrorist organization.
+
+**Vio** internal conflict is she wants love, but is so afraid of rejection she constantly puts herself out of the running.
+
+1. Vio & Zaki meet. World build Ixan
+2. Learn more about Zaki. World build Galei
+3. Dive more into Vio's past with Yule. World build the Order
+4. Conflicts with the faith and the order. World build the religion
+5. Turning point
+6. Arc mission. inciting incident
+7. Rising conflict
+8. Reach the darkest hour
+9. Final Battle & Fall
+
+---
+
 1: Forgiveness, giving others the benefit of the doubt
 
 What happens? **Vio & Zaki meet**
