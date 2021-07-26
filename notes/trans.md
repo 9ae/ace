@@ -1,3 +1,17 @@
+Belief in beings beyond sense and experience. Cartesian stripping of al that is. Or faith in a non-material world.
+
+Platonic forms, the ideal essessence of an object.
+
+Contrapoint: Why would you believe something exisit if you don't have any means of detecting it?
+
+
+
+# Kant
+
+Transcendental argument (anti-skeptical).
+
+uhh sounds like pseudo-science
+
 # Emerson
 
 Holding diametrically oppositing views a byproduct of the dynamic nature of culture and of the individual. More interested in the process of thinking. Interested in the soul for its ability to act, in its ability to change. 
@@ -89,7 +103,7 @@ Death is a possibility, he will hit hard bottom but he will be dead by then. Our
 
 # Whitman
 
-unlike Emerson and Thoreau is much more interested in people, and more atune to one's body. Breaking free from their platonic notion that the body body is a prison.
+unlike Emerson and Thoreau is much more interested in people, and more atune to one's body. Breaking free from their platonic notion that the body is a prison.
 
 Develops a larger than life persona, constantly reworking his poetry. Constantly re-inventing himself.
 
