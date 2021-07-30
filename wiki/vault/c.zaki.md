@@ -32,7 +32,7 @@ As a reader, I relate to Zaki in the way he idealizes his love interest
 - What determins something you would say a lot?
 - Could be a nervous habit? When do they say it?
 - What is an feeling they would express alot? "Cool beans" means 'whatever', so that's apathy.
-> 
+> Zaki is ultimately after Jacques, before he discover Edgar ordered the execution.
 
 ---
 # Theme
